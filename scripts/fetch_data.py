@@ -125,12 +125,12 @@ def fetch_state():
 
     results = []
     page = 1
-    max_pages = 5
+    max_pages = 10
     headers = {"X-API-KEY": OPENSTATES_API_KEY}
 
     while page <= max_pages:
         params = urllib.parse.urlencode({
-            "q": "data center",
+            "q": '"data center"',
             "sort": "updated_desc",
             "per_page": 20,
             "page": page,
@@ -148,6 +148,13 @@ def fetch_state():
             break
 
         for bill in results_page:
+            title = (bill.get("title") or "").strip()
+            # Open States' full-text search can match bills where "data" and
+            # "center" each appear separately in the full bill text, not as a
+            # phrase. Only keep bills that actually name a data center in the
+            # title so the listing stays relevant.
+            if not KEYWORD_RE.search(title):
+                continue
             jurisdiction = (bill.get("jurisdiction") or {}).get("name", "")
             org = (bill.get("from_organization") or {}).get("name", "State Legislature")
             sources = bill.get("sources") or []
@@ -156,7 +163,7 @@ def fetch_state():
                 "id": "state-" + bill.get("id", str(len(results))),
                 "level": "state",
                 "state": jurisdiction,
-                "title": (bill.get("title") or "").strip(),
+                "title": title,
                 "body": org,
                 "status": bill.get("classification", ["bill"])[0].capitalize() if bill.get("classification") else "Bill",
                 "date": bill.get("latest_action_date", ""),
