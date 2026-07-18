@@ -322,11 +322,46 @@ def fetch_opposition():
 # Main
 # ---------------------------------------------------------------------------
 
+def load_existing(filename):
+    path = os.path.join(DATA_DIR, filename)
+    try:
+        with open(path, "r", encoding="utf-8") as f:
+            return json.load(f)
+    except (FileNotFoundError, json.JSONDecodeError):
+        return []
+
+
+def merge_regulations(new_federal, new_state, local):
+    """
+    A transient API failure on any one run shouldn't erase bills that were
+    successfully fetched on a previous run. Keep existing federal/state
+    entries and let fresh ones with the same id overwrite them; local
+    ordinances are always fully replaced from the hand-curated seed file.
+    """
+    existing = load_existing("regulations.json")
+    merged = {r["id"]: r for r in existing if r.get("level") in ("federal", "state")}
+    for r in new_federal + new_state:
+        merged[r["id"]] = r
+    return list(merged.values()) + local
+
+
+def merge_opposition(new_items, max_items=300):
+    """Same idea as merge_regulations: don't let a failed GDELT call blank
+    out headlines a previous run already found. Dedupe by URL, newest
+    first, capped so the file doesn't grow unbounded."""
+    existing = load_existing("opposition.json")
+    merged = {item["url"]: item for item in existing if item.get("url")}
+    for item in new_items:
+        merged[item["url"]] = item
+    items = sorted(merged.values(), key=lambda i: i.get("publishedDate") or "", reverse=True)
+    return items[:max_items]
+
+
 def main():
     os.makedirs(DATA_DIR, exist_ok=True)
 
-    regulations = fetch_federal() + fetch_state() + load_local_seed()
-    opposition = fetch_opposition()
+    regulations = merge_regulations(fetch_federal(), fetch_state(), load_local_seed())
+    opposition = merge_opposition(fetch_opposition())
 
     with open(os.path.join(DATA_DIR, "regulations.json"), "w", encoding="utf-8") as f:
         json.dump(regulations, f, indent=2, ensure_ascii=False)
