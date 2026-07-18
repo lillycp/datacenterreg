@@ -93,6 +93,10 @@ def fetch_federal():
         log("Congress.gov: CONGRESS_API_KEY not set, skipping federal bills.")
         return []
 
+    log("Congress.gov: using key of length {}, starting '{}', ending '{}'.".format(
+        len(CONGRESS_API_KEY), CONGRESS_API_KEY[:3], CONGRESS_API_KEY[-3:]
+    ))
+
     results = []
     for congress in CONGRESSES:
         for bill_type in BILL_TYPES:
