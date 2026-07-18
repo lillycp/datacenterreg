@@ -20,6 +20,7 @@ import json
 import os
 import re
 import sys
+import time
 import urllib.error
 import urllib.parse
 import urllib.request
@@ -51,10 +52,26 @@ def log(msg):
     print(msg, file=sys.stderr)
 
 
-def http_get_json(url, headers=None, timeout=20):
+RETRYABLE_STATUSES = {429, 500, 502, 503, 504}
+
+
+def http_get_json(url, headers=None, timeout=20, retries=3, backoff=5):
     req = urllib.request.Request(url, headers=headers or {})
-    with urllib.request.urlopen(req, timeout=timeout) as resp:
-        return json.loads(resp.read().decode("utf-8"))
+    last_error = None
+    for attempt in range(retries):
+        try:
+            with urllib.request.urlopen(req, timeout=timeout) as resp:
+                return json.loads(resp.read().decode("utf-8"))
+        except urllib.error.HTTPError as e:
+            last_error = e
+            if e.code not in RETRYABLE_STATUSES or attempt == retries - 1:
+                raise
+        except (urllib.error.URLError, TimeoutError) as e:
+            last_error = e
+            if attempt == retries - 1:
+                raise
+        time.sleep(backoff * (attempt + 1))
+    raise last_error
 
 
 # ---------------------------------------------------------------------------
@@ -88,6 +105,8 @@ def fetch_federal():
             except (urllib.error.URLError, urllib.error.HTTPError, TimeoutError) as e:
                 log("Congress.gov: request failed for {}/{}: {}".format(congress, bill_type, e))
                 continue
+            finally:
+                time.sleep(1)
 
             for bill in data.get("bills", []):
                 title = bill.get("title") or ""
@@ -142,6 +161,8 @@ def fetch_state():
         except (urllib.error.URLError, urllib.error.HTTPError, TimeoutError) as e:
             log("Open States: request failed on page {}: {}".format(page, e))
             break
+        finally:
+            time.sleep(1)
 
         results_page = data.get("results", [])
         if not results_page:
