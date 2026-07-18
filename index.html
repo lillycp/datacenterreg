@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Data Center Regulation Tracker</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+  <div class="header-inner">
+    <h1>Data Center Regulation Tracker</h1>
+    <p class="subtitle">Federal, state, and local regulations &amp; legislation affecting data centers</p>
+    <p class="updated" id="lastUpdated">Loading last-updated time&hellip;</p>
+  </div>
+</header>
+
+<nav class="tabs" role="tablist">
+  <button class="tab-btn active" id="tab-btn-regulations" role="tab" aria-selected="true" aria-controls="panel-regulations">
+    Regulations &amp; Legislation
+  </button>
+  <button class="tab-btn" id="tab-btn-opposition" role="tab" aria-selected="false" aria-controls="panel-opposition">
+    Opposition Headlines
+  </button>
+</nav>
+
+<main>
+  <section id="panel-regulations" class="panel active" role="tabpanel" aria-labelledby="tab-btn-regulations">
+    <div class="controls">
+      <label for="stateFilter">
+        Filter by state
+        <select id="stateFilter">
+          <option value="all">All states</option>
+        </select>
+      </label>
+      <label for="sortOrder">
+        Sort by
+        <select id="sortOrder">
+          <option value="recent">Most recent first</option>
+          <option value="state">State (A&ndash;Z)</option>
+        </select>
+      </label>
+      <span class="result-count" id="regCount"></span>
+    </div>
+
+    <div class="table-wrap">
+      <table id="regTable">
+        <thead>
+          <tr>
+            <th>State</th>
+            <th>Regulation / Legislation</th>
+            <th>Approving Body</th>
+            <th>Status</th>
+            <th>Date</th>
+          </tr>
+        </thead>
+        <tbody id="regTableBody">
+          <tr><td colspan="5" class="loading-row">Loading regulations&hellip;</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </section>
+
+  <section id="panel-opposition" class="panel" role="tabpanel" aria-labelledby="tab-btn-opposition">
+    <div class="controls">
+      <span class="result-count" id="oppCount"></span>
+    </div>
+    <ul class="headline-list" id="oppList">
+      <li class="loading-row">Loading headlines&hellip;</li>
+    </ul>
+  </section>
+</main>
+
+<footer>
+  <p>Data refreshed automatically once per day. Federal bills via Congress.gov, state bills via
+     Open States, local ordinances hand-curated, opposition headlines via GDELT.</p>
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>

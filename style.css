@@ -1,0 +1,233 @@
+:root {
+  --navy: #1a2744;
+  --teal: #2a7f7f;
+  --teal-light: #e6f4f4;
+  --gold: #c9a84c;
+  --light-bg: #f7f8fb;
+  --text: #222;
+  --muted: #666;
+  --border: #dde2ed;
+  --red: #a83232;
+}
+
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+  background: var(--light-bg);
+  color: var(--text);
+  line-height: 1.5;
+}
+
+header {
+  background: var(--navy);
+  color: #fff;
+  padding: 40px 24px 28px;
+  text-align: center;
+}
+
+.header-inner h1 {
+  font-size: 1.9rem;
+  letter-spacing: 0.02em;
+  margin-bottom: 6px;
+}
+
+.subtitle {
+  color: #b7c3dd;
+  font-size: 1rem;
+  margin-bottom: 10px;
+}
+
+.updated {
+  font-size: 0.82rem;
+  color: var(--gold);
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+
+.tabs {
+  display: flex;
+  justify-content: center;
+  gap: 4px;
+  background: #fff;
+  border-bottom: 1px solid var(--border);
+  padding: 0 16px;
+}
+
+.tab-btn {
+  background: none;
+  border: none;
+  padding: 16px 22px;
+  font-size: 0.95rem;
+  font-weight: 600;
+  color: var(--muted);
+  cursor: pointer;
+  border-bottom: 3px solid transparent;
+  transition: color 0.15s, border-color 0.15s;
+}
+
+.tab-btn:hover { color: var(--navy); }
+
+.tab-btn.active {
+  color: var(--navy);
+  border-bottom-color: var(--teal);
+}
+
+main {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 24px 16px 48px;
+}
+
+.panel { display: none; }
+.panel.active { display: block; }
+
+.controls {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 20px;
+  margin-bottom: 16px;
+}
+
+.controls label {
+  font-size: 0.82rem;
+  font-weight: 600;
+  color: var(--muted);
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.controls select {
+  font-size: 0.92rem;
+  padding: 7px 10px;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  background: #fff;
+  color: var(--text);
+  min-width: 160px;
+}
+
+.result-count {
+  font-size: 0.85rem;
+  color: var(--muted);
+  margin-left: auto;
+}
+
+.table-wrap {
+  background: #fff;
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  overflow-x: auto;
+  box-shadow: 0 2px 10px rgba(26,39,68,0.05);
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.9rem;
+}
+
+th, td {
+  text-align: left;
+  padding: 12px 16px;
+  border-bottom: 1px solid var(--border);
+  vertical-align: top;
+}
+
+th {
+  background: var(--teal-light);
+  color: var(--navy);
+  font-size: 0.78rem;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  position: sticky;
+  top: 0;
+}
+
+tbody tr:hover { background: #fafbfd; }
+tbody tr:last-child td { border-bottom: none; }
+
+td a {
+  color: var(--teal);
+  text-decoration: none;
+  font-weight: 600;
+}
+td a:hover { text-decoration: underline; }
+
+.badge {
+  display: inline-block;
+  padding: 2px 9px;
+  border-radius: 20px;
+  font-size: 0.72rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+}
+.badge-federal { background: #e3ecfb; color: #1a4694; }
+.badge-state { background: var(--teal-light); color: var(--teal); }
+.badge-local { background: #fbe9d9; color: #a5641a; }
+
+.status-pill {
+  font-size: 0.78rem;
+  color: var(--muted);
+}
+
+.loading-row, .empty-row {
+  text-align: center;
+  color: var(--muted);
+  padding: 32px 16px;
+}
+
+.headline-list {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.headline-list li {
+  background: #fff;
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 16px 18px;
+  box-shadow: 0 2px 10px rgba(26,39,68,0.05);
+}
+
+.headline-title {
+  font-size: 1rem;
+  font-weight: 700;
+  color: var(--navy);
+  text-decoration: none;
+}
+.headline-title:hover { color: var(--teal); }
+
+.headline-meta {
+  margin-top: 6px;
+  font-size: 0.8rem;
+  color: var(--muted);
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+.headline-snippet {
+  margin-top: 8px;
+  font-size: 0.88rem;
+  color: #444;
+}
+
+footer {
+  text-align: center;
+  font-size: 0.78rem;
+  color: var(--muted);
+  padding: 20px 16px 40px;
+}
+
+@media (max-width: 640px) {
+  .header-inner h1 { font-size: 1.4rem; }
+  .controls { gap: 12px; }
+  .result-count { margin-left: 0; }
+}
