@@ -195,7 +195,7 @@ def fetch_state():
         })
         url = "https://v3.openstates.org/bills?" + params
         try:
-            data = http_get_json(url, headers=headers)
+            data = http_get_json(url, headers=headers, timeout=45)
         except (urllib.error.URLError, urllib.error.HTTPError, TimeoutError) as e:
             log("Open States: request failed on page {}: {}".format(page, e))
             break
