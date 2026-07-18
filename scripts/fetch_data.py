@@ -106,7 +106,16 @@ def fetch_federal():
             ).format(congress=congress, bill_type=bill_type, key=urllib.parse.quote(CONGRESS_API_KEY))
             try:
                 data = http_get_json(url)
-            except (urllib.error.URLError, urllib.error.HTTPError, TimeoutError) as e:
+            except urllib.error.HTTPError as e:
+                try:
+                    body = e.read().decode("utf-8", errors="replace")
+                except Exception:
+                    body = "<no body>"
+                log("Congress.gov: request failed for {}/{}: {} {} -- {}".format(
+                    congress, bill_type, e.code, e.reason, body
+                ))
+                continue
+            except (urllib.error.URLError, TimeoutError) as e:
                 log("Congress.gov: request failed for {}/{}: {}".format(congress, bill_type, e))
                 continue
             finally:
