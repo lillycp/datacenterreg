@@ -21,15 +21,6 @@ jobs:
         with:
           python-version: "3.x"
 
-      - name: Diagnose Congress.gov access (temporary)
-        env:
-          CONGRESS_API_KEY: ${{ secrets.CONGRESS_API_KEY }}
-        run: |
-          echo "--- curl test ---"
-          curl -s -o /tmp/curl_body.txt -w "HTTP status: %{http_code}\n" "https://api.congress.gov/v3/bill/119/hr?api_key=${CONGRESS_API_KEY}&format=json&limit=1"
-          echo "--- body (first 500 chars) ---"
-          head -c 500 /tmp/curl_body.txt
-
       - name: Fetch fresh data
         env:
           CONGRESS_API_KEY: ${{ secrets.CONGRESS_API_KEY }}

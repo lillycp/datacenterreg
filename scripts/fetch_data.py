@@ -19,6 +19,7 @@ failing the whole run, so the script always produces valid output.
 import json
 import os
 import re
+import subprocess
 import sys
 import time
 import urllib.error
@@ -74,6 +75,43 @@ def http_get_json(url, headers=None, timeout=20, retries=3, backoff=5):
     raise last_error
 
 
+class HttpStatusError(RuntimeError):
+    def __init__(self, status_code, body):
+        self.status_code = status_code
+        super().__init__("HTTP {}: {}".format(status_code, body[:300]))
+
+
+def http_get_json_via_curl(url, timeout=20, retries=3, backoff=5):
+    """
+    Congress.gov's Cloudflare protection blocks Python's urllib client
+    (its TLS/HTTP fingerprint gets flagged) even with a valid API key, but
+    plain `curl` gets through fine from the same network. Shell out to curl
+    for Congress.gov requests specifically.
+    """
+    last_error = None
+    for attempt in range(retries):
+        try:
+            proc = subprocess.run(
+                ["curl", "-s", "-w", "\n%{http_code}", "--max-time", str(timeout), url],
+                capture_output=True, text=True, check=True,
+            )
+            body, _, status_code = proc.stdout.rpartition("\n")
+            status_code = int(status_code)
+            if status_code >= 400:
+                raise HttpStatusError(status_code, body)
+            return json.loads(body)
+        except subprocess.CalledProcessError as e:
+            last_error = e
+            if attempt == retries - 1:
+                raise
+        except HttpStatusError as e:
+            last_error = e
+            if e.status_code not in RETRYABLE_STATUSES or attempt == retries - 1:
+                raise
+        time.sleep(backoff * (attempt + 1))
+    raise last_error
+
+
 # ---------------------------------------------------------------------------
 # Federal: Congress.gov
 # ---------------------------------------------------------------------------
@@ -93,10 +131,6 @@ def fetch_federal():
         log("Congress.gov: CONGRESS_API_KEY not set, skipping federal bills.")
         return []
 
-    log("Congress.gov: using key of length {}, starting '{}', ending '{}'.".format(
-        len(CONGRESS_API_KEY), CONGRESS_API_KEY[:3], CONGRESS_API_KEY[-3:]
-    ))
-
     results = []
     for congress in CONGRESSES:
         for bill_type in BILL_TYPES:
@@ -105,17 +139,8 @@ def fetch_federal():
                 "?api_key={key}&format=json&limit=250&sort=updateDate+desc"
             ).format(congress=congress, bill_type=bill_type, key=urllib.parse.quote(CONGRESS_API_KEY))
             try:
-                data = http_get_json(url)
-            except urllib.error.HTTPError as e:
-                try:
-                    body = e.read().decode("utf-8", errors="replace")
-                except Exception:
-                    body = "<no body>"
-                log("Congress.gov: request failed for {}/{}: {} {} -- {}".format(
-                    congress, bill_type, e.code, e.reason, body
-                ))
-                continue
-            except (urllib.error.URLError, TimeoutError) as e:
+                data = http_get_json_via_curl(url)
+            except (subprocess.CalledProcessError, HttpStatusError, ValueError) as e:
                 log("Congress.gov: request failed for {}/{}: {}".format(congress, bill_type, e))
                 continue
             finally:
