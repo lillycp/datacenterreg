@@ -132,40 +132,57 @@ def fetch_federal():
         return []
 
     results = []
+    max_pages_per_type = 30  # up to 7,500 bills per congress/type, covering a full two-year term
+
     for congress in CONGRESSES:
         for bill_type in BILL_TYPES:
-            url = (
-                "https://api.congress.gov/v3/bill/{congress}/{bill_type}"
-                "?api_key={key}&format=json&limit=250&sort=updateDate+desc"
-            ).format(congress=congress, bill_type=bill_type, key=urllib.parse.quote(CONGRESS_API_KEY))
-            try:
-                data = http_get_json_via_curl(url)
-            except (subprocess.CalledProcessError, HttpStatusError, ValueError) as e:
-                log("Congress.gov: request failed for {}/{}: {}".format(congress, bill_type, e))
-                continue
-            finally:
-                time.sleep(1)
+            offset = 0
+            for _ in range(max_pages_per_type):
+                url = (
+                    "https://api.congress.gov/v3/bill/{congress}/{bill_type}"
+                    "?api_key={key}&format=json&limit=250&offset={offset}"
+                ).format(
+                    congress=congress, bill_type=bill_type, offset=offset,
+                    key=urllib.parse.quote(CONGRESS_API_KEY),
+                )
+                try:
+                    data = http_get_json_via_curl(url)
+                except (subprocess.CalledProcessError, HttpStatusError, ValueError) as e:
+                    log("Congress.gov: request failed for {}/{} at offset {}: {}".format(
+                        congress, bill_type, offset, e
+                    ))
+                    break
+                finally:
+                    time.sleep(1)
 
-            for bill in data.get("bills", []):
-                title = bill.get("title") or ""
-                if not KEYWORD_RE.search(title):
-                    continue
-                latest_action = bill.get("latestAction", {}) or {}
-                number = bill.get("number", "")
-                results.append({
-                    "id": "federal-{}-{}-{}".format(congress, bill_type, number),
-                    "level": "federal",
-                    "state": "Federal",
-                    "title": title.strip(),
-                    "body": CHAMBER_NAME.get(bill_type, "U.S. Congress"),
-                    "status": latest_action.get("text", "Introduced"),
-                    "date": latest_action.get("actionDate") or bill.get("updateDate", ""),
-                    "sourceUrl": "https://www.congress.gov/bill/{}th-congress/{}/{}".format(
-                        congress,
-                        "house-bill" if bill_type in ("hr", "hjres") else "senate-bill",
-                        number,
-                    ),
-                })
+                bills = data.get("bills", [])
+                if not bills:
+                    break
+
+                for bill in bills:
+                    title = bill.get("title") or ""
+                    if not KEYWORD_RE.search(title):
+                        continue
+                    latest_action = bill.get("latestAction", {}) or {}
+                    number = bill.get("number", "")
+                    results.append({
+                        "id": "federal-{}-{}-{}".format(congress, bill_type, number),
+                        "level": "federal",
+                        "state": "Federal",
+                        "title": title.strip(),
+                        "body": CHAMBER_NAME.get(bill_type, "U.S. Congress"),
+                        "status": latest_action.get("text", "Introduced"),
+                        "date": latest_action.get("actionDate") or bill.get("updateDate", ""),
+                        "sourceUrl": "https://www.congress.gov/bill/{}th-congress/{}/{}".format(
+                            congress,
+                            "house-bill" if bill_type in ("hr", "hjres") else "senate-bill",
+                            number,
+                        ),
+                    })
+
+                if len(bills) < 250:
+                    break
+                offset += 250
 
     log("Congress.gov: found {} matching federal bills.".format(len(results)))
     return results
