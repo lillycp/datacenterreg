@@ -1,5 +1,645 @@
 [
   {
+    "id": "state-ocd-bill/f101c4ba-1f72-4257-bc6d-092d2230e864",
+    "level": "state",
+    "state": "New Hampshire",
+    "title": "prohibiting the construction of data centers in the state and establishing a committee to study the environmental impact of data centers.",
+    "body": "House",
+    "status": "Bill",
+    "date": "2026-03-11",
+    "sourceUrl": "https://gc.nh.gov/bill_Status/billinfo.aspx?id=1685&inflect=2"
+  },
+  {
+    "id": "state-ocd-bill/81e7e5b1-f231-4b63-94ea-39d2385f0355",
+    "level": "state",
+    "state": "New Hampshire",
+    "title": "relative to municipal data center zoning.",
+    "body": "Senate",
+    "status": "Bill",
+    "date": "2026-05-14",
+    "sourceUrl": "https://gc.nh.gov/bill_Status/billinfo.aspx?id=1435&inflect=2"
+  },
+  {
+    "id": "state-ocd-bill/9a1b9e05-272d-42da-a2f4-a533f9c6b71f",
+    "level": "state",
+    "state": "Colorado",
+    "title": "Data Center & Utility Modernization",
+    "body": "House",
+    "status": "Bill",
+    "date": "2026-05-07",
+    "sourceUrl": "https://leg.colorado.gov/bills/HB26-1030"
+  },
+  {
+    "id": "state-ocd-bill/e3810f9e-eb8b-479c-9d51-e20ac7b01865",
+    "level": "state",
+    "state": "Colorado",
+    "title": "Large-Load Data Centers",
+    "body": "Senate",
+    "status": "Bill",
+    "date": "2026-05-11",
+    "sourceUrl": "https://leg.colorado.gov/bills/SB26-102"
+  },
+  {
+    "id": "state-ocd-bill/f328f638-744d-4153-b45a-6706864a5641",
+    "level": "state",
+    "state": "Florida",
+    "title": "Public Records/Data Centers",
+    "body": "Senate",
+    "status": "Bill",
+    "date": "2026-03-13",
+    "sourceUrl": "https://flsenate.gov/Session/Bill/2026/1118/ByCategory"
+  },
+  {
+    "id": "state-ocd-bill/c3d17487-fcf6-4704-8b7c-a814e81e9eeb",
+    "level": "state",
+    "state": "Illinois",
+    "title": "INC TX-DATA CENTERS",
+    "body": "Senate",
+    "status": "Bill",
+    "date": "2025-02-27",
+    "sourceUrl": "https://ilga.gov/Legislation/BillStatus?DocNum=227&GAID=18&DocTypeID=SB&LegId=157540&SessionID=114"
+  },
+  {
+    "id": "state-ocd-bill/4e8ff354-6db6-4d71-9bad-8047315cb144",
+    "level": "state",
+    "state": "Pennsylvania",
+    "title": "An Act amending Title 27 (Environmental Resources) of the Pennsylvania Consolidated Statutes, in water resources planning, further providing for State water plan and providing for covered data centers; and promulgating regulations.",
+    "body": "House",
+    "status": "Bill",
+    "date": "2026-05-01T04:00:00+00:00",
+    "sourceUrl": "https://www.palegis.us/legislation/bills/2025/hb2246"
+  },
+  {
+    "id": "state-ocd-bill/6d10f576-107b-411d-a1f2-ec91477f3dc0",
+    "level": "state",
+    "state": "Pennsylvania",
+    "title": "An Act providing for the regulation of commercial data centers;\r\n imposing duties on the Pennsylvania Public Utility\r\n Commission, the Department of Human Services and the\r\n Pennsylvania Energy Development Authority; establishing the\r\n Data Center Low-Income Home Energy Assistance Program\r\n Enhancement Account and the Pennsylvania Energy Independence\r\n Account; providing for clean firm energy requirements,\r\n contract filing, commission review, disclosure requirements,\r\n backup generation standards, curtailment standards and\r\n certification and expedited interconnection for commercial\r\n data centers bringing incremental clean firm energy\r\n resources; and imposing penalties.",
+    "body": "House",
+    "status": "Bill",
+    "date": "2026-03-31T04:00:00+00:00",
+    "sourceUrl": "https://www.palegis.us/legislation/bills/2025/hb1834"
+  },
+  {
+    "id": "state-ocd-bill/480dfbed-5afc-44ae-9c2f-2a1d2a1aa943",
+    "level": "state",
+    "state": "Hawaii",
+    "title": "REQUESTING THE HAWAII STATE ENERGY OFFICE TO CONVENE A WORKING GROUP TO STUDY THE POTENTIAL IMPACTS OF LARGE DATA CENTERS ON HAWAII'S ELECTRIC UTILITIES, RATEPAYERS, NATURAL RESOURCES, AND CLIMATE GOALS.",
+    "body": "Senate",
+    "status": "Resolution",
+    "date": "2026-05-12",
+    "sourceUrl": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SR&billnumber=90&year=2026"
+  },
+  {
+    "id": "state-ocd-bill/3b4aa409-f39f-491e-8870-8003a6edf27e",
+    "level": "state",
+    "state": "Hawaii",
+    "title": "REQUESTING THE HAWAII STATE ENERGY OFFICE TO CONVENE A WORKING GROUP TO STUDY THE POTENTIAL IMPACTS OF LARGE DATA CENTERS ON HAWAII'S ELECTRIC UTILITIES, RATEPAYERS, NATURAL RESOURCES, AND CLIMATE GOALS.",
+    "body": "Senate",
+    "status": "Concurrent resolution",
+    "date": "2026-04-10",
+    "sourceUrl": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SCR&billnumber=95&year=2026"
+  },
+  {
+    "id": "state-ocd-bill/b1f7826a-2e6f-40a1-8d70-1bc685c121de",
+    "level": "state",
+    "state": "Hawaii",
+    "title": "REQUESTING THE HAWAII STATE ENERGY OFFICE TO CONVENE A WORKING GROUP TO STUDY THE POTENTIAL IMPACTS OF LARGE DATA CENTERS ON HAWAII'S ELECTRIC UTILITIES, RATEPAYERS, NATURAL RESOURCES, AND CLIMATE GOALS.",
+    "body": "House",
+    "status": "Resolution",
+    "date": "2026-04-09",
+    "sourceUrl": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HR&billnumber=196&year=2026"
+  },
+  {
+    "id": "state-ocd-bill/10bcbd19-79a7-436b-9265-57876adab8dd",
+    "level": "state",
+    "state": "Hawaii",
+    "title": "REQUESTING THE HAWAII STATE ENERGY OFFICE TO CONVENE A WORKING GROUP TO STUDY THE POTENTIAL IMPACTS OF LARGE DATA CENTERS ON HAWAII'S ELECTRIC UTILITIES, RATEPAYERS, NATURAL RESOURCES, AND CLIMATE GOALS.",
+    "body": "House",
+    "status": "Concurrent resolution",
+    "date": "2026-04-27",
+    "sourceUrl": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HCR&billnumber=206&year=2026"
+  },
+  {
+    "id": "state-ocd-bill/7eda2f35-8551-427e-9bf5-ce901430fc63",
+    "level": "state",
+    "state": "Pennsylvania",
+    "title": "An Act amending the act of March 4, 1971 (P.L.6, No.2), known as the Tax Reform Code of 1971, in tax credit and tax benefit administration, further providing for definitions; in computer data center equipment incentive program, providing for certification prohibition; providing for Governor's Responsible Infrastructure Development certification and standards; and imposing duties.",
+    "body": "Senate",
+    "status": "Bill",
+    "date": "2026-07-10T04:00:00+00:00",
+    "sourceUrl": "https://www.palegis.us/legislation/bills/2025/sb1384"
+  },
+  {
+    "id": "state-ocd-bill/b7c4d91a-54d5-4bbc-970a-646704a05c19",
+    "level": "state",
+    "state": "New York",
+    "title": "Enacts the responsible data center development act",
+    "body": "Assembly",
+    "status": "Bill",
+    "date": "2026-06-04",
+    "sourceUrl": "https://legislation.nysenate.gov/api/3/bills/2025-2026/A11560?summary=&detail="
+  },
+  {
+    "id": "state-ocd-bill/3f63330c-8455-4321-9b76-f26dc1cb7328",
+    "level": "state",
+    "state": "Pennsylvania",
+    "title": "An Act amending the act of March 4, 1971 (P.L.6, No.2), known as the Tax Reform Code of 1971, in tax credit and tax benefit administration, further providing for definitions; in computer data center equipment incentive program, providing for certification prohibition; providing for Governor's Responsible Infrastructure Development certification and standards; and imposing duties.",
+    "body": "House",
+    "status": "Bill",
+    "date": "2026-06-25T04:00:00+00:00",
+    "sourceUrl": "https://www.palegis.us/legislation/bills/2025/hb2650"
+  },
+  {
+    "id": "state-ocd-bill/5bffcbdb-3a24-40bc-bdf1-be858e2dd636",
+    "level": "state",
+    "state": "New York",
+    "title": "Establishes the \"accountability of costs for data centers act\"",
+    "body": "Assembly",
+    "status": "Bill",
+    "date": "2026-06-01",
+    "sourceUrl": "https://legislation.nysenate.gov/api/3/bills/2025-2026/A9039?summary=&detail="
+  },
+  {
+    "id": "state-ocd-bill/84424aa3-a880-4d19-99fc-12b320759ba6",
+    "level": "state",
+    "state": "Pennsylvania",
+    "title": "An Act amending the act of July 31, 1968 (P.L.805, No.247), known as the Pennsylvania Municipalities Planning Code, in general provisions, providing for pause on data center proposals.",
+    "body": "House",
+    "status": "Bill",
+    "date": "2026-06-30T04:00:00+00:00",
+    "sourceUrl": "https://www.palegis.us/legislation/bills/2025/hb2496"
+  },
+  {
+    "id": "state-ocd-bill/d9c8942e-ff6e-429d-a278-0862c0a02e67",
+    "level": "state",
+    "state": "California",
+    "title": "Data centers: rate structures.",
+    "body": "Senate",
+    "status": "Bill",
+    "date": "2026-06-25",
+    "sourceUrl": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260SB1168"
+  },
+  {
+    "id": "state-ocd-bill/9e3146aa-fd3f-4807-bdc4-0798ad53121f",
+    "level": "state",
+    "state": "Pennsylvania",
+    "title": "An Act amending the act of July 31, 1968 (P.L.805, No.247), known as the Pennsylvania Municipalities Planning Code, in zoning, providing for optional temporary moratorium on acceptance or consideration of new applications for high impact data centers.",
+    "body": "Senate",
+    "status": "Bill",
+    "date": "2026-07-12T04:00:00+00:00",
+    "sourceUrl": "https://www.palegis.us/legislation/bills/2025/sb1345"
+  },
+  {
+    "id": "state-ocd-bill/7e08dd32-005f-4f29-ae86-d9218850e6af",
+    "level": "state",
+    "state": "Idaho",
+    "title": "DATA CENTERS – Adds to existing law to establish limitations on consumptive use of water for cooling certain data centers.",
+    "body": "House",
+    "status": "Bill",
+    "date": "2026-04-02",
+    "sourceUrl": "https://legislature.idaho.gov/sessioninfo/2026/legislation/H0895/"
+  },
+  {
+    "id": "state-ocd-bill/8458241b-f544-4185-840a-684683b675ca",
+    "level": "state",
+    "state": "Illinois",
+    "title": "MUNI CD-DATA CENTER REFERENDUM",
+    "body": "House",
+    "status": "Bill",
+    "date": "2026-05-05",
+    "sourceUrl": "https://ilga.gov/Legislation/BillStatus?DocNum=5755&GAID=18&DocTypeID=HB&LegId=168353&SessionID=114"
+  },
+  {
+    "id": "state-ocd-bill/95563071-50f3-4d50-adae-932a59b803f3",
+    "level": "state",
+    "state": "Illinois",
+    "title": "INC TX-DATA CENTERS",
+    "body": "House",
+    "status": "Bill",
+    "date": "2025-03-21",
+    "sourceUrl": "https://ilga.gov/Legislation/BillStatus?DocNum=3565&GAID=18&DocTypeID=HB&LegId=162255&SessionID=114"
+  },
+  {
+    "id": "state-ocd-bill/77bc025d-6559-47e3-9e8d-41b74f82184a",
+    "level": "state",
+    "state": "Illinois",
+    "title": "DATA CENTER-PROPERTY RTS",
+    "body": "House",
+    "status": "Bill",
+    "date": "2026-01-14",
+    "sourceUrl": "https://ilga.gov/Legislation/BillStatus?DocNum=4319&GAID=18&DocTypeID=HB&LegId=164832&SessionID=114"
+  },
+  {
+    "id": "state-ocd-bill/4150356f-a4b4-44e9-98ef-9ccaa2727697",
+    "level": "state",
+    "state": "Illinois",
+    "title": "HYPERSCALE DATA CENTERS",
+    "body": "House",
+    "status": "Bill",
+    "date": "2026-05-27",
+    "sourceUrl": "https://ilga.gov/Legislation/BillStatus?DocNum=5513&GAID=18&DocTypeID=HB&LegId=167488&SessionID=114"
+  },
+  {
+    "id": "state-ocd-bill/165ca92b-63f7-4bd9-a990-b7ecd0dcbbfb",
+    "level": "state",
+    "state": "California",
+    "title": "California Environmental Quality Act: environmental leadership development projects: data centers: clean energy powerplant projects.",
+    "body": "Senate",
+    "status": "Bill",
+    "date": "2026-06-29",
+    "sourceUrl": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260SB887"
+  },
+  {
+    "id": "state-ocd-bill/972ede26-0020-4449-819c-543017b3d1ad",
+    "level": "state",
+    "state": "Illinois",
+    "title": "DATA CENTER HEATING/COOLING",
+    "body": "House",
+    "status": "Bill",
+    "date": "2026-02-06",
+    "sourceUrl": "https://ilga.gov/Legislation/BillStatus?DocNum=4989&GAID=18&DocTypeID=HB&LegId=166403&SessionID=114"
+  },
+  {
+    "id": "state-ocd-bill/9537b8c5-3805-4bc2-b94c-5fec5c6132d2",
+    "level": "state",
+    "state": "Illinois",
+    "title": "DCEO-DATA CENTERS",
+    "body": "Senate",
+    "status": "Bill",
+    "date": "2026-05-22",
+    "sourceUrl": "https://ilga.gov/Legislation/BillStatus?DocNum=3120&GAID=18&DocTypeID=SB&LegId=165754&SessionID=114"
+  },
+  {
+    "id": "state-ocd-bill/d381fdbb-1b89-44ef-b0e1-2da99452dc6e",
+    "level": "state",
+    "state": "Illinois",
+    "title": "DATA CENTER REPORTING",
+    "body": "Senate",
+    "status": "Bill",
+    "date": "2026-05-22",
+    "sourceUrl": "https://ilga.gov/Legislation/BillStatus?DocNum=2181&GAID=18&DocTypeID=SB&LegId=161884&SessionID=114"
+  },
+  {
+    "id": "state-ocd-bill/3c1b0872-e376-42cb-8a27-eb53cae59f58",
+    "level": "state",
+    "state": "Illinois",
+    "title": "LOC GOVT-DATA CENTER",
+    "body": "Senate",
+    "status": "Bill",
+    "date": "2026-05-18",
+    "sourceUrl": "https://ilga.gov/Legislation/BillStatus?DocNum=4206&GAID=18&DocTypeID=SB&LegId=168562&SessionID=114"
+  },
+  {
+    "id": "state-ocd-bill/05f7003f-c4c0-4dd4-9cff-d587a2816d39",
+    "level": "state",
+    "state": "Illinois",
+    "title": "DATA CENTERS-VARIOUS",
+    "body": "Senate",
+    "status": "Bill",
+    "date": "2026-05-22",
+    "sourceUrl": "https://ilga.gov/Legislation/BillStatus?DocNum=3830&GAID=18&DocTypeID=SB&LegId=167238&SessionID=114"
+  },
+  {
+    "id": "state-ocd-bill/ef51fc41-e975-4c27-832d-64094d45082a",
+    "level": "state",
+    "state": "Illinois",
+    "title": "DATA CENTERS-FOREIGN OWNERSHIP",
+    "body": "Senate",
+    "status": "Bill",
+    "date": "2026-07-01",
+    "sourceUrl": "https://ilga.gov/Legislation/BillStatus?DocNum=3578&GAID=18&DocTypeID=SB&LegId=166652&SessionID=114"
+  },
+  {
+    "id": "state-ocd-bill/5c82a2d3-f95d-46fd-9e67-e089eb1c3c1a",
+    "level": "state",
+    "state": "Illinois",
+    "title": "DCEO-DATA CENTERS",
+    "body": "Senate",
+    "status": "Bill",
+    "date": "2026-06-17",
+    "sourceUrl": "https://ilga.gov/Legislation/BillStatus?DocNum=4203&GAID=18&DocTypeID=SB&LegId=168522&SessionID=114"
+  },
+  {
+    "id": "state-ocd-bill/16a8f60c-9661-44c7-8d01-97702b383336",
+    "level": "state",
+    "state": "Illinois",
+    "title": "HYPERSCALE DATA CENTERS",
+    "body": "Senate",
+    "status": "Bill",
+    "date": "2026-05-30",
+    "sourceUrl": "https://ilga.gov/Legislation/BillStatus?DocNum=4016&GAID=18&DocTypeID=SB&LegId=167565&SessionID=114"
+  },
+  {
+    "id": "state-ocd-bill/d4c95f1f-70e2-4306-96b5-7e4551d0c0bc",
+    "level": "state",
+    "state": "Illinois",
+    "title": "DATA CENTERS-FOREIGN OWNERSHIP",
+    "body": "Senate",
+    "status": "Bill",
+    "date": "2025-04-03",
+    "sourceUrl": "https://ilga.gov/Legislation/BillStatus?DocNum=94&GAID=18&DocTypeID=SB&LegId=157212&SessionID=114"
+  },
+  {
+    "id": "state-ocd-bill/aaca4840-be3a-4c43-9f2b-9dbb9a8835be",
+    "level": "state",
+    "state": "Pennsylvania",
+    "title": "An Act amending the act of March 4, 1971 (P.L.6, No.2), entitled \"An act relating to tax reform and State taxation by codifying and enumerating certain subjects of taxation and imposing taxes thereon; providing procedures for the payment, collection, administration and enforcement thereof; providing for tax credits in certain cases; conferring powers and imposing duties upon the Department of Revenue, certain employers, fiduciaries, individuals, persons, corporations and other entities; prescribing crimes, offenses and penalties,\" in computer data center equipment incentive program, further providing for definitions, for application for certification, for eligibility requirements relating to sales and use tax refund program, for notification, for eligibility requirements relating to sales and use tax exemption program and for notification and records.",
+    "body": "House",
+    "status": "Bill",
+    "date": "2026-07-10T04:00:00+00:00",
+    "sourceUrl": "https://www.palegis.us/legislation/bills/2025/hb2359"
+  },
+  {
+    "id": "state-ocd-bill/b469f5e2-4780-44e3-8555-4b2dced356d3",
+    "level": "state",
+    "state": "Illinois",
+    "title": "DATA CENTERS-SUPPLY OWN ENERGY",
+    "body": "House",
+    "status": "Resolution",
+    "date": "2026-03-24",
+    "sourceUrl": "https://ilga.gov/Legislation/BillStatus?DocNum=744&GAID=18&DocTypeID=HR&LegId=168131&SessionID=114"
+  },
+  {
+    "id": "state-ocd-bill/f8d9a8cd-1c62-4462-b589-978348efd55b",
+    "level": "state",
+    "state": "Pennsylvania",
+    "title": "An Act amending Title 53 (Municipalities Generally) of the Pennsylvania\r\n Consolidated Statutes, providing for data center ordinance\r\n assistance.",
+    "body": "House",
+    "status": "Bill",
+    "date": "2026-04-23T04:00:00+00:00",
+    "sourceUrl": "https://www.palegis.us/legislation/bills/2025/hb2151"
+  },
+  {
+    "id": "state-ocd-bill/b8e92fde-5cd2-4733-9126-065b1991fc45",
+    "level": "state",
+    "state": "Michigan",
+    "title": "Energy: other; energy and water usage report requirements for data centers; provide for. Amends sec. 5a of 1939 PA 3 (MCL 460.5a).",
+    "body": "Senate",
+    "status": "Bill",
+    "date": "2026-07-01",
+    "sourceUrl": "https://legislature.mi.gov/Bills/Bill?ObjectName=2025-SB-0762"
+  },
+  {
+    "id": "state-ocd-bill/5372532b-a7e6-410e-9a0d-89df1bafe938",
+    "level": "state",
+    "state": "Alabama",
+    "title": "Electric Utilities; review by Public Service Commission of certain contracts with large load data centers further provided for",
+    "body": "Senate",
+    "status": "Bill",
+    "date": "2026-04-17T04:00:00+00:00",
+    "sourceUrl": "https://alison.legislature.state.al.us/bill-search"
+  },
+  {
+    "id": "state-ocd-bill/3778a2d2-26ad-4405-acc4-1e40adc10605",
+    "level": "state",
+    "state": "Michigan",
+    "title": "Public utilities: electric utilities; project labor agreements and prevailing wage and fringe benefit rates; require for certain data center contracts. Amends 1939 PA 3 (MCL 460.1 - 460.11) by adding sec. 10ii.",
+    "body": "Senate",
+    "status": "Bill",
+    "date": "2026-07-01",
+    "sourceUrl": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-SB-1048"
+  },
+  {
+    "id": "state-ocd-bill/f39fad93-ee9b-40e1-8f2f-092c7939b90c",
+    "level": "state",
+    "state": "Michigan",
+    "title": "Businesses: other; Michigan zoning enabling act; make subject to the data center community benefit act. Amends sec. 205 of 2006 PA 110 (MCL 125.3205).  TIE BAR WITH: SB 1050'26",
+    "body": "Senate",
+    "status": "Bill",
+    "date": "2026-07-01",
+    "sourceUrl": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-SB-1051"
+  },
+  {
+    "id": "state-ocd-bill/3c674b3c-34e2-4573-9e2b-80f600d78d1e",
+    "level": "state",
+    "state": "Michigan",
+    "title": "Businesses: other; community benefit agreements; require certain data centers to be subject to. Creates new act.",
+    "body": "Senate",
+    "status": "Bill",
+    "date": "2026-07-01",
+    "sourceUrl": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-SB-1050"
+  },
+  {
+    "id": "state-ocd-bill/669619d5-5e32-4ab8-b393-ca3af09d0066",
+    "level": "state",
+    "state": "Utah",
+    "title": "Data Center Water Transparency Amendments",
+    "body": "House",
+    "status": "Bill",
+    "date": "2026-03-23T14:59:00+00:00",
+    "sourceUrl": "https://le.utah.gov/~2026/bills/static/HB0076.html"
+  },
+  {
+    "id": "state-ocd-bill/2e90e0ca-660e-4c64-817b-16b9df7dc3db",
+    "level": "state",
+    "state": "Massachusetts",
+    "title": "An Act establishing an education-to-career data center",
+    "body": "House",
+    "status": "Bill",
+    "date": "2025-08-18",
+    "sourceUrl": "https://malegislature.gov/Bills/194/H630"
+  },
+  {
+    "id": "state-ocd-bill/b69c092e-7bd4-46f9-b295-c53174e57a61",
+    "level": "state",
+    "state": "Massachusetts",
+    "title": "An Act establishing a career-to-education data center",
+    "body": "Senate",
+    "status": "Bill",
+    "date": "2025-12-24",
+    "sourceUrl": "https://malegislature.gov/Bills/194/S50"
+  },
+  {
+    "id": "state-ocd-bill/47259c3e-f475-47d2-b804-a23fa3ecd85e",
+    "level": "state",
+    "state": "Idaho",
+    "title": "TAXATION – Amends existing law to revise a sales tax exemption for data center equipment and to revise a certain property tax exemption for certain capital investments.",
+    "body": "House",
+    "status": "Bill",
+    "date": "2026-04-02",
+    "sourceUrl": "https://legislature.idaho.gov/sessioninfo/2026/legislation/H0897/"
+  },
+  {
+    "id": "state-ocd-bill/cfa0b25a-ad26-40bd-a933-374aed1e476d",
+    "level": "state",
+    "state": "Idaho",
+    "title": "TAXATION – Amends existing law to revise a sales tax exemption for data center equipment and to revise a property tax exemption for certain capital investments.",
+    "body": "House",
+    "status": "Bill",
+    "date": "2026-02-10",
+    "sourceUrl": "https://legislature.idaho.gov/sessioninfo/2026/legislation/H0609/"
+  },
+  {
+    "id": "state-ocd-bill/8f9f2d88-5361-4887-bf80-0d861828174e",
+    "level": "state",
+    "state": "Idaho",
+    "title": "TAXATION – Amends existing law to revise a sales tax exemption for data center equipment and to revise a certain property tax exemption for certain capital investments.",
+    "body": "House",
+    "status": "Bill",
+    "date": "2026-03-05",
+    "sourceUrl": "https://legislature.idaho.gov/sessioninfo/2026/legislation/H0820/"
+  },
+  {
+    "id": "state-ocd-bill/abc5c33f-f38b-4757-b23e-ec8c4d24c6ea",
+    "level": "state",
+    "state": "Washington",
+    "title": "Removing a tax exemption for the replacement of equipment for data centers.",
+    "body": "House",
+    "status": "Bill",
+    "date": "2026-01-30",
+    "sourceUrl": "https://app.leg.wa.gov/billsummary/?BillNumber=2708&Year=2025&Initiative=false"
+  },
+  {
+    "id": "state-ocd-bill/2032f28e-b5fd-40b2-8cd2-b51f18dce144",
+    "level": "state",
+    "state": "Washington",
+    "title": "Removing a tax exemption for the replacement of equipment for data centers.",
+    "body": "Senate",
+    "status": "Bill",
+    "date": "2026-04-01",
+    "sourceUrl": "https://app.leg.wa.gov/billsummary/?BillNumber=6231&Year=2025&Initiative=false"
+  },
+  {
+    "id": "state-ocd-bill/b65cdf84-d331-419f-b291-9cf70ef50a04",
+    "level": "state",
+    "state": "Washington",
+    "title": "Providing a retail sales and use tax exemption for the construction and equipping of new data centers located in a county east of the Cascades that borders another state and has a population of at least 500,000.",
+    "body": "House",
+    "status": "Bill",
+    "date": "2026-02-06",
+    "sourceUrl": "https://app.leg.wa.gov/billsummary/?BillNumber=2655&Year=2025&Initiative=false"
+  },
+  {
+    "id": "state-ocd-bill/593e47b9-c954-4539-b016-93aa82ab771d",
+    "level": "state",
+    "state": "Massachusetts",
+    "title": "An Act relative to the cost of electricity at large and qualified data centers",
+    "body": "House",
+    "status": "Proposed bill",
+    "date": "2025-12-11",
+    "sourceUrl": "https://malegislature.gov/Bills/194/HD5404"
+  },
+  {
+    "id": "state-ocd-bill/06f6c441-f600-4577-babf-dfebd3f0648e",
+    "level": "state",
+    "state": "New Jersey",
+    "title": "Requires electric public utilities to develop and apply special rules for certain data centers to protect non-data center customers from increased costs.**",
+    "body": "Assembly",
+    "status": "Bill",
+    "date": "2026-07-07T04:00:00+00:00",
+    "sourceUrl": "https://www.njleg.state.nj.us/bill-search/2026/A796"
+  },
+  {
+    "id": "state-ocd-bill/777d72b6-1b8e-48f4-982c-d40d52951881",
+    "level": "state",
+    "state": "Oklahoma",
+    "title": "Corporation Commission; creating the Data Center Customer Ratepayer Protection Act of 2026; effective date; emergency.",
+    "body": "House",
+    "status": "Bill",
+    "date": "2026-05-11",
+    "sourceUrl": "http://www.oklegislature.gov/BillInfo.aspx?Bill=HB2992&session=2600"
+  },
+  {
+    "id": "state-ocd-bill/aa610bc3-6d93-4803-bd43-66ac5df64c05",
+    "level": "state",
+    "state": "Ohio",
+    "title": "Create the Data Center Study Commission",
+    "body": "House",
+    "status": "Bill",
+    "date": "2026-06-10T04:00:00+00:00",
+    "sourceUrl": "https://www.legislature.ohio.gov/legislation/136/hb646"
+  },
+  {
+    "id": "state-ocd-bill/49950c3c-4326-48d3-b037-2b04d6d7e163",
+    "level": "state",
+    "state": "Massachusetts",
+    "title": "An Act establishing a special legislative commission to study load growth due to AI and data centers",
+    "body": "House",
+    "status": "Bill",
+    "date": "2026-01-08",
+    "sourceUrl": "https://malegislature.gov/Bills/194/H83"
+  },
+  {
+    "id": "state-ocd-bill/d8e35e47-baaa-480c-bf69-4769e70f6082",
+    "level": "state",
+    "state": "California",
+    "title": "Electricity: data centers.",
+    "body": "Assembly",
+    "status": "Bill",
+    "date": "2026-07-02",
+    "sourceUrl": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB2383"
+  },
+  {
+    "id": "state-ocd-bill/c84756d8-3906-4ae6-9e06-9b98d210d6f3",
+    "level": "state",
+    "state": "California",
+    "title": "Electrical corporations: data centers: report.",
+    "body": "Senate",
+    "status": "Bill",
+    "date": "2025-10-11",
+    "sourceUrl": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260SB57"
+  },
+  {
+    "id": "state-ocd-bill/fd340120-32d7-4698-b737-9761b4b4c274",
+    "level": "state",
+    "state": "California",
+    "title": "Data centers: power usage effectiveness: cost shifts.",
+    "body": "Assembly",
+    "status": "Bill",
+    "date": "2025-08-29",
+    "sourceUrl": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB222"
+  },
+  {
+    "id": "state-ocd-bill/62cc514f-d799-4d01-afa2-0f2b633faee6",
+    "level": "state",
+    "state": "California",
+    "title": "Data centers: labor: electricity rates.",
+    "body": "Senate",
+    "status": "Bill",
+    "date": "2026-05-14",
+    "sourceUrl": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260SB978"
+  },
+  {
+    "id": "federal-119-hr-9777",
+    "level": "federal",
+    "state": "Federal",
+    "title": "To require that new and existing data centers use off-grid power and water supplies, and for other purposes.",
+    "body": "U.S. House of Representatives",
+    "status": "Referred to the House Committee on Energy and Commerce.",
+    "date": "2026-07-20",
+    "sourceUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9777"
+  },
+  {
+    "id": "federal-119-hr-6984",
+    "level": "federal",
+    "state": "Federal",
+    "title": "Data Center Transparency Act",
+    "body": "U.S. House of Representatives",
+    "status": "Referred to the House Committee on Energy and Commerce.",
+    "date": "2026-01-08",
+    "sourceUrl": "https://www.congress.gov/bill/119th-congress/house-bill/6984"
+  },
+  {
+    "id": "federal-119-hr-6529",
+    "level": "federal",
+    "state": "Federal",
+    "title": "Protecting Families from AI Data Center Energy Costs Act",
+    "body": "U.S. House of Representatives",
+    "status": "Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote.",
+    "date": "2026-06-24",
+    "sourceUrl": "https://www.congress.gov/bill/119th-congress/house-bill/6529"
+  },
+  {
+    "id": "state-ocd-bill/854754e3-460f-4e70-b097-a63dfd3c2f38",
+    "level": "state",
+    "state": "Pennsylvania",
+    "title": "An Act prohibiting certain nondisclosure agreements between public agencies and data centers.",
+    "body": "Senate",
+    "status": "Bill",
+    "date": "2026-07-20T04:00:00+00:00",
+    "sourceUrl": "https://www.palegis.us/legislation/bills/2025/sb1408"
+  },
+  {
     "id": "local-loudoun-va-zoam-2025",
     "level": "local",
     "state": "Virginia",
