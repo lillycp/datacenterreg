@@ -116,7 +116,7 @@ def http_get_json_via_curl(url, timeout=20, retries=3, backoff=5):
 # Federal: Congress.gov
 # ---------------------------------------------------------------------------
 
-CONGRESSES = [119, 118]
+CONGRESSES = [119, 118, 117, 116]  # covers roughly the past five years
 BILL_TYPES = ["hr", "s", "hjres", "sjres"]
 CHAMBER_NAME = {
     "hr": "U.S. House of Representatives",
