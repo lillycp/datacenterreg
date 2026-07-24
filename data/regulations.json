@@ -830,6 +830,16 @@
     "sourceUrl": "https://legis.delaware.gov/BillDetail?LegislationId=143681"
   },
   {
+    "id": "state-ocd-bill/b64a96da-0667-49b9-93c6-e0bc1f0d2fa3",
+    "level": "state",
+    "state": "Pennsylvania",
+    "title": "An Act providing for annual reporting of energy consumption and water consumption by data centers; and imposing a penalty.",
+    "body": "House",
+    "status": "Bill",
+    "date": "2026-04-23T04:00:00+00:00",
+    "sourceUrl": "https://www.palegis.us/legislation/bills/2025/hb2150"
+  },
+  {
     "id": "local-loudoun-va-zoam-2025",
     "level": "local",
     "state": "Virginia",
