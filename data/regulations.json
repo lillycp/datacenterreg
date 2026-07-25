@@ -840,6 +840,26 @@
     "sourceUrl": "https://www.palegis.us/legislation/bills/2025/hb2150"
   },
   {
+    "id": "state-ocd-bill/48ae01bd-49c7-4aa7-83b9-4ef648384690",
+    "level": "state",
+    "state": "New York",
+    "title": "Enacts the stop subsidizing data centers act",
+    "body": "Assembly",
+    "status": "Bill",
+    "date": "2026-05-21",
+    "sourceUrl": "https://legislation.nysenate.gov/api/3/bills/2025-2026/A10852?summary=&detail="
+  },
+  {
+    "id": "state-ocd-bill/5e8bd847-06b3-4bd6-b034-8de39d0522d3",
+    "level": "state",
+    "state": "Vermont",
+    "title": "An act relating to sustainable data center deployment",
+    "body": "House",
+    "status": "Bill",
+    "date": "2026-05-29",
+    "sourceUrl": "http://legislature.vermont.gov/bill/loadBillsIntroduced/2026/"
+  },
+  {
     "id": "local-loudoun-va-zoam-2025",
     "level": "local",
     "state": "Virginia",
