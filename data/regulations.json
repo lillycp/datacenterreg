@@ -16,7 +16,7 @@
     "title": "relative to municipal data center zoning.",
     "body": "Senate",
     "status": "Bill",
-    "date": "2026-05-14",
+    "date": "",
     "sourceUrl": "https://gc.nh.gov/bill_Status/billinfo.aspx?id=1435&inflect=2"
   },
   {
@@ -638,6 +638,226 @@
     "status": "Bill",
     "date": "2026-07-20T04:00:00+00:00",
     "sourceUrl": "https://www.palegis.us/legislation/bills/2025/sb1408"
+  },
+  {
+    "id": "federal-119-s-4214",
+    "level": "federal",
+    "state": "Federal",
+    "title": "Artificial Intelligence Data Center Moratorium Act",
+    "body": "U.S. Senate",
+    "status": "Read twice and referred to the Committee on Commerce, Science, and Transportation.",
+    "date": "2026-03-25",
+    "sourceUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/4214"
+  },
+  {
+    "id": "federal-119-s-4213",
+    "level": "federal",
+    "state": "Federal",
+    "title": "Data Center Water and Energy Transparency Act of 2026",
+    "body": "U.S. Senate",
+    "status": "Read twice and referred to the Committee on Energy and Natural Resources. (text: CR S1616-1617)",
+    "date": "2026-03-25",
+    "sourceUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/4213"
+  },
+  {
+    "id": "federal-119-s-5054",
+    "level": "federal",
+    "state": "Federal",
+    "title": "Data Center Tax Accountability and Disclosure Act of 2026",
+    "body": "U.S. Senate",
+    "status": "Read twice and referred to the Committee on Finance.",
+    "date": "2026-07-21",
+    "sourceUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5054"
+  },
+  {
+    "id": "federal-118-hr-5218",
+    "level": "federal",
+    "state": "Federal",
+    "title": "Federal Data Center Enhancement Act of 2023",
+    "body": "U.S. House of Representatives",
+    "status": "Referred to the House Committee on Oversight and Accountability.",
+    "date": "2023-08-15",
+    "sourceUrl": "https://www.congress.gov/bill/118th-congress/house-bill/5218"
+  },
+  {
+    "id": "federal-118-s-933",
+    "level": "federal",
+    "state": "Federal",
+    "title": "Federal Data Center Enhancement Act of 2023",
+    "body": "U.S. Senate",
+    "status": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 39.",
+    "date": "2023-04-27",
+    "sourceUrl": "https://www.congress.gov/bill/118th-congress/senate-bill/933"
+  },
+  {
+    "id": "federal-117-hr-4867",
+    "level": "federal",
+    "state": "Federal",
+    "title": "Data Centers and Government Records Oversight Act",
+    "body": "U.S. House of Representatives",
+    "status": "Referred to the House Committee on Oversight and Reform.",
+    "date": "2021-07-30",
+    "sourceUrl": "https://www.congress.gov/bill/117th-congress/house-bill/4867"
+  },
+  {
+    "id": "federal-117-s-4629",
+    "level": "federal",
+    "state": "Federal",
+    "title": "Federal Data Center Enhancement Act of 2022",
+    "body": "U.S. Senate",
+    "status": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 562.",
+    "date": "2022-11-17",
+    "sourceUrl": "https://www.congress.gov/bill/117th-congress/senate-bill/4629"
+  },
+  {
+    "id": "state-ocd-bill/6b0c0a2c-3e8a-4b0c-9200-cf8eb6e1ba49",
+    "level": "state",
+    "state": "Virginia",
+    "title": "Data centers; rainwater harvesting systems.",
+    "body": "Senate",
+    "status": "Bill",
+    "date": "2026-07-21",
+    "sourceUrl": "https://lis.virginia.gov/bill-details/20271/SB521"
+  },
+  {
+    "id": "state-ocd-bill/3fca8151-ea70-47b5-bf40-5ead5c626249",
+    "level": "state",
+    "state": "Virginia",
+    "title": "Tier 2 emergency generators; SCC shall evaluate impact of requiring data centers to limit use, etc.",
+    "body": "Senate",
+    "status": "Bill",
+    "date": "2026-07-21",
+    "sourceUrl": "https://lis.virginia.gov/bill-details/20271/SB336"
+  },
+  {
+    "id": "state-ocd-bill/6dfba32f-9dc1-4a85-89b7-3b238bd16304",
+    "level": "state",
+    "state": "Virginia",
+    "title": "Virginia's Great Outdoors Act; established, creates data center land conservation tax.",
+    "body": "House",
+    "status": "Bill",
+    "date": "2026-07-21",
+    "sourceUrl": "https://lis.virginia.gov/bill-details/20271/HB641"
+  },
+  {
+    "id": "state-ocd-bill/67ad55d9-d008-4a75-b5ab-48b43bf22eec",
+    "level": "state",
+    "state": "Virginia",
+    "title": "Data centers; taxes on banks that are tenants of a center.",
+    "body": "Senate",
+    "status": "Bill",
+    "date": "2026-07-21",
+    "sourceUrl": "https://lis.virginia.gov/bill-details/20271/SB93"
+  },
+  {
+    "id": "state-ocd-bill/07f7b8d0-ff32-4824-8428-c6891931bea6",
+    "level": "state",
+    "state": "Virginia",
+    "title": "Electric utilities; cost recovery, costs substantially related to serving data center customers.",
+    "body": "Senate",
+    "status": "Bill",
+    "date": "2026-07-21",
+    "sourceUrl": "https://lis.virginia.gov/bill-details/20271/SB466"
+  },
+  {
+    "id": "state-ocd-bill/a342a8c5-e6ae-4d1b-a0c2-26b91f71dd57",
+    "level": "state",
+    "state": "Virginia",
+    "title": "Local approval of data centers; temporary moratorium.",
+    "body": "House",
+    "status": "Bill",
+    "date": "2026-07-21",
+    "sourceUrl": "https://lis.virginia.gov/bill-details/20271/HB1515"
+  },
+  {
+    "id": "state-ocd-bill/acf19a6e-08dc-4e53-873d-a324d7ef41a1",
+    "level": "state",
+    "state": "Virginia",
+    "title": "Electric utilities; cost recovery, costs substantially related to serving data center customers.",
+    "body": "House",
+    "status": "Bill",
+    "date": "2026-07-21",
+    "sourceUrl": "https://lis.virginia.gov/bill-details/20271/HB503"
+  },
+  {
+    "id": "state-ocd-bill/c0e0f047-7f9c-4bd1-9baa-c26d2affd9c1",
+    "level": "state",
+    "state": "Virginia",
+    "title": "Data center tax revenue; creates local residential renewable energy incentive program.",
+    "body": "House",
+    "status": "Bill",
+    "date": "2026-07-21",
+    "sourceUrl": "https://lis.virginia.gov/bill-details/20271/HB1132"
+  },
+  {
+    "id": "state-ocd-bill/417fbfeb-2949-4bb1-8313-8484fc82f178",
+    "level": "state",
+    "state": "Virginia",
+    "title": "Data centers; policy of the Commonwealth.",
+    "body": "House",
+    "status": "Bill",
+    "date": "2026-07-21",
+    "sourceUrl": "https://lis.virginia.gov/bill-details/20271/HB591"
+  },
+  {
+    "id": "state-ocd-bill/e9925358-6683-42b3-99c7-f81a3221f95f",
+    "level": "state",
+    "state": "Virginia",
+    "title": "Virginia's Great Outdoors Act; established, creates data center land conservation tax.",
+    "body": "Senate",
+    "status": "Bill",
+    "date": "2026-07-21",
+    "sourceUrl": "https://lis.virginia.gov/bill-details/20271/SB393"
+  },
+  {
+    "id": "state-ocd-bill/f0be12cb-c35a-4af1-a2dd-32ffdc77e12a",
+    "level": "state",
+    "state": "Virginia",
+    "title": "Aggregate air pollution; Department of Environmental Quality to study, data center generators.",
+    "body": "House",
+    "status": "Bill",
+    "date": "2026-07-21",
+    "sourceUrl": "https://lis.virginia.gov/bill-details/20271/HB607"
+  },
+  {
+    "id": "state-ocd-bill/405a7e82-8ef3-49c2-8c8e-34879694e952",
+    "level": "state",
+    "state": "Delaware",
+    "title": "AN ACT TO AMEND THE LAWS OF DELAWARE RELATING TO A MORATORIUM ON DATA CENTER DEVELOPMENT.",
+    "body": "Senate",
+    "status": "Bill",
+    "date": "2026-07-27",
+    "sourceUrl": "https://legis.delaware.gov/BillDetail?LegislationId=143681"
+  },
+  {
+    "id": "state-ocd-bill/b64a96da-0667-49b9-93c6-e0bc1f0d2fa3",
+    "level": "state",
+    "state": "Pennsylvania",
+    "title": "An Act providing for annual reporting of energy consumption and water consumption by data centers; and imposing a penalty.",
+    "body": "House",
+    "status": "Bill",
+    "date": "2026-04-23T04:00:00+00:00",
+    "sourceUrl": "https://www.palegis.us/legislation/bills/2025/hb2150"
+  },
+  {
+    "id": "state-ocd-bill/48ae01bd-49c7-4aa7-83b9-4ef648384690",
+    "level": "state",
+    "state": "New York",
+    "title": "Enacts the stop subsidizing data centers act",
+    "body": "Assembly",
+    "status": "Bill",
+    "date": "2026-05-21",
+    "sourceUrl": "https://legislation.nysenate.gov/api/3/bills/2025-2026/A10852?summary=&detail="
+  },
+  {
+    "id": "state-ocd-bill/5e8bd847-06b3-4bd6-b034-8de39d0522d3",
+    "level": "state",
+    "state": "Vermont",
+    "title": "An act relating to sustainable data center deployment",
+    "body": "House",
+    "status": "Bill",
+    "date": "2026-05-29",
+    "sourceUrl": "http://legislature.vermont.gov/bill/loadBillsIntroduced/2026/"
   },
   {
     "id": "local-loudoun-va-zoam-2025",
