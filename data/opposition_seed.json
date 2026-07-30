@@ -862,5 +862,285 @@
     "url": "https://www.wyomingpublicmedia.org/wyoming-economy/2026-05-28/no-pause-on-data-centers-for-cheyenne",
     "snippet": "Cheyenne City Council rejects a proposed 12-month moratorium on new data center development, 8-1.",
     "state": "Wyoming"
+  },
+  {
+    "title": "Northville City Council unanimously approves 12-month data center moratorium",
+    "source": "wxyz.com",
+    "publishedDate": "2026-01-06",
+    "url": "https://www.wxyz.com/news/data-centers/northville-city-council-unanimously-approves-12-month-data-center-moratorium",
+    "snippet": "City Council unanimously approves a one-year moratorium on data centers, acting preemptively with no proposals yet on the table.",
+    "state": "Michigan"
+  },
+  {
+    "title": "Pontiac latest community to pass data center moratorium",
+    "source": "detroitnews.com",
+    "publishedDate": "2026-01-21",
+    "url": "https://www.detroitnews.com/story/news/local/oakland-county/2026/01/21/pontiac-latest-community-to-pass-data-center-moratorium/88286730007/",
+    "snippet": "City Council unanimously approves a six-month moratorium to study impacts on public health, utilities, and infrastructure.",
+    "state": "Michigan"
+  },
+  {
+    "title": "Sterling Heights passes moratorium on data centers",
+    "source": "detroitnews.com",
+    "publishedDate": "2026-02-03",
+    "url": "https://eu.detroitnews.com/story/news/local/macomb-county/2026/02/03/sterling-heights-passes-moratorium-on-data-centers/88493407007/",
+    "snippet": "City Council unanimously approves a one-year moratorium to update a 1978 ordinance and study impacts.",
+    "state": "Michigan"
+  },
+  {
+    "title": "Utility in Ypsilanti, Michigan, imposes one-year moratorium on supplying new data centers",
+    "source": "datacenterdynamics.com",
+    "publishedDate": "2026-04-22",
+    "url": "https://www.datacenterdynamics.com/en/news/utility-in-ypsilanti-michigan-imposes-one-year-moratorium-on-supplying-new-data-centers/",
+    "snippet": "Ypsilanti Community Utilities Authority unanimously passes a 12-month moratorium on water/sewer service to new data centers, blocking a proposed $1.25B University of Michigan facility.",
+    "state": "Michigan"
+  },
+  {
+    "title": "East Lansing passes data center moratorium while evaluating zoning ordinances",
+    "source": "wkar.org",
+    "publishedDate": "2026-03-18",
+    "url": "https://www.wkar.org/wkar-news/2026-03-18/east-lansing-passes-data-center-moratorium-while-evaluating-zoning-ordinances",
+    "snippet": "City approves a six-month moratorium on data center construction while the planning commission studies zoning.",
+    "state": "Michigan"
+  },
+  {
+    "title": "Lansing City Council approves 182-day moratorium on new data centers",
+    "source": "wilx.com",
+    "publishedDate": "2026-07-14",
+    "url": "https://www.wilx.com/2026/07/14/lansing-city-council-approves-182-day-moratorium-new-data-centers/",
+    "snippet": "City Council passes a 182-day moratorium following the withdrawal of a proposed Deep Green data center project.",
+    "state": "Michigan"
+  },
+  {
+    "title": "City of Saginaw placing moratorium on data centers",
+    "source": "wnem.com",
+    "publishedDate": "2026-01-13",
+    "url": "https://www.wnem.com/2026/01/13/city-saginaw-placing-moratorium-data-centers/",
+    "snippet": "City Council unanimously approves a six-month blanket prohibition on data centers, though none have applied yet.",
+    "state": "Michigan"
+  },
+  {
+    "title": "City of Saline Passes Temporary Data Center Moratorium",
+    "source": "thesuntimesnews.com",
+    "publishedDate": "2026-01-12",
+    "url": "https://thesuntimesnews.com/city-of-saline-passes-temporary-data-center-moratorium/",
+    "snippet": "City Council unanimously passes a one-year moratorium after a nearby project would consume roughly 25% of DTE's current load.",
+    "state": "Michigan"
+  },
+  {
+    "title": "City of South Lyon Adopts 12-Month Moratorium on Data Center Applications",
+    "source": "whmi.com",
+    "publishedDate": "2026-02-01",
+    "url": "https://www.whmi.com/news/article/city-of-south-lyon-adopts-12-month-moratorium-on-data-center-applications",
+    "snippet": "City Council adopts a 12-month moratorium, extended from an initial six-month proposal, after concerns raised over a nearby Lyon Township project.",
+    "state": "Michigan"
+  },
+  {
+    "title": "Meridian Township is officially putting a pause on any data centers that might come to town",
+    "source": "wkar.org",
+    "publishedDate": "2026-05-28",
+    "url": "https://www.wkar.org/wkar-news/2026-05-28/meridian-township-is-officially-putting-a-pause-on-any-data-centers-that-might-come-to-town",
+    "snippet": "Township board adopts a six-month data center and battery storage moratorium as a preemptive measure.",
+    "state": "Michigan"
+  },
+  {
+    "title": "Washington Township passes six-month moratorium on data centers",
+    "source": "detroitnews.com",
+    "publishedDate": "2026-05-23",
+    "url": "https://www.detroitnews.com/story/news/local/macomb-county/2026/05/23/washington-township-passes-six-month-moratorium-on-data-centers/90213646007/",
+    "snippet": "Board of Trustees passes a moratorium days after a California developer withdrew a data center application.",
+    "state": "Michigan"
+  },
+  {
+    "title": "Township Statement Regarding Adoption of Data Center Moratorium",
+    "source": "lenox-mi.gov",
+    "publishedDate": "2026-02-02",
+    "url": "https://www.lenox-mi.gov/m/newsflash/home/detail/240",
+    "snippet": "Board of Trustees formally adopts a four-month moratorium on new data center development, extendable once.",
+    "state": "Michigan"
+  },
+  {
+    "title": "Moratorium on the Building of Data Centers within the Township of Armada",
+    "source": "armadatwp.gov",
+    "publishedDate": "2026-01-14",
+    "url": "https://armadatwp.gov/moratorium-on-the-building-of-data-centers-within-the-township-of-armada/",
+    "snippet": "Township Board imposes a 180-day moratorium on the building of data centers.",
+    "state": "Michigan"
+  },
+  {
+    "title": "Grand Blanc Twp. passes moratorium on data centers",
+    "source": "wnem.com",
+    "publishedDate": "2026-01-22",
+    "url": "https://www.wnem.com/2026/01/22/grand-blanc-twp-passes-moratorium-data-centers/",
+    "snippet": "Board of Trustees passes a one-year moratorium rejecting all data center applications during the pause.",
+    "state": "Michigan"
+  },
+  {
+    "title": "Tyrone Township officials go silent when asked about data center NDAs",
+    "source": "gandernewsroom.com",
+    "publishedDate": "2026-07-01",
+    "url": "https://gandernewsroom.com/news/video/tyrone-township-officials-go-silent-when-asked-about-data-center-ndas/",
+    "snippet": "Township leaders impose a moratorium on data centers until March 2027 amid transparency concerns over developer NDAs.",
+    "state": "Michigan"
+  },
+  {
+    "title": "City officials in Michigan deny request to lift data center moratorium",
+    "source": "datacenterdynamics.com",
+    "publishedDate": "2026-07-01",
+    "url": "https://www.datacenterdynamics.com/en/news/city-officials-in-michigan-denied-request-to-lift-data-center-moratorium/",
+    "snippet": "Wixom City Council unanimously rejects a developer's request to waive its six-month data center moratorium.",
+    "state": "Michigan"
+  },
+  {
+    "title": "Detroit Council Joins Michigan Data Center Moratorium Push",
+    "source": "planetdetroit.org",
+    "publishedDate": "2026-03-23",
+    "url": "https://planetdetroit.org/2026/03/detroit-data-center-moratorium/",
+    "snippet": "City Council approves a measure urging the mayor to impose a two-year moratorium on data centers.",
+    "state": "Michigan"
+  },
+  {
+    "title": "Data center news: Warren weighs data center moratorium after storm exposes grid strain",
+    "source": "planetdetroit.org",
+    "publishedDate": "2026-07-01",
+    "url": "https://planetdetroit.org/2026/07/warren-data-center-moratorium-power-outages/",
+    "snippet": "City Council considers a moratorium after storms knocked down 60-plus power lines, exposing grid strain.",
+    "state": "Michigan"
+  },
+  {
+    "title": "Garfield Township inches closer to a possible data center moratorium",
+    "source": "interlochenpublicradio.org",
+    "publishedDate": "2026-07-09",
+    "url": "https://www.interlochenpublicradio.org/ipr-news/2026-07-09/garfield-township-inches-closer-to-a-possible-data-center-moratorium",
+    "snippet": "Planning Commission recommends a zoning amendment allowing an up-to-18-month moratorium after hundreds packed a hearing.",
+    "state": "Michigan"
+  },
+  {
+    "title": "Charlotte City Council approves 150-day moratorium on new data centers",
+    "source": "wbtv.com",
+    "publishedDate": "2026-06-09",
+    "url": "https://www.wbtv.com/2026/06/09/charlotte-city-council-approves-150-day-moratorium-new-data-centers/",
+    "snippet": "City Council votes 11-0 to pause new data center development, the largest US city to do so at the time.",
+    "state": "North Carolina"
+  },
+  {
+    "title": "Chatham County approves 12-month moratorium on data centers, crypto mining",
+    "source": "wral.com",
+    "publishedDate": "2026-02-11",
+    "url": "https://www.wral.com/news/local/chatham-county-approves-12-month-ban-data-centers-crypto-mining-february-2026/",
+    "snippet": "Board of Commissioners approves a temporary moratorium; a developer later sues after the pause freezes a 750 MW project.",
+    "state": "North Carolina"
+  },
+  {
+    "title": "Cumberland County Enacts 6-Month Data Center Moratorium",
+    "source": "cityviewnc.com",
+    "publishedDate": "2026-06-15",
+    "url": "https://www.cityviewnc.com/stories/cumberland-county-enacts-6-month-data-center-moratorium/",
+    "snippet": "County enacts a six-month ban to give staff and the Joint Planning Board time to write proposed regulations.",
+    "state": "North Carolina"
+  },
+  {
+    "title": "Northampton County adopts a data center pause",
+    "source": "northcarolinahealthnews.org",
+    "publishedDate": "2026-05-08",
+    "url": "https://www.northcarolinahealthnews.org/2026/05/08/northampton-data-center-moratorium/",
+    "snippet": "Commissioners approve a 32-month pause after residents petitioned to scrap a shorter 12-month proposal.",
+    "state": "North Carolina"
+  },
+  {
+    "title": "Boone approves data center development moratorium",
+    "source": "bpr.org",
+    "publishedDate": "2026-03-23",
+    "url": "https://www.bpr.org/2026-03-23/boone-approves-data-center-development-moratorium",
+    "snippet": "Town Council unanimously approves a one-year moratorium banning data centers and crypto mining within town limits.",
+    "state": "North Carolina"
+  },
+  {
+    "title": "County Commissioners pass a one-year data center moratorium for Watauga County",
+    "source": "wataugademocrat.com",
+    "publishedDate": "2026-03-25",
+    "url": "https://www.wataugademocrat.com/news/county-commissioners-pass-a-one-year-data-center-moratorium-for-watauga-county/article_012ca886-b088-4aee-8321-6b0f851fcdca.html",
+    "snippet": "Board of Commissioners unanimously passes a one-year moratorium suspending new data center construction.",
+    "state": "North Carolina"
+  },
+  {
+    "title": "A hard no to high-tech: Canton passes data center moratorium",
+    "source": "smokymountainnews.com",
+    "publishedDate": "2026-02-11",
+    "url": "https://smokymountainnews.com/news/item/40892-a-hard-no-to-high-tech-canton-passes-data-center-moratorium",
+    "snippet": "Town Council unanimously pauses new data centers for one year after dozens of residents spoke out at a public hearing.",
+    "state": "North Carolina"
+  },
+  {
+    "title": "Clyde enacts moratorium as broader data center fight builds",
+    "source": "smokymountainnews.com",
+    "publishedDate": "2026-06-01",
+    "url": "https://smokymountainnews.com/news/item/41209-clyde-enacts-moratorium-as-broader-data-center-fight-builds",
+    "snippet": "Town enacts a data center moratorium as opposition spreads across Haywood County.",
+    "state": "North Carolina"
+  },
+  {
+    "title": "An Ordinance Imposing a Temporary Moratorium on Development",
+    "source": "gatescountync.gov",
+    "publishedDate": "2025-12-01",
+    "url": "https://gatescountync.gov/vertical/sites/%7BC4993D33-7F3A-4388-B179-2EC1739C7E2E%7D/uploads/Data_Center_Moratorium.pdf",
+    "snippet": "County adopts an ordinance putting new data center development on hold, among the earliest such moves in the state.",
+    "state": "North Carolina"
+  },
+  {
+    "title": "Apex NC approves yearlong pause on data-center projects: 'Not interested'",
+    "source": "abc11.com",
+    "publishedDate": "2026-04-28",
+    "url": "https://abc11.com/post/apex-nc-leaders-hold-public-hearing-proposed-data-center-moratorium/18885810/",
+    "snippet": "Town Council unanimously enacts a 12-month moratorium on data centers, data processing, and crypto mining.",
+    "state": "North Carolina"
+  },
+  {
+    "title": "Durham City Council passes 60-day moratorium on data center development",
+    "source": "wral.com",
+    "publishedDate": "2026-05-01",
+    "url": "https://www.wral.com/news/local/durham-city-council-data-center-meeting-may-2026/",
+    "snippet": "City Council approves an initial 60-day moratorium, later extended to 12 months in June.",
+    "state": "North Carolina"
+  },
+  {
+    "title": "City Council approves data center moratorium",
+    "source": "wilsontimes.com",
+    "publishedDate": "2026-05-01",
+    "url": "https://www.wilsontimes.com/news/city-council-approves-data-center-moratorium-25f2bcbd",
+    "snippet": "City Council unanimously adopts a moratorium prohibiting large data center approvals for at least one year.",
+    "state": "North Carolina"
+  },
+  {
+    "title": "Surry County enacts two-year data center development moratorium",
+    "source": "wfae.org",
+    "publishedDate": "2026-07-21",
+    "url": "https://www.wfae.org/2026-07-21/surry-county-enacts-two-year-data-center-development-moratorium",
+    "snippet": "Commissioners unanimously extend an initial 60-day pause into a two-year moratorium with a resident steering committee.",
+    "state": "North Carolina"
+  },
+  {
+    "title": "Davie County passes one-year data center moratorium",
+    "source": "wunc.org",
+    "publishedDate": "2026-07-07",
+    "url": "https://www.wunc.org/2026-07-07/davie-county-passes-one-year-data-center-moratorium",
+    "snippet": "Board of Commissioners unanimously approves a one-year pause amid resident concerns over water use and public health.",
+    "state": "North Carolina"
+  },
+  {
+    "title": "Holly Springs joins list enacting data center moratoriums",
+    "source": "apdillon.substack.com",
+    "publishedDate": "2026-05-01",
+    "url": "https://apdillon.substack.com/p/holly-springs-joins-list-enacting",
+    "snippet": "Town joins the growing list of North Carolina jurisdictions pausing new data center development.",
+    "state": "North Carolina"
+  },
+  {
+    "title": "Fayetteville to Explore a Data Center Moratorium",
+    "source": "cityviewnc.com",
+    "publishedDate": "2026-06-01",
+    "url": "https://www.cityviewnc.com/stories/fayetteville-hits-pause-on-data-center-ordinance/",
+    "snippet": "City Council directs staff to explore a moratorium on new data center development.",
+    "state": "North Carolina"
   }
 ]
