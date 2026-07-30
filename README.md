@@ -88,6 +88,15 @@ even if GDELT never picks it up:
 }
 ```
 
+## Excluding a headline GDELT keeps re-adding
+
+GDELT's query matches terms anywhere in the article body, not just the title, so it occasionally
+surfaces something that isn't actually about a city/county moratorium or zoning action once read
+(e.g. an unrelated permit dispute that happens to mention a county board). Deleting it from
+`opposition.json` isn't permanent — the next run will just re-fetch it from GDELT. Instead, add
+its URL to `data/opposition_excluded.json` (a flat JSON array of URLs) and commit; it's filtered
+out of every future run even if GDELT keeps finding it.
+
 ## Running the fetch script locally
 
 ```

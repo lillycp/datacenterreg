@@ -316,6 +316,23 @@ def load_opposition_seed():
         return []
 
 
+def load_excluded_urls():
+    """
+    GDELT's query matches terms anywhere in the article body, so some
+    headlines pass the title check yet aren't actually about a city/county
+    moratorium or zoning action once read (e.g. an existing crypto mine's
+    air permit dispute). Manually reviewed misses go here so they don't
+    reappear on the next automated run just because GDELT finds them again.
+    """
+    path = os.path.join(DATA_DIR, "opposition_excluded.json")
+    try:
+        with open(path, "r", encoding="utf-8") as f:
+            return set(json.load(f))
+    except (FileNotFoundError, json.JSONDecodeError) as e:
+        log("Opposition excluded: could not read {}: {}".format(path, e))
+        return set()
+
+
 # ---------------------------------------------------------------------------
 # Opposition headlines: GDELT DOC 2.0 API
 # ---------------------------------------------------------------------------
@@ -420,17 +437,20 @@ def merge_regulations(new_federal, new_state):
     return list(merged.values())
 
 
-def merge_opposition(new_items, seed_items, max_items=300):
+def merge_opposition(new_items, seed_items, excluded_urls, max_items=300):
     """Same idea as merge_regulations: don't let a failed GDELT call blank
     out headlines a previous run already found. Dedupe by URL, newest
     first, capped so the file doesn't grow unbounded. Hand-curated seed
-    headlines are always merged in alongside whatever GDELT returned."""
+    headlines are always merged in alongside whatever GDELT returned, and
+    manually excluded URLs are dropped even if GDELT keeps re-finding them."""
     existing = load_existing("opposition.json")
     merged = {item["url"]: item for item in existing if item.get("url")}
     for item in new_items:
         merged[item["url"]] = item
     for item in seed_items:
         merged[item["url"]] = item
+    for url in excluded_urls:
+        merged.pop(url, None)
     items = sorted(merged.values(), key=lambda i: i.get("publishedDate") or "", reverse=True)
     return items[:max_items]
 
@@ -440,7 +460,9 @@ def main():
 
     local = local_seed_to_opposition(load_local_seed())
     regulations = merge_regulations(fetch_federal(), fetch_state())
-    opposition = merge_opposition(fetch_opposition(), load_opposition_seed() + local)
+    opposition = merge_opposition(
+        fetch_opposition(), load_opposition_seed() + local, load_excluded_urls()
+    )
 
     with open(os.path.join(DATA_DIR, "regulations.json"), "w", encoding="utf-8") as f:
         json.dump(regulations, f, indent=2, ensure_ascii=False)
