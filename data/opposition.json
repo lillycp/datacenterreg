@@ -32,6 +32,14 @@
     "state": "Maryland"
   },
   {
+    "title": "Lowndes County begins conversation on controlling data centers",
+    "source": "valdostadailytimes.com",
+    "publishedDate": "2026-07-30",
+    "url": "https://valdostadailytimes.com/2026/07/30/lowndes-county-begins-conversation-on-controlling-data-centers/",
+    "snippet": "County drafts an ordinance with noise and buffer requirements after sustained protest from Lowndes Citizens Against Data Centers.",
+    "state": "Georgia"
+  },
+  {
     "title": "Data center developments paused for 12 months in Albany following commission vote",
     "source": "walb.com",
     "publishedDate": "2026-07-29",
@@ -1128,6 +1136,30 @@
     "state": "Georgia"
   },
   {
+    "title": "Jones County requires closed-loop water use in new data center ordinance",
+    "source": "gpb.org",
+    "publishedDate": "2025-10-22",
+    "url": "https://www.gpb.org/news/2025/10/22/wave-of-data-center-ordinances-sweep-through-ga-counties-how-strict-are-they#jones-county",
+    "snippet": "County's data center ordinance requires closed-loop water cooling systems rather than drawing from the public water supply.",
+    "state": "Georgia"
+  },
+  {
+    "title": "Lumpkin County adopts proactive 'compute center' ordinance ahead of any proposals",
+    "source": "gpb.org",
+    "publishedDate": "2025-10-22",
+    "url": "https://www.gpb.org/news/2025/10/22/wave-of-data-center-ordinances-sweep-through-ga-counties-how-strict-are-they#lumpkin-county",
+    "snippet": "Ordinance sets strict water-temperature discharge limits for cold- and warm-water fisheries, effectively ruling out most large data centers.",
+    "state": "Georgia"
+  },
+  {
+    "title": "Forsyth County bars data centers from using county water for cooling",
+    "source": "gpb.org",
+    "publishedDate": "2025-10-22",
+    "url": "https://www.gpb.org/news/2025/10/22/wave-of-data-center-ordinances-sweep-through-ga-counties-how-strict-are-they#forsyth-county",
+    "snippet": "County's data center ordinance does not allow cooling systems to draw on the county water system.",
+    "state": "Georgia"
+  },
+  {
     "title": "Data center moratorium approved by Bristol TN City Council",
     "source": "wjhl.com",
     "publishedDate": "2025-10-08",
@@ -1144,11 +1176,35 @@
     "state": "Virginia"
   },
   {
+    "title": "Jerome Township puts pause on new data center development for nine months",
+    "source": "wosu.org",
+    "publishedDate": "2025-09-09",
+    "url": "https://www.wosu.org/politics-government/2025-09-09/jerome-township-puts-pause-on-new-data-center-development-for-nine-months",
+    "snippet": "Trustees unanimously approve a nine-month moratorium, halting four pending projects, to shift data centers from a permitted to a conditional land use.",
+    "state": "Ohio"
+  },
+  {
     "title": "Clayton County Board of Commissioners Approves Moratorium on New Data Centers in Clayton County",
     "source": "claytoncountyga.gov",
     "publishedDate": "2025-09-02",
     "url": "https://www.claytoncountyga.gov/news/clayton-county-board-of-commissioners-approves-moratorium-on-new-data-centers-in-clayton-county/",
     "snippet": "Resolution 2025-193 places a moratorium on new data center approvals in unincorporated Clayton County through Dec. 31, 2025.",
+    "state": "Georgia"
+  },
+  {
+    "title": "Lamar County passes data center moratorium amid Amazon land purchase",
+    "source": "gpb.org",
+    "publishedDate": "2025-09-01",
+    "url": "https://www.gpb.org/news/2025/10/22/wave-of-data-center-ordinances-sweep-through-ga-counties-how-strict-are-they#lamar-county",
+    "snippet": "Commissioners pass a moratorium in September 2025 after learning Amazon Web Services bought a 985-acre site for $270 million; the county's zoning code hasn't been updated since 2010.",
+    "state": "Georgia"
+  },
+  {
+    "title": "City of LaGrange passes data center moratorium",
+    "source": "gpb.org",
+    "publishedDate": "2025-09-01",
+    "url": "https://www.gpb.org/news/2025/10/22/wave-of-data-center-ordinances-sweep-through-ga-counties-how-strict-are-they#lagrange",
+    "snippet": "LaGrange is among four Georgia jurisdictions, alongside Pike, Lamar, and Troup counties, to pass a data center moratorium in September 2025.",
     "state": "Georgia"
   },
   {
@@ -1208,12 +1264,28 @@
     "state": "Idaho"
   },
   {
+    "title": "Bartow County finalizes data center noise and buffer ordinance",
+    "source": "gpb.org",
+    "publishedDate": "2025-01-01",
+    "url": "https://www.gpb.org/news/2025/10/22/wave-of-data-center-ordinances-sweep-through-ga-counties-how-strict-are-they#bartow-county",
+    "snippet": "County finalizes an ordinance requiring a 200-foot property buffer and capping noise at 65 decibels by day and 55 at night, while remaining welcoming to data centers.",
+    "state": "Georgia"
+  },
+  {
     "title": "Data center design and location regulations",
     "source": "phoenix.gov",
     "publishedDate": "2024-12-01",
     "url": "https://www.phoenix.gov/",
     "snippet": "Phoenix City Council — Enacted.",
     "state": "Arizona"
+  },
+  {
+    "title": "Atlanta prohibits data centers within the Beltline overlay district",
+    "source": "gpb.org",
+    "publishedDate": "2024-09-01",
+    "url": "https://www.gpb.org/news/2025/10/22/wave-of-data-center-ordinances-sweep-through-ga-counties-how-strict-are-they#atlanta",
+    "snippet": "City Council reviews zoning starting May 2024 and by September 2024 prohibits data centers within 22 miles of the Beltline overlay district, citing 211% growth in development and water scarcity impacts.",
+    "state": "Georgia"
   },
   {
     "title": "Zoning ordinance amendment defining data centers as a distinct land use",
