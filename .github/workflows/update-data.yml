@@ -15,6 +15,11 @@ jobs:
     steps:
       - name: Check out repo
         uses: actions/checkout@v4
+        with:
+          # Full history, not the default shallow single-commit checkout —
+          # the retry-with-rebase step below needs real ancestry to rebase
+          # onto origin/main if it's moved since checkout.
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -34,7 +39,31 @@ jobs:
           git add data/regulations.json data/opposition.json data/meta.json
           if git diff --cached --quiet; then
             echo "No data changes."
-          else
-            git commit -m "Daily data refresh"
-            git push
+            exit 0
           fi
+          git commit -m "Daily data refresh"
+
+          # main can move between checkout and push (e.g. a manual push
+          # landing mid-run), which git correctly rejects as non-fast-forward.
+          # Since these three files are always fully machine-regenerated from
+          # the seed/excluded source-of-truth files plus live API results,
+          # retry by rebasing onto the new tip; if that itself conflicts,
+          # our freshly generated data wins outright rather than leaving the
+          # run stuck, and the very next run reconciles anything transient.
+          for attempt in 1 2 3 4 5; do
+            if git push; then
+              exit 0
+            fi
+            echo "Push rejected (attempt $attempt/5), rebasing onto latest origin/main..."
+            git fetch origin main
+            if ! git rebase origin/main; then
+              echo "Rebase conflict on generated data; keeping our regenerated version."
+              git rebase --abort
+              git reset --soft origin/main
+              git add data/regulations.json data/opposition.json data/meta.json
+              git commit -m "Daily data refresh"
+            fi
+            sleep $((RANDOM % 5 + 1))
+          done
+          echo "Failed to push after 5 attempts."
+          exit 1
