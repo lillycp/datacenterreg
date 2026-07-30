@@ -19,7 +19,13 @@ https://<your-github-username>.github.io/datacenterreg/
   - **Federal** bills from the [Congress.gov API](https://api.congress.gov/) (titles matching "data center")
   - **State** bills from the [Open States API v3](https://docs.openstates.org/api-v3/) (full-text search "data center")
   - **Local** ordinances from the hand-curated `data/local_seed.json` (no standard API exists at the county/city level)
-  - **Opposition headlines** from the free, keyless [GDELT DOC 2.0 API](https://blog.gdeltproject.org/gdelt-doc-2-0-api-debuts/)
+  - **Opposition headlines** from the free, keyless [GDELT DOC 2.0 API](https://blog.gdeltproject.org/gdelt-doc-2-0-api-debuts/) —
+    US news coverage of city/county-level action on data centers (moratoriums, zoning/ordinance
+    changes, council and board votes, public hearings). Headlines are also required to name
+    "data center" in the title itself, since GDELT's full-text match otherwise pulls in articles
+    that only mention data centers in passing. GDELT only monitors a fixed set of outlets and
+    regularly misses smaller independent/regional newsrooms, so `data/opposition_seed.json`
+    (hand-curated, same idea as `local_seed.json`) fills those gaps.
 - `.github/workflows/update-data.yml` — runs the script daily at 13:00 UTC (and on-demand via
   "Run workflow"), commits the refreshed `data/*.json` files if anything changed.
 
@@ -57,6 +63,24 @@ merge it in automatically:
   "status": "Enacted | Proposed",
   "date": "YYYY-MM-DD",
   "sourceUrl": "https://..."
+}
+```
+
+## Adding opposition headlines GDELT missed
+
+If you spot a real city/county data center story (moratorium, hearing, zoning vote, etc.) that
+isn't showing up on the Opposition Headlines tab, GDELT likely doesn't monitor that outlet. Add
+it to `data/opposition_seed.json` and commit — it's merged in on every run and won't get dropped
+even if GDELT never picks it up:
+
+```json
+{
+  "title": "Exact headline",
+  "source": "outlet-domain.com",
+  "publishedDate": "YYYY-MM-DD",
+  "url": "https://...",
+  "snippet": "Optional one-line summary.",
+  "state": "Full State Name"
 }
 ```
 

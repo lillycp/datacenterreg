@@ -271,6 +271,25 @@ def load_local_seed():
         return []
 
 
+def load_opposition_seed():
+    """
+    GDELT only monitors a fixed set of news sources and regularly misses
+    smaller independent/regional outlets that break local data center
+    stories (e.g. nonprofit city newsrooms). data/opposition_seed.json is
+    for hand-adding real headlines GDELT didn't pick up, in the same shape
+    as an opposition.json entry. Always merged in so they're never dropped.
+    """
+    path = os.path.join(DATA_DIR, "opposition_seed.json")
+    try:
+        with open(path, "r", encoding="utf-8") as f:
+            records = json.load(f)
+        log("Opposition seed: loaded {} curated headlines.".format(len(records)))
+        return records
+    except (FileNotFoundError, json.JSONDecodeError) as e:
+        log("Opposition seed: could not read {}: {}".format(path, e))
+        return []
+
+
 # ---------------------------------------------------------------------------
 # Opposition headlines: GDELT DOC 2.0 API
 # ---------------------------------------------------------------------------
@@ -291,9 +310,17 @@ def parse_gdelt_date(seendate):
 
 
 def fetch_opposition():
+    # Targets news coverage of city/county-level action on data centers
+    # specifically (moratoriums, zoning/ordinance changes, council and board
+    # votes, public hearings) rather than generic "opposition" language,
+    # which pulled in unrelated international and business news. Restricted
+    # to US sources since only US local government action is in scope.
+    # GDELT DOC 2.0 caps queries at 255 characters, so this stays terse.
     query = (
-        '"data center" ("opposition" OR "oppose" OR "protest" OR "moratorium" '
-        'OR "backlash" OR "pushback" OR "fight the")'
+        '"data center" ("moratorium" OR "zoning" OR "ordinance" OR "rezoning" '
+        'OR "city council" OR "county board" OR "board of supervisors" '
+        'OR "planning commission" OR "county commission" OR "public hearing") '
+        "sourcecountry:unitedstates"
     )
     params = urllib.parse.urlencode({
         "query": query,
@@ -320,8 +347,14 @@ def fetch_opposition():
         url_ = art.get("url", "")
         if not url_ or url_ in seen_urls:
             continue
-        seen_urls.add(url_)
         title = art.get("title", "")
+        # GDELT's query matches terms anywhere in the full article body, so
+        # articles that only mention "data center" in passing (e.g. an
+        # election roundup) still come back. Requiring the headline itself
+        # name a data center keeps the feed on-topic.
+        if not KEYWORD_RE.search(title):
+            continue
+        seen_urls.add(url_)
         results.append({
             "title": title,
             "source": art.get("domain", "Unknown source"),
@@ -331,7 +364,7 @@ def fetch_opposition():
             "state": guess_state(title),
         })
 
-    log("GDELT: found {} opposition headlines.".format(len(results)))
+    log("GDELT: found {} US local-legislation opposition headlines.".format(len(results)))
     return results
 
 
@@ -362,13 +395,16 @@ def merge_regulations(new_federal, new_state, local):
     return list(merged.values()) + local
 
 
-def merge_opposition(new_items, max_items=300):
+def merge_opposition(new_items, seed_items, max_items=300):
     """Same idea as merge_regulations: don't let a failed GDELT call blank
     out headlines a previous run already found. Dedupe by URL, newest
-    first, capped so the file doesn't grow unbounded."""
+    first, capped so the file doesn't grow unbounded. Hand-curated seed
+    headlines are always merged in alongside whatever GDELT returned."""
     existing = load_existing("opposition.json")
     merged = {item["url"]: item for item in existing if item.get("url")}
     for item in new_items:
+        merged[item["url"]] = item
+    for item in seed_items:
         merged[item["url"]] = item
     items = sorted(merged.values(), key=lambda i: i.get("publishedDate") or "", reverse=True)
     return items[:max_items]
@@ -378,7 +414,7 @@ def main():
     os.makedirs(DATA_DIR, exist_ok=True)
 
     regulations = merge_regulations(fetch_federal(), fetch_state(), load_local_seed())
-    opposition = merge_opposition(fetch_opposition())
+    opposition = merge_opposition(fetch_opposition(), load_opposition_seed())
 
     with open(os.path.join(DATA_DIR, "regulations.json"), "w", encoding="utf-8") as f:
         json.dump(regulations, f, indent=2, ensure_ascii=False)
