@@ -1,5 +1,13 @@
 [
   {
+    "title": "Zoning text amendment reducing the Data Center Opportunity Zone Overlay District",
+    "source": "insidenova.com",
+    "publishedDate": "2026-09-01",
+    "url": "https://www.insidenova.com/news/prince_william/prince-william-supervisors-hope-to-end-data-center-overlay-district-by-2027-initial-talks-eyed/article_60695f6f-b825-4ff5-8811-86704c916f95.html",
+    "snippet": "Prince William Board of County Supervisors — Proposed.",
+    "state": "Virginia"
+  },
+  {
     "title": "Milton among Rock County townships considering data center moratoriums",
     "source": "hngnews.com",
     "publishedDate": "2026-07-30",
@@ -176,6 +184,14 @@
     "state": "Maryland"
   },
   {
+    "title": "Proposed zoning and development ordinance for data centers (setbacks, landscape buffer)",
+    "source": "fortworthreport.org",
+    "publishedDate": "2026-07-08",
+    "url": "https://fortworthreport.org/2026/07/08/zoning-commissioners-deny-data-center-rules-return-ordinance-to-fort-worth-city-council/",
+    "snippet": "Fort Worth City Council — Proposed.",
+    "state": "Texas"
+  },
+  {
     "title": "DeKalb extends moratorium as data center backlash grows across Georgia",
     "source": "decaturish.com",
     "publishedDate": "2026-07-07",
@@ -206,6 +222,14 @@
     "url": "https://www.tribtoday.com/news/local-news/2026/07/champion-plans-rules-for-data-centers/",
     "snippet": "Township trustees and the zoning board begin drafting data center restrictions.",
     "state": "Ohio"
+  },
+  {
+    "title": "Ordinance banning new data center development within city limits",
+    "source": "texastribune.org",
+    "publishedDate": "2026-06-30",
+    "url": "https://www.texastribune.org/2026/06/30/texas-san-marcos-data-center-ban-zoning-laws/",
+    "snippet": "San Marcos City Council — Enacted.",
+    "state": "Texas"
   },
   {
     "title": "Springfield City Council passes 120-day moratorium on data centers. Here's what happens next",
@@ -536,6 +560,14 @@
     "state": "Ohio"
   },
   {
+    "title": "Data Center Text Amendment to the Unified Development Ordinance (500-ft residential setback)",
+    "source": "engagedekalb.dekalbcountyga.gov",
+    "publishedDate": "2026-04-01",
+    "url": "https://engagedekalb.dekalbcountyga.gov/data-center-text-amendment",
+    "snippet": "DeKalb County Board of Commissioners — Proposed.",
+    "state": "Georgia"
+  },
+  {
     "title": "Washington County Commission approves data center moratorium",
     "source": "wjhl.com",
     "publishedDate": "2026-03-24",
@@ -600,6 +632,14 @@
     "state": "Tennessee"
   },
   {
+    "title": "Data Center Standards & Locations Phase 2 Project Plan",
+    "source": "loudoun.gov",
+    "publishedDate": "2025-09-16",
+    "url": "https://www.loudoun.gov/6222/Phase-2-Data-Center-Standards-Locations",
+    "snippet": "Loudoun County Board of Supervisors — Enacted.",
+    "state": "Virginia"
+  },
+  {
     "title": "Clayton County Board of Commissioners Approves Moratorium on New Data Centers in Clayton County",
     "source": "claytoncountyga.gov",
     "publishedDate": "2025-09-02",
@@ -624,11 +664,51 @@
     "state": "Arizona"
   },
   {
+    "title": "Data center zoning text amendment (1,500-ft setback, Tier 4 generator requirement)",
+    "source": "northwestgeorgianews.com",
+    "publishedDate": "2025-06-01",
+    "url": "https://www.northwestgeorgianews.com/calhoun_times/news/local/all-georgia-data-center-ordinances----from-most-to-least-restrictive/article_935d360f-88a5-42a7-91e8-82f597fe4bbf.html",
+    "snippet": "Troup County Board of Commissioners — Enacted.",
+    "state": "Georgia"
+  },
+  {
     "title": "Coweta County commissioners discuss extending moratorium on data center applications",
     "source": "wsbtv.com",
     "publishedDate": "2025-05-08",
     "url": "https://www.wsbtv.com/news/local/coweta-county/coweta-county-commissioners-discuss-extending-moratorium-data-center-applications/EFNKFG6KOFDL7AO6WY3SK2WHYQ/",
     "snippet": "Commissioners unanimously adopt a 180-day moratorium to evaluate data center zoning policy.",
     "state": "Georgia"
+  },
+  {
+    "title": "Zoning amendment restricting data centers to specific planning areas with mandatory noise studies",
+    "source": "chandleraz.gov",
+    "publishedDate": "2025-05-01",
+    "url": "https://www.chandleraz.gov/",
+    "snippet": "Chandler City Council — Enacted.",
+    "state": "Arizona"
+  },
+  {
+    "title": "Zoning Ordinance Amendment eliminating by-right data center development",
+    "source": "loudoun.gov",
+    "publishedDate": "2025-03-18",
+    "url": "https://www.loudoun.gov/5990/Data-Center-Standards-Locations",
+    "snippet": "Loudoun County Board of Supervisors — Enacted.",
+    "state": "Virginia"
+  },
+  {
+    "title": "Data center design and location regulations",
+    "source": "phoenix.gov",
+    "publishedDate": "2024-12-01",
+    "url": "https://www.phoenix.gov/",
+    "snippet": "Phoenix City Council — Enacted.",
+    "state": "Arizona"
+  },
+  {
+    "title": "Zoning ordinance amendment defining data centers as a distinct land use",
+    "source": "fairfaxcounty.gov",
+    "publishedDate": "2021-11-01",
+    "url": "https://www.fairfaxcounty.gov/planning-development/",
+    "snippet": "Fairfax County Board of Supervisors — Enacted.",
+    "state": "Virginia"
   }
 ]

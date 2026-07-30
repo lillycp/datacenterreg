@@ -1,8 +1,9 @@
 # Data Center Regulation & Opposition Tracker
 
-A static site that aggregates federal, state, and local data center regulations/legislation,
-plus a feed of data center opposition headlines. Data refreshes automatically once a day via
-a scheduled GitHub Actions workflow.
+A static site that aggregates federal and state data center regulations/legislation, plus a feed
+of data center opposition headlines covering both national news and city/county-level action
+(moratoriums, zoning changes, ordinances). Data refreshes automatically once a day via a
+scheduled GitHub Actions workflow.
 
 ## Live site
 
@@ -18,14 +19,16 @@ https://<your-github-username>.github.io/datacenterreg/
 - `scripts/fetch_data.py` — stdlib-only Python script that pulls fresh data:
   - **Federal** bills from the [Congress.gov API](https://api.congress.gov/) (titles matching "data center")
   - **State** bills from the [Open States API v3](https://docs.openstates.org/api-v3/) (full-text search "data center")
-  - **Local** ordinances from the hand-curated `data/local_seed.json` (no standard API exists at the county/city level)
   - **Opposition headlines** from the free, keyless [GDELT DOC 2.0 API](https://blog.gdeltproject.org/gdelt-doc-2-0-api-debuts/) —
     US news coverage of city/county-level action on data centers (moratoriums, zoning/ordinance
     changes, council and board votes, public hearings). Headlines are also required to name
     "data center" in the title itself, since GDELT's full-text match otherwise pulls in articles
     that only mention data centers in passing. GDELT only monitors a fixed set of outlets and
     regularly misses smaller independent/regional newsrooms, so `data/opposition_seed.json`
-    (hand-curated, same idea as `local_seed.json`) fills those gaps.
+    fills those gaps with hand-curated headlines.
+  - Also folded into the Opposition Headlines feed: `data/local_seed.json`, hand-curated city/
+    county ordinances (no standard API exists at that level). There's no separate "local" level
+    in the Regulations tab — it's federal/state only.
 - `.github/workflows/update-data.yml` — runs the script daily at 13:00 UTC (and on-demand via
   "Run workflow"), commits the refreshed `data/*.json` files if anything changed.
 
@@ -50,8 +53,9 @@ in this repo.
 ## Adding more local ordinances
 
 There's no API for county/city-level rules, so `data/local_seed.json` is maintained by hand.
-Add an object in the same shape as the existing entries and commit — the next daily run will
-merge it in automatically:
+These show up on the **Opposition Headlines** tab, not Regulations & Legislation (which is
+federal/state only). Add an object in the same shape as the existing entries and commit — the
+next daily run converts it into a headline entry and merges it in automatically:
 
 ```json
 {

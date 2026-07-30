@@ -9,8 +9,10 @@ in GitHub Actions with no pip install step.
 Sources:
   - Federal bills:  Congress.gov API   (needs CONGRESS_API_KEY env var)
   - State bills:    Open States API v3 (needs OPENSTATES_API_KEY env var)
-  - Local ordinances: hand-curated data/local_seed.json (no API exists)
-  - Opposition headlines: GDELT DOC 2.0 API (free, no key required)
+  - Opposition headlines: GDELT DOC 2.0 API (free, no key required), plus
+    hand-curated data/opposition_seed.json and data/local_seed.json (city/
+    county ordinances have no standard API, and feed the headlines tab
+    rather than the Regulations tab, which is federal/state only)
 
 Any source whose API key isn't set is skipped with a log line rather than
 failing the whole run, so the script always produces valid output.
@@ -258,6 +260,12 @@ def fetch_state():
 # ---------------------------------------------------------------------------
 # Local: hand-curated seed file
 # ---------------------------------------------------------------------------
+#
+# City/county ordinances have no standard API, and unlike opposition
+# headlines they're a specific legislative record (approving body, status,
+# effective date) rather than a news article. The Regulations tab only
+# covers federal and state legislation, so these are folded into the
+# Opposition Headlines feed instead via local_seed_to_opposition().
 
 def load_local_seed():
     path = os.path.join(DATA_DIR, "local_seed.json")
@@ -269,6 +277,24 @@ def load_local_seed():
     except (FileNotFoundError, json.JSONDecodeError) as e:
         log("Local seed: could not read {}: {}".format(path, e))
         return []
+
+
+def local_seed_to_opposition(local_items):
+    items = []
+    for item in local_items:
+        url = item.get("sourceUrl", "")
+        domain = urllib.parse.urlparse(url).netloc.replace("www.", "")
+        body = item.get("body", "")
+        status = item.get("status", "")
+        items.append({
+            "title": item.get("title", ""),
+            "source": domain or "Unknown source",
+            "publishedDate": (item.get("date") or "")[:10],
+            "url": url,
+            "snippet": "{} — {}.".format(body, status) if body else "",
+            "state": item.get("state", ""),
+        })
+    return items
 
 
 def load_opposition_seed():
@@ -381,18 +407,17 @@ def load_existing(filename):
         return []
 
 
-def merge_regulations(new_federal, new_state, local):
+def merge_regulations(new_federal, new_state):
     """
     A transient API failure on any one run shouldn't erase bills that were
     successfully fetched on a previous run. Keep existing federal/state
-    entries and let fresh ones with the same id overwrite them; local
-    ordinances are always fully replaced from the hand-curated seed file.
+    entries and let fresh ones with the same id overwrite them.
     """
     existing = load_existing("regulations.json")
     merged = {r["id"]: r for r in existing if r.get("level") in ("federal", "state")}
     for r in new_federal + new_state:
         merged[r["id"]] = r
-    return list(merged.values()) + local
+    return list(merged.values())
 
 
 def merge_opposition(new_items, seed_items, max_items=300):
@@ -413,8 +438,9 @@ def merge_opposition(new_items, seed_items, max_items=300):
 def main():
     os.makedirs(DATA_DIR, exist_ok=True)
 
-    regulations = merge_regulations(fetch_federal(), fetch_state(), load_local_seed())
-    opposition = merge_opposition(fetch_opposition(), load_opposition_seed())
+    local = local_seed_to_opposition(load_local_seed())
+    regulations = merge_regulations(fetch_federal(), fetch_state())
+    opposition = merge_opposition(fetch_opposition(), load_opposition_seed() + local)
 
     with open(os.path.join(DATA_DIR, "regulations.json"), "w", encoding="utf-8") as f:
         json.dump(regulations, f, indent=2, ensure_ascii=False)
