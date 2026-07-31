@@ -2119,6 +2119,19 @@
     "nimbyConcerns": "Yes"
   },
   {
+    "title": "Board of Supervisors Approves New Data Center Zoning Ordinance Amendment",
+    "source": "fairfaxcounty.gov",
+    "publishedDate": "2024-09-10",
+    "url": "https://www.fairfaxcounty.gov/news/board-supervisors-approve-new-data-center-zoning-ordinance-amendment",
+    "snippet": "Fairfax County Board of Supervisors — Enacted.",
+    "state": "Virginia",
+    "jurisdiction": "Fairfax County",
+    "legislationType": "Zoning Restriction",
+    "reasons": "noise, residential setback (200 ft minimum), building design standards, distance from Metro stations (1 mile minimum)",
+    "sustainability": "No",
+    "nimbyConcerns": "Yes"
+  },
+  {
     "title": "Atlanta prohibits data centers within the Beltline overlay district",
     "source": "gpb.org",
     "publishedDate": "2024-09-01",
@@ -2130,18 +2143,5 @@
     "reasons": "energy use (730 MW), water scarcity",
     "sustainability": "Yes",
     "nimbyConcerns": "No"
-  },
-  {
-    "title": "Zoning ordinance amendment defining data centers as a distinct land use",
-    "source": "fairfaxcounty.gov",
-    "publishedDate": "2021-11-01",
-    "url": "https://www.fairfaxcounty.gov/planning-development/",
-    "snippet": "Fairfax County Board of Supervisors — Enacted.",
-    "state": "Virginia",
-    "jurisdiction": "Fairfax County",
-    "legislationType": "Zoning Restriction",
-    "reasons": "land use classification",
-    "sustainability": "No",
-    "nimbyConcerns": "Yes"
   }
 ]

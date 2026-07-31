@@ -45,17 +45,17 @@
     "nimbyConcerns": "Yes"
   },
   {
-    "id": "local-fairfax-va-zoning-2021",
+    "id": "local-fairfax-va-zoning-2024",
     "level": "local",
     "state": "Virginia",
     "jurisdiction": "Fairfax County",
-    "title": "Zoning ordinance amendment defining data centers as a distinct land use",
+    "title": "Board of Supervisors Approves New Data Center Zoning Ordinance Amendment",
     "body": "Fairfax County Board of Supervisors",
     "status": "Enacted",
-    "date": "2021-11-01",
-    "sourceUrl": "https://www.fairfaxcounty.gov/planning-development/",
+    "date": "2024-09-10",
+    "sourceUrl": "https://www.fairfaxcounty.gov/news/board-supervisors-approve-new-data-center-zoning-ordinance-amendment",
     "legislationType": "Zoning Restriction",
-    "reasons": "land use classification",
+    "reasons": "noise, residential setback (200 ft minimum), building design standards, distance from Metro stations (1 mile minimum)",
     "sustainability": "No",
     "nimbyConcerns": "Yes"
   },
