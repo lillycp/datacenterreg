@@ -3,100 +3,150 @@
     "id": "local-loudoun-va-zoam-2025",
     "level": "local",
     "state": "Virginia",
+    "jurisdiction": "Loudoun County",
     "title": "Zoning Ordinance Amendment eliminating by-right data center development",
     "body": "Loudoun County Board of Supervisors",
     "status": "Enacted",
     "date": "2025-03-18",
-    "sourceUrl": "https://www.loudoun.gov/5990/Data-Center-Standards-Locations"
+    "sourceUrl": "https://www.loudoun.gov/5990/Data-Center-Standards-Locations",
+    "legislationType": "Zoning Restriction",
+    "reasons": "community review process, land use control",
+    "sustainability": "No",
+    "nimbyConcerns": "Yes"
   },
   {
     "id": "local-loudoun-va-phase2-2025",
     "level": "local",
     "state": "Virginia",
+    "jurisdiction": "Loudoun County",
     "title": "Data Center Standards & Locations Phase 2 Project Plan",
     "body": "Loudoun County Board of Supervisors",
     "status": "Enacted",
     "date": "2025-09-16",
-    "sourceUrl": "https://www.loudoun.gov/6222/Phase-2-Data-Center-Standards-Locations"
+    "sourceUrl": "https://www.loudoun.gov/6222/Phase-2-Data-Center-Standards-Locations",
+    "legislationType": "Ordinance",
+    "reasons": "location standards",
+    "sustainability": "No",
+    "nimbyConcerns": "Yes"
   },
   {
     "id": "local-princewilliam-va-zta-2026",
     "level": "local",
     "state": "Virginia",
+    "jurisdiction": "Prince William County",
     "title": "Zoning text amendment reducing the Data Center Opportunity Zone Overlay District",
     "body": "Prince William Board of County Supervisors",
     "status": "Proposed",
     "date": "2026-09-01",
-    "sourceUrl": "https://www.insidenova.com/news/prince_william/prince-william-supervisors-hope-to-end-data-center-overlay-district-by-2027-initial-talks-eyed/article_60695f6f-b825-4ff5-8811-86704c916f95.html"
+    "sourceUrl": "https://www.insidenova.com/news/prince_william/prince-william-supervisors-hope-to-end-data-center-overlay-district-by-2027-initial-talks-eyed/article_60695f6f-b825-4ff5-8811-86704c916f95.html",
+    "legislationType": "Zoning Restriction",
+    "reasons": "reducing overlay district, community pressure",
+    "sustainability": "No",
+    "nimbyConcerns": "Yes"
   },
   {
     "id": "local-fairfax-va-zoning-2021",
     "level": "local",
     "state": "Virginia",
+    "jurisdiction": "Fairfax County",
     "title": "Zoning ordinance amendment defining data centers as a distinct land use",
     "body": "Fairfax County Board of Supervisors",
     "status": "Enacted",
     "date": "2021-11-01",
-    "sourceUrl": "https://www.fairfaxcounty.gov/planning-development/"
+    "sourceUrl": "https://www.fairfaxcounty.gov/planning-development/",
+    "legislationType": "Zoning Restriction",
+    "reasons": "land use classification",
+    "sustainability": "No",
+    "nimbyConcerns": "Yes"
   },
   {
     "id": "local-dekalb-ga-text-amendment-2026",
     "level": "local",
     "state": "Georgia",
+    "jurisdiction": "DeKalb County",
     "title": "Data Center Text Amendment to the Unified Development Ordinance (500-ft residential setback)",
     "body": "DeKalb County Board of Commissioners",
     "status": "Proposed",
     "date": "2026-04-01",
-    "sourceUrl": "https://engagedekalb.dekalbcountyga.gov/data-center-text-amendment"
+    "sourceUrl": "https://engagedekalb.dekalbcountyga.gov/data-center-text-amendment",
+    "legislationType": "Zoning Restriction",
+    "reasons": "residential setback, property values",
+    "sustainability": "No",
+    "nimbyConcerns": "Yes"
   },
   {
     "id": "local-troup-ga-ordinance-2025",
     "level": "local",
     "state": "Georgia",
+    "jurisdiction": "Troup County",
     "title": "Data center zoning text amendment (1,500-ft setback, Tier 4 generator requirement)",
     "body": "Troup County Board of Commissioners",
     "status": "Enacted",
     "date": "2025-06-01",
-    "sourceUrl": "https://www.northwestgeorgianews.com/calhoun_times/news/local/all-georgia-data-center-ordinances----from-most-to-least-restrictive/article_935d360f-88a5-42a7-91e8-82f597fe4bbf.html"
+    "sourceUrl": "https://www.northwestgeorgianews.com/calhoun_times/news/local/all-georgia-data-center-ordinances----from-most-to-least-restrictive/article_935d360f-88a5-42a7-91e8-82f597fe4bbf.html",
+    "legislationType": "Zoning Restriction",
+    "reasons": "setback, backup generator emissions",
+    "sustainability": "No",
+    "nimbyConcerns": "Yes"
   },
   {
     "id": "local-sanmarcos-tx-ban-2026",
     "level": "local",
     "state": "Texas",
+    "jurisdiction": "San Marcos",
     "title": "Ordinance banning new data center development within city limits",
     "body": "San Marcos City Council",
     "status": "Enacted",
     "date": "2026-06-30",
-    "sourceUrl": "https://www.texastribune.org/2026/06/30/texas-san-marcos-data-center-ban-zoning-laws/"
+    "sourceUrl": "https://www.texastribune.org/2026/06/30/texas-san-marcos-data-center-ban-zoning-laws/",
+    "legislationType": "Ban",
+    "reasons": "local control over land use",
+    "sustainability": "No",
+    "nimbyConcerns": "Yes"
   },
   {
     "id": "local-fortworth-tx-ordinance-2026",
     "level": "local",
     "state": "Texas",
+    "jurisdiction": "Fort Worth",
     "title": "Proposed zoning and development ordinance for data centers (setbacks, landscape buffer)",
     "body": "Fort Worth City Council",
     "status": "Proposed",
     "date": "2026-07-08",
-    "sourceUrl": "https://fortworthreport.org/2026/07/08/zoning-commissioners-deny-data-center-rules-return-ordinance-to-fort-worth-city-council/"
+    "sourceUrl": "https://fortworthreport.org/2026/07/08/zoning-commissioners-deny-data-center-rules-return-ordinance-to-fort-worth-city-council/",
+    "legislationType": "Zoning Restriction",
+    "reasons": "setbacks, landscape buffer",
+    "sustainability": "No",
+    "nimbyConcerns": "Yes"
   },
   {
     "id": "local-phoenix-az-regs-2024",
     "level": "local",
     "state": "Arizona",
+    "jurisdiction": "Phoenix",
     "title": "Data center design and location regulations",
     "body": "Phoenix City Council",
     "status": "Enacted",
     "date": "2024-12-01",
-    "sourceUrl": "https://www.phoenix.gov/"
+    "sourceUrl": "https://www.phoenix.gov/",
+    "legislationType": "Regulation",
+    "reasons": "design and location standards",
+    "sustainability": "No",
+    "nimbyConcerns": "Yes"
   },
   {
     "id": "local-chandler-az-zoning-2025",
     "level": "local",
     "state": "Arizona",
+    "jurisdiction": "Chandler",
     "title": "Zoning amendment restricting data centers to specific planning areas with mandatory noise studies",
     "body": "Chandler City Council",
     "status": "Enacted",
     "date": "2025-05-01",
-    "sourceUrl": "https://www.chandleraz.gov/"
+    "sourceUrl": "https://www.chandleraz.gov/",
+    "legislationType": "Zoning Restriction",
+    "reasons": "noise",
+    "sustainability": "No",
+    "nimbyConcerns": "Yes"
   }
 ]

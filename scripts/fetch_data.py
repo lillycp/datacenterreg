@@ -293,6 +293,11 @@ def local_seed_to_opposition(local_items):
             "url": url,
             "snippet": "{} — {}.".format(body, status) if body else "",
             "state": item.get("state", ""),
+            "jurisdiction": item.get("jurisdiction", ""),
+            "legislationType": item.get("legislationType", ""),
+            "reasons": item.get("reasons", ""),
+            "sustainability": item.get("sustainability", "No"),
+            "nimbyConcerns": item.get("nimbyConcerns", "No"),
         })
     return items
 
@@ -342,6 +347,43 @@ def guess_state(text):
         if re.search(r"\b" + re.escape(name) + r"\b", text):
             return name
     return ""
+
+
+LEGISLATION_TYPE_PATTERNS = [
+    (re.compile(r"\b(reject|rejects|rejected|votes? down|voted down|shoots? down|denies|denied)\b", re.IGNORECASE), "Rejection"),
+    (re.compile(r"\bban(s|ned)?\b", re.IGNORECASE), "Ban"),
+    (re.compile(r"\bmoratorium\b", re.IGNORECASE), "Moratorium"),
+    (re.compile(r"\bzoning\b", re.IGNORECASE), "Zoning Restriction"),
+    (re.compile(r"\bordinance\b", re.IGNORECASE), "Ordinance"),
+]
+
+SUSTAINABILITY_RE = re.compile(r"\b(water|energy|power|electric|electricity|grid)\b", re.IGNORECASE)
+NIMBY_RE = re.compile(
+    r"\b(noise|light|glare|rural|compatib\w*|scale|precedent|setback|buffer|"
+    r"property values?|quality of life|visual)\b",
+    re.IGNORECASE,
+)
+
+
+def guess_legislation_type(title):
+    """
+    Best-effort classification from the headline alone, for raw GDELT
+    catches that haven't been manually reviewed into the curated seed file.
+    Curated entries (opposition_seed.json, local_seed.json) carry an
+    explicit legislationType instead of relying on this guess.
+    """
+    for pattern, label in LEGISLATION_TYPE_PATTERNS:
+        if pattern.search(title):
+            return label
+    return ""
+
+
+def guess_sustainability(title):
+    return "Yes" if SUSTAINABILITY_RE.search(title) else "No"
+
+
+def guess_nimby(title):
+    return "Yes" if NIMBY_RE.search(title) else "No"
 
 
 def parse_gdelt_date(seendate):
@@ -405,6 +447,11 @@ def fetch_opposition():
             "url": url_,
             "snippet": "",
             "state": guess_state(title),
+            "jurisdiction": "",
+            "legislationType": guess_legislation_type(title),
+            "reasons": "",
+            "sustainability": guess_sustainability(title),
+            "nimbyConcerns": guess_nimby(title),
         })
 
     log("GDELT: found {} US local-legislation opposition headlines.".format(len(results)))

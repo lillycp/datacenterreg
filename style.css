@@ -169,6 +169,8 @@ td a:hover { text-decoration: underline; }
 .badge-federal { background: #e3ecfb; color: #1a4694; }
 .badge-state { background: var(--teal-light); color: var(--teal); }
 .badge-local { background: #fbe9d9; color: #a5641a; }
+.badge-sustain-yes { background: #e1f0e1; color: #2e7d32; }
+.badge-sustain-no { background: #f0f0f0; color: var(--muted); }
 
 .status-pill {
   font-size: 0.78rem;
@@ -181,42 +183,10 @@ td a:hover { text-decoration: underline; }
   padding: 32px 16px;
 }
 
-.headline-list {
-  list-style: none;
-  display: flex;
-  flex-direction: column;
-  gap: 12px;
-}
-
-.headline-list li {
-  background: #fff;
-  border: 1px solid var(--border);
-  border-radius: 10px;
-  padding: 16px 18px;
-  box-shadow: 0 2px 10px rgba(26,39,68,0.05);
-}
-
-.headline-title {
-  font-size: 1rem;
-  font-weight: 700;
-  color: var(--navy);
-  text-decoration: none;
-}
-.headline-title:hover { color: var(--teal); }
-
-.headline-meta {
-  margin-top: 6px;
-  font-size: 0.8rem;
-  color: var(--muted);
-  display: flex;
-  gap: 10px;
-  flex-wrap: wrap;
-}
-
 .headline-snippet {
-  margin-top: 8px;
-  font-size: 0.88rem;
-  color: #444;
+  margin-top: 4px;
+  font-size: 0.85rem;
+  color: var(--muted);
 }
 
 footer {

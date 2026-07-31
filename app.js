@@ -95,34 +95,87 @@
   }
 
   // ---------- Opposition tab ----------
-  function renderOpposition() {
-    var list = $("oppList");
-    list.innerHTML = "";
-
-    var items = opposition.slice().sort(function (a, b) {
-      return new Date(b.publishedDate || 0) - new Date(a.publishedDate || 0);
+  function populateOppFilters() {
+    var stateSelect = $("oppStateFilter");
+    var states = Array.from(new Set(opposition.map(function (o) { return o.state; }).filter(Boolean))).sort();
+    states.forEach(function (s) {
+      var opt = document.createElement("option");
+      opt.value = s;
+      opt.textContent = s;
+      stateSelect.appendChild(opt);
     });
 
-    if (items.length === 0) {
-      list.innerHTML = '<li class="empty-row">No opposition headlines found yet.</li>';
+    var typeSelect = $("oppTypeFilter");
+    var types = Array.from(new Set(opposition.map(function (o) { return o.legislationType; }).filter(Boolean))).sort();
+    types.forEach(function (t) {
+      var opt = document.createElement("option");
+      opt.value = t;
+      opt.textContent = t;
+      typeSelect.appendChild(opt);
+    });
+  }
+
+  function yesNoBadge(value) {
+    var isYes = value === "Yes";
+    var cls = isYes ? "badge-sustain-yes" : "badge-sustain-no";
+    return '<span class="badge ' + cls + '">' + (isYes ? "Yes" : "No") + "</span>";
+  }
+
+  function renderOpposition() {
+    var stateVal = $("oppStateFilter").value;
+    var typeVal = $("oppTypeFilter").value;
+    var sustainVal = $("oppSustainabilityFilter").value;
+    var nimbyVal = $("oppNimbyFilter").value;
+    var sortVal = $("oppSortOrder").value;
+
+    var rows = opposition.slice();
+    if (stateVal !== "all") {
+      rows = rows.filter(function (o) { return o.state === stateVal; });
+    }
+    if (typeVal !== "all") {
+      rows = rows.filter(function (o) { return o.legislationType === typeVal; });
+    }
+    if (sustainVal !== "all") {
+      rows = rows.filter(function (o) { return o.sustainability === sustainVal; });
+    }
+    if (nimbyVal !== "all") {
+      rows = rows.filter(function (o) { return o.nimbyConcerns === nimbyVal; });
+    }
+
+    if (sortVal === "recent") {
+      rows.sort(function (a, b) { return new Date(b.publishedDate || 0) - new Date(a.publishedDate || 0); });
     } else {
-      items.forEach(function (item) {
-        var li = document.createElement("li");
-        li.innerHTML =
-          '<a class="headline-title" href="' + escapeHtml(item.url) + '" target="_blank" rel="noopener">' +
-            escapeHtml(item.title) +
-          "</a>" +
-          '<div class="headline-meta">' +
-            "<span>" + escapeHtml(item.source || "Unknown source") + "</span>" +
-            "<span>" + formatDate(item.publishedDate) + "</span>" +
-            (item.state ? "<span>" + escapeHtml(item.state) + "</span>" : "") +
-          "</div>" +
-          (item.snippet ? '<div class="headline-snippet">' + escapeHtml(item.snippet) + "</div>" : "");
-        list.appendChild(li);
+      rows.sort(function (a, b) {
+        return (a.state || "").localeCompare(b.state || "") ||
+          (new Date(b.publishedDate || 0) - new Date(a.publishedDate || 0));
       });
     }
 
-    $("oppCount").textContent = items.length + (items.length === 1 ? " headline" : " headlines");
+    var tbody = $("oppTableBody");
+    tbody.innerHTML = "";
+
+    if (rows.length === 0) {
+      tbody.innerHTML = '<tr><td colspan="8" class="empty-row">No opposition headlines match this filter.</td></tr>';
+    } else {
+      rows.forEach(function (o) {
+        var tr = document.createElement("tr");
+        var headlineCell = '<a href="' + escapeHtml(o.url) + '" target="_blank" rel="noopener">' +
+          escapeHtml(o.title) + "</a>" +
+          (o.snippet ? '<div class="headline-snippet">' + escapeHtml(o.snippet) + "</div>" : "");
+        tr.innerHTML =
+          "<td>" + escapeHtml(o.state || "—") + "</td>" +
+          "<td>" + escapeHtml(o.jurisdiction || "—") + "</td>" +
+          "<td>" + escapeHtml(o.legislationType || "—") + "</td>" +
+          "<td>" + headlineCell + "</td>" +
+          "<td>" + formatDate(o.publishedDate) + "</td>" +
+          "<td>" + escapeHtml(o.reasons || "—") + "</td>" +
+          "<td>" + yesNoBadge(o.sustainability) + "</td>" +
+          "<td>" + yesNoBadge(o.nimbyConcerns) + "</td>";
+        tbody.appendChild(tr);
+      });
+    }
+
+    $("oppCount").textContent = rows.length + (rows.length === 1 ? " headline" : " headlines");
   }
 
   // ---------- Data loading ----------
@@ -160,10 +213,16 @@
     loadJson("data/opposition.json")
       .then(function (data) {
         opposition = data;
+        populateOppFilters();
         renderOpposition();
+        $("oppStateFilter").addEventListener("change", renderOpposition);
+        $("oppTypeFilter").addEventListener("change", renderOpposition);
+        $("oppSustainabilityFilter").addEventListener("change", renderOpposition);
+        $("oppNimbyFilter").addEventListener("change", renderOpposition);
+        $("oppSortOrder").addEventListener("change", renderOpposition);
       })
       .catch(function () {
-        $("oppList").innerHTML = '<li class="empty-row">Could not load headline data.</li>';
+        $("oppTableBody").innerHTML = '<tr><td colspan="8" class="empty-row">Could not load headline data.</td></tr>';
       });
   }
 

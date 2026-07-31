@@ -5,7 +5,12 @@
     "publishedDate": "2026-09-01",
     "url": "https://www.insidenova.com/news/prince_william/prince-william-supervisors-hope-to-end-data-center-overlay-district-by-2027-initial-talks-eyed/article_60695f6f-b825-4ff5-8811-86704c916f95.html",
     "snippet": "Prince William Board of County Supervisors — Proposed.",
-    "state": "Virginia"
+    "state": "Virginia",
+    "jurisdiction": "Prince William County",
+    "legislationType": "Zoning Restriction",
+    "reasons": "reducing overlay district, community pressure",
+    "sustainability": "No",
+    "nimbyConcerns": "Yes"
   },
   {
     "title": "Milton among Rock County townships considering data center moratoriums",
@@ -13,7 +18,12 @@
     "publishedDate": "2026-07-30",
     "url": "http://www.hngnews.com/milton_courier/milton-among-rock-county-townships-considering-data-center-moratoriums/article_e7d26e46-3441-5e0a-9083-06f7eaeb308e.html",
     "snippet": "",
-    "state": "Wisconsin"
+    "state": "Wisconsin",
+    "jurisdiction": "Milton (Rock County)",
+    "legislationType": "Moratorium",
+    "reasons": "resident concern (unspecified)",
+    "sustainability": "No",
+    "nimbyConcerns": "No"
   },
   {
     "title": "Windsor town code for data centers to be discussed at work session",
@@ -21,7 +31,12 @@
     "publishedDate": "2026-07-30",
     "url": "https://www.greeleytribune.com/2026/07/30/windsor-data-center-allow/",
     "snippet": "",
-    "state": "Colorado"
+    "state": "Colorado",
+    "jurisdiction": "Windsor",
+    "legislationType": "Zoning Restriction",
+    "reasons": "town code review (unspecified)",
+    "sustainability": "No",
+    "nimbyConcerns": "No"
   },
   {
     "title": "Frederick County Executive requests pause on data center land use vote",
@@ -29,7 +44,12 @@
     "publishedDate": "2026-07-30",
     "url": "https://www.wypr.org/wypr-news/2026-07-30/frederick-county-executive-requests-pause-on-data-center-land-use-vote",
     "snippet": "County Executive asks to postpone a vote that could rezone 1,118 acres of preservable land for data center use.",
-    "state": "Maryland"
+    "state": "Maryland",
+    "jurisdiction": "Frederick County",
+    "legislationType": "Zoning Restriction",
+    "reasons": "farmland preservation, zoning conflict",
+    "sustainability": "No",
+    "nimbyConcerns": "Yes"
   },
   {
     "title": "Lowndes County begins conversation on controlling data centers",
@@ -37,7 +57,25 @@
     "publishedDate": "2026-07-30",
     "url": "https://valdostadailytimes.com/2026/07/30/lowndes-county-begins-conversation-on-controlling-data-centers/",
     "snippet": "County drafts an ordinance with noise and buffer requirements after sustained protest from Lowndes Citizens Against Data Centers.",
-    "state": "Georgia"
+    "state": "Georgia",
+    "jurisdiction": "Lowndes County",
+    "legislationType": "Ordinance",
+    "reasons": "water use, noise, buffers/setbacks",
+    "sustainability": "Yes",
+    "nimbyConcerns": "Yes"
+  },
+  {
+    "title": "Botetourt County planning commissioner concerned about data center's future water impact",
+    "source": "wdbj7.com",
+    "publishedDate": "2026-07-29",
+    "url": "https://www.wdbj7.com/2026/07/30/botetourt-county-planning-commissioner-concerned-about-data-centers-future-water-impact/",
+    "snippet": "Board of Supervisors votes 3-1 to create an independent commission to study a proposed Google data center's water impact, drawing up to 2 million gallons a day.",
+    "state": "Virginia",
+    "jurisdiction": "Botetourt County",
+    "legislationType": "Other",
+    "reasons": "water use (up to 2 million gallons/day), drought risk",
+    "sustainability": "Yes",
+    "nimbyConcerns": "No"
   },
   {
     "title": "Data center developments paused for 12 months in Albany following commission vote",
@@ -45,7 +83,12 @@
     "publishedDate": "2026-07-29",
     "url": "https://www.walb.com/2026/07/29/data-center-developments-paused-12-months-albany-following-commission-vote/",
     "snippet": "Albany-Dougherty commissioners vote to pause new data center development for a year.",
-    "state": "Georgia"
+    "state": "Georgia",
+    "jurisdiction": "Albany",
+    "legislationType": "Moratorium",
+    "reasons": "zoning/impact review",
+    "sustainability": "No",
+    "nimbyConcerns": "No"
   },
   {
     "title": "DeSoto approves data center moratorium, but controversial project can advance",
@@ -53,7 +96,12 @@
     "publishedDate": "2026-07-29",
     "url": "https://www.wgcu.org/top-story/2026-07-29/desoto-approves-data-center-moratorium-but-controversial-project-can-advance",
     "snippet": "Commissioners approve a one-year moratorium on data centers, carving out an exception for an 800-plus-acre project already proposed.",
-    "state": "Florida"
+    "state": "Florida",
+    "jurisdiction": "DeSoto County",
+    "legislationType": "Moratorium",
+    "reasons": "water use (millions of gallons)",
+    "sustainability": "Yes",
+    "nimbyConcerns": "No"
   },
   {
     "title": "Pulaski County Quorum Court rejects data center moratorium containing AVAIO project exemption",
@@ -61,7 +109,12 @@
     "publishedDate": "2026-07-28",
     "url": "https://www.arkansasonline.com/news/2026/jul/28/pulaski-county-quorum-court-rejects-data-center/",
     "snippet": "Quorum Court votes down a proposed one-year data center moratorium after a dispute over a project exemption.",
-    "state": "Arkansas"
+    "state": "Arkansas",
+    "jurisdiction": "Pulaski County",
+    "legislationType": "Rejection",
+    "reasons": "project exemption dispute",
+    "sustainability": "No",
+    "nimbyConcerns": "No"
   },
   {
     "title": "County Council unanimously approves 18-month data center moratorium",
@@ -69,7 +122,12 @@
     "publishedDate": "2026-07-28",
     "url": "https://bethesdamagazine.com/2026/07/28/county-council-unanimously-approves-data-center-moratorium/",
     "snippet": "Montgomery County Council unanimously passes an 18-month moratorium and new zoning limitations on data centers.",
-    "state": "Maryland"
+    "state": "Maryland",
+    "jurisdiction": "Montgomery County",
+    "legislationType": "Moratorium",
+    "reasons": "utility rates, zoning limitations",
+    "sustainability": "Yes",
+    "nimbyConcerns": "No"
   },
   {
     "title": "Clearcreek Township passes data center permit moratorium",
@@ -77,7 +135,12 @@
     "publishedDate": "2026-07-27",
     "url": "https://www.wdtn.com/news/miami-valley-data-centers/clearcreek-township-passes-data-center-permit-moratorium/",
     "snippet": "Trustees approve a resolution imposing a one-year moratorium on data center permits.",
-    "state": "Ohio"
+    "state": "Ohio",
+    "jurisdiction": "Clearcreek Township",
+    "legislationType": "Moratorium",
+    "reasons": "regulatory review",
+    "sustainability": "No",
+    "nimbyConcerns": "No"
   },
   {
     "title": "Land Use Moratorium Enacted on Data Centers & BESS Facilities",
@@ -85,7 +148,12 @@
     "publishedDate": "2026-07-27",
     "url": "https://www.hillsboro-oregon.gov/Home/Components/News/News/17551/4300",
     "snippet": "City Council enacts a 120-day moratorium on new data center and battery storage land use applications, the first in Oregon.",
-    "state": "Oregon"
+    "state": "Oregon",
+    "jurisdiction": "Hillsboro",
+    "legislationType": "Moratorium",
+    "reasons": "electricity and water use, noise, tax incentives, limited jobs",
+    "sustainability": "Yes",
+    "nimbyConcerns": "Yes"
   },
   {
     "title": "Kent County adopts data center regulations, may consider future ban",
@@ -93,7 +161,12 @@
     "publishedDate": "2026-07-23",
     "url": "https://spotlightdelaware.org/2026/07/23/kent-county-adopts-data-center-regulations-may-consider-future-ban/",
     "snippet": "County adopts new data center regulations after resident opposition, with a future ban still under consideration.",
-    "state": "Delaware"
+    "state": "Delaware",
+    "jurisdiction": "Kent County",
+    "legislationType": "Ordinance",
+    "reasons": "buffers, noise limits, public health",
+    "sustainability": "No",
+    "nimbyConcerns": "Yes"
   },
   {
     "title": "Moratorium on data centers approved by Lyon County commissioners",
@@ -101,7 +174,12 @@
     "publishedDate": "2026-07-23",
     "url": "https://www.ksnt.com/news/local-news/moratorium-on-data-centers-approved-by-lyon-county-commissioners/",
     "snippet": "Commissioners approve a six-month data center moratorium.",
-    "state": "Kansas"
+    "state": "Kansas",
+    "jurisdiction": "Lyon County",
+    "legislationType": "Moratorium",
+    "reasons": "regional review (unspecified)",
+    "sustainability": "No",
+    "nimbyConcerns": "No"
   },
   {
     "title": "Yankton County, South Dakota county commissioners pass data center moratorium",
@@ -109,7 +187,12 @@
     "publishedDate": "2026-07-22",
     "url": "https://www.dakotanewsnow.com/2026/07/22/data-center-moratorium-passes-yankton-county-south-dakota/",
     "snippet": "Commission unanimously places a six-month moratorium on large data center and cryptocurrency projects.",
-    "state": "South Dakota"
+    "state": "South Dakota",
+    "jurisdiction": "Yankton County",
+    "legislationType": "Moratorium",
+    "reasons": "regional review (unspecified)",
+    "sustainability": "No",
+    "nimbyConcerns": "No"
   },
   {
     "title": "Nashville Green-Lights Data Center Regulations, Permit Moratorium",
@@ -117,7 +200,12 @@
     "publishedDate": "2026-07-21",
     "url": "https://nashvillebanner.com/2026/07/21/nashville-data-center-regulations-moratorium/",
     "snippet": "Metro Council votes to pause new data center permits until Dec. 1 while it finalizes zoning regulations.",
-    "state": "Tennessee"
+    "state": "Tennessee",
+    "jurisdiction": "Nashville",
+    "legislationType": "Moratorium",
+    "reasons": "zoning regulation gap",
+    "sustainability": "No",
+    "nimbyConcerns": "No"
   },
   {
     "title": "30-day data center moratorium approved by Cherokee County commission",
@@ -125,7 +213,12 @@
     "publishedDate": "2026-07-21",
     "url": "https://www.wsbtv.com/news/local/cherokee-county/30-day-data-center-moratorium-approved-by-cherokee-county-commission/KUBAEKCDIBDRLN6TCEOZYDJEJE/",
     "snippet": "Board of Commissioners unanimously approves a 30-day moratorium on data centers.",
-    "state": "Georgia"
+    "state": "Georgia",
+    "jurisdiction": "Cherokee County",
+    "legislationType": "Moratorium",
+    "reasons": "regional water/energy concerns",
+    "sustainability": "Yes",
+    "nimbyConcerns": "No"
   },
   {
     "title": "Liberty Twp. advances data center restrictions to trustees for final vote",
@@ -133,7 +226,12 @@
     "publishedDate": "2026-07-21",
     "url": "https://www.journal-news.com/local/liberty-twp-advances-data-center-restrictions-to-trustees-for-final-vote/article_c375e13a-1a1e-5099-a373-7c302d465c37.html",
     "snippet": "Trustees vote 3-0 to require data center proposals go through the township's planned unit development process.",
-    "state": "Ohio"
+    "state": "Ohio",
+    "jurisdiction": "Liberty Township",
+    "legislationType": "Zoning Restriction",
+    "reasons": "oversight/review process",
+    "sustainability": "No",
+    "nimbyConcerns": "No"
   },
   {
     "title": "Monument places moratorium on data centers, following decision in Woodland Park",
@@ -141,7 +239,12 @@
     "publishedDate": "2026-07-21",
     "url": "https://gazette.com/2026/07/21/monument-places-moratorium-on-data-centers-following-decision-in-woodland-park/",
     "snippet": "Town Council votes to place a six-month ban on new data center applications, the first in El Paso County.",
-    "state": "Colorado"
+    "state": "Colorado",
+    "jurisdiction": "Monument",
+    "legislationType": "Ban",
+    "reasons": "proactive planning (unspecified)",
+    "sustainability": "No",
+    "nimbyConcerns": "No"
   },
   {
     "title": "Bullitt County data center moratorium",
@@ -149,7 +252,12 @@
     "publishedDate": "2026-07-21",
     "url": "https://spectrumnews1.com/ky/louisville/news/2026/07/21/bullitt-county-data-center-moratorium",
     "snippet": "Fiscal Court approves a one-year moratorium on new data center developments.",
-    "state": "Kentucky"
+    "state": "Kentucky",
+    "jurisdiction": "Bullitt County",
+    "legislationType": "Moratorium",
+    "reasons": "regional review (unspecified)",
+    "sustainability": "No",
+    "nimbyConcerns": "No"
   },
   {
     "title": "Surry County enacts two-year data center development moratorium",
@@ -157,7 +265,12 @@
     "publishedDate": "2026-07-21",
     "url": "https://www.wfae.org/2026-07-21/surry-county-enacts-two-year-data-center-development-moratorium",
     "snippet": "Commissioners unanimously extend an initial 60-day pause into a two-year moratorium with a resident steering committee.",
-    "state": "North Carolina"
+    "state": "North Carolina",
+    "jurisdiction": "Surry County",
+    "legislationType": "Moratorium",
+    "reasons": "power provider/environmental research (steering committee)",
+    "sustainability": "Yes",
+    "nimbyConcerns": "No"
   },
   {
     "title": "Dougherty County Commissioners approve 45-day resolution to review zoning for data centers",
@@ -165,7 +278,12 @@
     "publishedDate": "2026-07-20",
     "url": "https://www.walb.com/2026/07/20/dougherty-county-commissioners-approve-45-day-resolution-review-zoning-data-centers/",
     "snippet": "Commissioners approve a 45-day moratorium on accepting and approving data center zoning applications.",
-    "state": "Georgia"
+    "state": "Georgia",
+    "jurisdiction": "Dougherty County",
+    "legislationType": "Moratorium",
+    "reasons": "zoning review needed",
+    "sustainability": "No",
+    "nimbyConcerns": "No"
   },
   {
     "title": "South Carolina county approves 6-month data center moratorium after residents warn of ruin",
@@ -173,7 +291,12 @@
     "publishedDate": "2026-07-20",
     "url": "https://www.thecooldown.com/green-tech/chester-county-data-center-moratorium-residents-warn-ruin/",
     "snippet": "Chester County Council unanimously approves a temporary moratorium, halting new applications for six months.",
-    "state": "South Carolina"
+    "state": "South Carolina",
+    "jurisdiction": "Chester County",
+    "legislationType": "Moratorium",
+    "reasons": "resident opposition (unspecified)",
+    "sustainability": "No",
+    "nimbyConcerns": "No"
   },
   {
     "title": "3-month long moratorium put on data centers in Cleveland",
@@ -181,7 +304,12 @@
     "publishedDate": "2026-07-16",
     "url": "https://www.cleveland19.com/2026/07/16/3-month-long-moratorium-put-data-centers-cleveland/",
     "snippet": "City Council approves a three-month moratorium on new data centers in a 14-1 vote.",
-    "state": "Ohio"
+    "state": "Ohio",
+    "jurisdiction": "Cleveland",
+    "legislationType": "Moratorium",
+    "reasons": "review of new/standalone projects",
+    "sustainability": "No",
+    "nimbyConcerns": "No"
   },
   {
     "title": "'Data centers don't create jobs': Springville joins Leeds, places moratorium on centers",
@@ -189,7 +317,12 @@
     "publishedDate": "2026-07-16",
     "url": "https://newsaegis.com/2026/07/16/data-centers-dont-create-jobs-springville-joins-leeds-places-moratorium-on-centers/",
     "snippet": "City Council votes to place a moratorium on data center development.",
-    "state": "Alabama"
+    "state": "Alabama",
+    "jurisdiction": "Springville",
+    "legislationType": "Moratorium",
+    "reasons": "jobs/economic value concerns",
+    "sustainability": "No",
+    "nimbyConcerns": "No"
   },
   {
     "title": "'Not ready for a data center': Jackson City Council approves moratorium on data centers",
@@ -197,7 +330,12 @@
     "publishedDate": "2026-07-14",
     "url": "https://www.wlbt.com/2026/07/14/not-ready-data-center-jackson-city-council-approves-moratorium-data-centers/",
     "snippet": "Jackson City Council approves a 183-day ban on data centers in a 5-2 vote.",
-    "state": "Mississippi"
+    "state": "Mississippi",
+    "jurisdiction": "Jackson",
+    "legislationType": "Ban",
+    "reasons": "community preparedness concerns",
+    "sustainability": "No",
+    "nimbyConcerns": "No"
   },
   {
     "title": "Imperial County's data center moratorium will last one year",
@@ -205,7 +343,12 @@
     "publishedDate": "2026-07-14",
     "url": "https://inewsource.org/2026/07/14/data-center-moratorium-imperial-county/",
     "snippet": "Board of Supervisors unanimously approves a one-year moratorium to give an advisory board time to weigh in on future rules.",
-    "state": "California"
+    "state": "California",
+    "jurisdiction": "Imperial County",
+    "legislationType": "Moratorium",
+    "reasons": "future rules development",
+    "sustainability": "No",
+    "nimbyConcerns": "No"
   },
   {
     "title": "Broomfield temporarily bans new data centers",
@@ -213,7 +356,12 @@
     "publishedDate": "2026-07-14",
     "url": "https://bizwest.com/2026/07/14/broomfield-temporarily-bans-new-data-centers/",
     "snippet": "City Council unanimously approves an 18-month moratorium on new data center land-use applications and permits.",
-    "state": "Colorado"
+    "state": "Colorado",
+    "jurisdiction": "Broomfield",
+    "legislationType": "Ban",
+    "reasons": "water use (drought concerns), zoning, air/noise pollution",
+    "sustainability": "Yes",
+    "nimbyConcerns": "Yes"
   },
   {
     "title": "St. Charles County officials approve half-year ban on data center projects, alter senior tax freeze",
@@ -221,7 +369,12 @@
     "publishedDate": "2026-07-14",
     "url": "https://www.stlpr.org/government-politics-issues/2026-07-14/st-charles-county-officials-approve-half-year-ban-on-data-center-projects-alter-senior-tax-freeze",
     "snippet": "County Council unanimously approves a six-month moratorium on large-scale data center development.",
-    "state": "Missouri"
+    "state": "Missouri",
+    "jurisdiction": "St. Charles County",
+    "legislationType": "Ban",
+    "reasons": "health, water access, energy bills, quality of life",
+    "sustainability": "Yes",
+    "nimbyConcerns": "Yes"
   },
   {
     "title": "Lansing City Council approves 182-day moratorium on new data centers",
@@ -229,7 +382,12 @@
     "publishedDate": "2026-07-14",
     "url": "https://www.wilx.com/2026/07/14/lansing-city-council-approves-182-day-moratorium-new-data-centers/",
     "snippet": "City Council passes a 182-day moratorium following the withdrawal of a proposed Deep Green data center project.",
-    "state": "Michigan"
+    "state": "Michigan",
+    "jurisdiction": "Lansing",
+    "legislationType": "Moratorium",
+    "reasons": "withdrawal of specific project",
+    "sustainability": "No",
+    "nimbyConcerns": "No"
   },
   {
     "title": "Data center moratorium advances for Indianapolis",
@@ -237,7 +395,12 @@
     "publishedDate": "2026-07-13",
     "url": "https://www.wfyi.org/wfyi-news/2026-07-13/data-center-moratorium-advances-for-indianapolis",
     "snippet": "A council committee votes 10-3 to advance a moratorium on new data center approvals through the end of 2027.",
-    "state": "Indiana"
+    "state": "Indiana",
+    "jurisdiction": "Indianapolis",
+    "legislationType": "Moratorium",
+    "reasons": "infrastructure demands, utility capacity, environmental considerations, economic outcomes, neighborhood quality of life",
+    "sustainability": "Yes",
+    "nimbyConcerns": "Yes"
   },
   {
     "title": "Plans for data center submitted in Mifflin County, Pennsylvania, just two days before local moratorium vote",
@@ -245,7 +408,12 @@
     "publishedDate": "2026-07-12",
     "url": "https://www.datacenterdynamics.com/en/news/plans-for-data-center-submitted-in-mifflin-county-pennsylvania-just-two-days-before-local-moratorium-vote/",
     "snippet": "Developer files data center plans days ahead of a special township meeting invoking a curative-amendment moratorium process.",
-    "state": "Pennsylvania"
+    "state": "Pennsylvania",
+    "jurisdiction": "Mifflin County",
+    "legislationType": "Moratorium",
+    "reasons": "regulatory timing dispute",
+    "sustainability": "No",
+    "nimbyConcerns": "No"
   },
   {
     "title": "Walker County Approves Temporary Moratorium on Data Centers",
@@ -253,7 +421,12 @@
     "publishedDate": "2026-07-10",
     "url": "https://walkercountyga.gov/2026/07/10/walker-county-approves-temporary-moratorium-on-data-centers/",
     "snippet": "Walker County approves a temporary moratorium on new data center development.",
-    "state": "Georgia"
+    "state": "Georgia",
+    "jurisdiction": "Walker County",
+    "legislationType": "Moratorium",
+    "reasons": "regional water/energy concerns",
+    "sustainability": "Yes",
+    "nimbyConcerns": "No"
   },
   {
     "title": "Sarasota County blocks hyperscale data centers for at least one year",
@@ -261,7 +434,12 @@
     "publishedDate": "2026-07-09",
     "url": "https://www.mysuncoast.com/2026/07/09/sarasota-county-blocks-hyperscale-data-centers-least-one-year/",
     "snippet": "Commissioners vote to halt acceptance and review of hyperscale data center applications until at least July 2027.",
-    "state": "Florida"
+    "state": "Florida",
+    "jurisdiction": "Sarasota County",
+    "legislationType": "Moratorium",
+    "reasons": "power use (equivalent to ~35,000 homes)",
+    "sustainability": "Yes",
+    "nimbyConcerns": "No"
   },
   {
     "title": "Missoula County adopts temporary moratorium on data centers",
@@ -269,7 +447,12 @@
     "publishedDate": "2026-07-09",
     "url": "https://montanafreepress.org/2026/07/09/missoula-county-adopts-temporary-moratorium-on-data-centers/",
     "snippet": "County commissioners adopt interim zoning barring permits for new or expanded data centers outside city limits.",
-    "state": "Montana"
+    "state": "Montana",
+    "jurisdiction": "Missoula County",
+    "legislationType": "Moratorium",
+    "reasons": "aquifer pollution, heat, noise, wildlife health",
+    "sustainability": "Yes",
+    "nimbyConcerns": "Yes"
   },
   {
     "title": "Garfield Township inches closer to a possible data center moratorium",
@@ -277,7 +460,12 @@
     "publishedDate": "2026-07-09",
     "url": "https://www.interlochenpublicradio.org/ipr-news/2026-07-09/garfield-township-inches-closer-to-a-possible-data-center-moratorium",
     "snippet": "Planning Commission recommends a zoning amendment allowing an up-to-18-month moratorium after hundreds packed a hearing.",
-    "state": "Michigan"
+    "state": "Michigan",
+    "jurisdiction": "Garfield Township",
+    "legislationType": "Moratorium",
+    "reasons": "resident concern (unspecified)",
+    "sustainability": "No",
+    "nimbyConcerns": "No"
   },
   {
     "title": "Prince George's Co. extends pause on hyperscale data center development",
@@ -285,7 +473,12 @@
     "publishedDate": "2026-07-08",
     "url": "https://wtop.com/prince-georges-county/2026/07/prince-georges-co-extends-pause-on-hyperscale-data-center-development/",
     "snippet": "County Council approves a two-year moratorium on new data center development, the longest such pause in Maryland.",
-    "state": "Maryland"
+    "state": "Maryland",
+    "jurisdiction": "Prince George's County",
+    "legislationType": "Moratorium",
+    "reasons": "utility rates, environmental damage, jobs, economic impact",
+    "sustainability": "Yes",
+    "nimbyConcerns": "No"
   },
   {
     "title": "Proposed zoning and development ordinance for data centers (setbacks, landscape buffer)",
@@ -293,7 +486,12 @@
     "publishedDate": "2026-07-08",
     "url": "https://fortworthreport.org/2026/07/08/zoning-commissioners-deny-data-center-rules-return-ordinance-to-fort-worth-city-council/",
     "snippet": "Fort Worth City Council — Proposed.",
-    "state": "Texas"
+    "state": "Texas",
+    "jurisdiction": "Fort Worth",
+    "legislationType": "Zoning Restriction",
+    "reasons": "setbacks, landscape buffer",
+    "sustainability": "No",
+    "nimbyConcerns": "Yes"
   },
   {
     "title": "Legislation targets data centers in Hawaii County",
@@ -301,7 +499,12 @@
     "publishedDate": "2026-07-08",
     "url": "https://www.hawaiitribune-herald.com/2026/07/08/hawaii-news/legislation-targets-data-centers-in-hawaii-county/",
     "snippet": "Council committee unanimously advances a bill banning industrial-scale data centers on the island.",
-    "state": "Hawaii"
+    "state": "Hawaii",
+    "jurisdiction": "Hawaii County",
+    "legislationType": "Ban",
+    "reasons": "zoning loophole concerns (unspecified)",
+    "sustainability": "No",
+    "nimbyConcerns": "No"
   },
   {
     "title": "DeKalb extends moratorium as data center backlash grows across Georgia",
@@ -309,7 +512,12 @@
     "publishedDate": "2026-07-07",
     "url": "https://www.decaturish.com/news/dekalb/dekalb-extends-data-center-moratorium-through-early-2027/article_22c7d964-ee2f-49f5-a879-9abaabbd6b45.html",
     "snippet": "Commissioners vote to extend DeKalb County's data center development moratorium through early 2027.",
-    "state": "Georgia"
+    "state": "Georgia",
+    "jurisdiction": "DeKalb County",
+    "legislationType": "Moratorium",
+    "reasons": "health concerns, utility costs",
+    "sustainability": "Yes",
+    "nimbyConcerns": "No"
   },
   {
     "title": "City of Eagan faces lawsuit over data center moratorium",
@@ -317,7 +525,12 @@
     "publishedDate": "2026-07-07",
     "url": "https://www.mprnews.org/story/2026/07/07/city-of-eagan-faces-lawsuit-over-data-center-moratorium",
     "snippet": "A data center developer sues Eagan over its one-year moratorium restricting siting near homes and power use.",
-    "state": "Minnesota"
+    "state": "Minnesota",
+    "jurisdiction": "Eagan",
+    "legislationType": "Moratorium",
+    "reasons": "energy usage regulation, proximity to homes",
+    "sustainability": "Yes",
+    "nimbyConcerns": "No"
   },
   {
     "title": "Davie County passes one-year data center moratorium",
@@ -325,7 +538,12 @@
     "publishedDate": "2026-07-07",
     "url": "https://www.wunc.org/2026-07-07/davie-county-passes-one-year-data-center-moratorium",
     "snippet": "Board of Commissioners unanimously approves a one-year pause amid resident concerns over water use and public health.",
-    "state": "North Carolina"
+    "state": "North Carolina",
+    "jurisdiction": "Davie County",
+    "legislationType": "Moratorium",
+    "reasons": "environmental impacts, water use, public health risks",
+    "sustainability": "Yes",
+    "nimbyConcerns": "No"
   },
   {
     "title": "Hamilton County to Consider One-Year Moratorium on Data Centers",
@@ -333,7 +551,12 @@
     "publishedDate": "2026-07-03",
     "url": "https://tennesseestar.com/policy/hamilton-county-to-consider-one-year-moratorium-on-data-centers/zschmidt/2026/07/03/",
     "snippet": "County considers a one-year pause on new data centers to study impacts on utilities and infrastructure.",
-    "state": "Tennessee"
+    "state": "Tennessee",
+    "jurisdiction": "Hamilton County",
+    "legislationType": "Moratorium",
+    "reasons": "utility impact study (power, water providers)",
+    "sustainability": "Yes",
+    "nimbyConcerns": "No"
   },
   {
     "title": "Nottingham's 12-month moratorium on data center construction heads to a town vote",
@@ -341,7 +564,12 @@
     "publishedDate": "2026-07-03",
     "url": "https://www.nhpr.org/environment/2026-07-03/nottingham-data-center-moratorium-town-meeting-nh",
     "snippet": "Planning board advances a 12-month moratorium on data center construction to a town vote.",
-    "state": "New Hampshire"
+    "state": "New Hampshire",
+    "jurisdiction": "Nottingham",
+    "legislationType": "Moratorium",
+    "reasons": "resident backlash to specific proposal",
+    "sustainability": "No",
+    "nimbyConcerns": "No"
   },
   {
     "title": "Frederick County executive orders data center development pause after court ruling",
@@ -349,7 +577,12 @@
     "publishedDate": "2026-07-02",
     "url": "https://thedailyrecord.com/2026/07/02/frederick-data-centers-jessica-fitzwater/",
     "snippet": "County Executive Jessica Fitzwater freezes new data center applications pending the state's impact study.",
-    "state": "Maryland"
+    "state": "Maryland",
+    "jurisdiction": "Frederick County",
+    "legislationType": "Moratorium",
+    "reasons": "energy/power demand, environmental impact, pending state study",
+    "sustainability": "Yes",
+    "nimbyConcerns": "No"
   },
   {
     "title": "Champion plans rules for data centers",
@@ -357,7 +590,12 @@
     "publishedDate": "2026-07-01",
     "url": "https://www.tribtoday.com/news/local-news/2026/07/champion-plans-rules-for-data-centers/",
     "snippet": "Township trustees and the zoning board begin drafting data center restrictions.",
-    "state": "Ohio"
+    "state": "Ohio",
+    "jurisdiction": "Champion Township",
+    "legislationType": "Zoning Restriction",
+    "reasons": "regulatory drafting",
+    "sustainability": "No",
+    "nimbyConcerns": "No"
   },
   {
     "title": "Santa Fe County becomes latest New Mexico community to adopt data center moratorium",
@@ -365,7 +603,12 @@
     "publishedDate": "2026-07-01",
     "url": "https://sourcenm.com/2026/07/01/santa-fe-county-becomes-latest-new-mexico-community-to-adopt-data-center-moratorium/",
     "snippet": "County unanimously passes an 18-month moratorium on data center development, effective immediately.",
-    "state": "New Mexico"
+    "state": "New Mexico",
+    "jurisdiction": "Santa Fe County",
+    "legislationType": "Moratorium",
+    "reasons": "water, energy, noise",
+    "sustainability": "Yes",
+    "nimbyConcerns": "Yes"
   },
   {
     "title": "Tyrone Township officials go silent when asked about data center NDAs",
@@ -373,7 +616,12 @@
     "publishedDate": "2026-07-01",
     "url": "https://gandernewsroom.com/news/video/tyrone-township-officials-go-silent-when-asked-about-data-center-ndas/",
     "snippet": "Township leaders impose a moratorium on data centers until March 2027 amid transparency concerns over developer NDAs.",
-    "state": "Michigan"
+    "state": "Michigan",
+    "jurisdiction": "Tyrone Township",
+    "legislationType": "Moratorium",
+    "reasons": "water use, noise, NDA/transparency concerns",
+    "sustainability": "Yes",
+    "nimbyConcerns": "Yes"
   },
   {
     "title": "City officials in Michigan deny request to lift data center moratorium",
@@ -381,7 +629,12 @@
     "publishedDate": "2026-07-01",
     "url": "https://www.datacenterdynamics.com/en/news/city-officials-in-michigan-denied-request-to-lift-data-center-moratorium/",
     "snippet": "Wixom City Council unanimously rejects a developer's request to waive its six-month data center moratorium.",
-    "state": "Michigan"
+    "state": "Michigan",
+    "jurisdiction": "Wixom",
+    "legislationType": "Moratorium",
+    "reasons": "health, safety, welfare impacts (unspecified)",
+    "sustainability": "No",
+    "nimbyConcerns": "No"
   },
   {
     "title": "Data center news: Warren weighs data center moratorium after storm exposes grid strain",
@@ -389,7 +642,12 @@
     "publishedDate": "2026-07-01",
     "url": "https://planetdetroit.org/2026/07/warren-data-center-moratorium-power-outages/",
     "snippet": "City Council considers a moratorium after storms knocked down 60-plus power lines, exposing grid strain.",
-    "state": "Michigan"
+    "state": "Michigan",
+    "jurisdiction": "Warren",
+    "legislationType": "Moratorium",
+    "reasons": "grid strain, power outages",
+    "sustainability": "Yes",
+    "nimbyConcerns": "No"
   },
   {
     "title": "Ordinance banning new data center development within city limits",
@@ -397,7 +655,12 @@
     "publishedDate": "2026-06-30",
     "url": "https://www.texastribune.org/2026/06/30/texas-san-marcos-data-center-ban-zoning-laws/",
     "snippet": "San Marcos City Council — Enacted.",
-    "state": "Texas"
+    "state": "Texas",
+    "jurisdiction": "San Marcos",
+    "legislationType": "Ban",
+    "reasons": "local control over land use",
+    "sustainability": "No",
+    "nimbyConcerns": "Yes"
   },
   {
     "title": "Logan City Council places moratorium on data centers",
@@ -405,7 +668,12 @@
     "publishedDate": "2026-06-30",
     "url": "https://www.idahostatejournal.com/news/local/logan-city-council-places-moratorium-on-data-centers/article_de04671f-969f-5e56-a7fa-945432cf5753.html",
     "snippet": "Logan Municipal Council votes unanimously for a 180-day moratorium ending Dec. 30, 2026 on data center development.",
-    "state": "Utah"
+    "state": "Utah",
+    "jurisdiction": "Logan",
+    "legislationType": "Moratorium",
+    "reasons": "power plant/utility concerns",
+    "sustainability": "Yes",
+    "nimbyConcerns": "No"
   },
   {
     "title": "Springfield City Council passes 120-day moratorium on data centers. Here's what happens next",
@@ -413,7 +681,12 @@
     "publishedDate": "2026-06-29",
     "url": "https://www.ky3.com/2026/06/29/springfield-city-council-passes-120-day-moratorium-data-centers-heres-what-happens-next/",
     "snippet": "City Council votes 8-0 for a 120-day pause on data center applications to study land use and utility impacts.",
-    "state": "Missouri"
+    "state": "Missouri",
+    "jurisdiction": "Springfield",
+    "legislationType": "Moratorium",
+    "reasons": "land use compatibility, electric, water, wastewater impacts, noise, air impacts",
+    "sustainability": "Yes",
+    "nimbyConcerns": "Yes"
   },
   {
     "title": "West Virginia communities won landfill control decades ago. Locals want control over data centers, too.",
@@ -421,7 +694,12 @@
     "publishedDate": "2026-06-28",
     "url": "https://mountainstatespotlight.org/2026/06/28/data-centers-landfills-garbage-wars/",
     "snippet": "Tucker County residents fight a 10,000-acre data center project after state law stripped local zoning authority over it.",
-    "state": "West Virginia"
+    "state": "West Virginia",
+    "jurisdiction": "Tucker County",
+    "legislationType": "Zoning Restriction",
+    "reasons": "loss of local zoning authority (preemption dispute)",
+    "sustainability": "No",
+    "nimbyConcerns": "No"
   },
   {
     "title": "Inver Grove Heights City Council votes to pass data center moratorium despite developer threatening lawsuit",
@@ -429,7 +707,12 @@
     "publishedDate": "2026-06-26",
     "url": "https://www.fox9.com/news/inver-grove-heights-data-center-moratorium-june-26-2026",
     "snippet": "City council votes 3-2 to pass a moratorium after residents spoke out against a proposed data center.",
-    "state": "Minnesota"
+    "state": "Minnesota",
+    "jurisdiction": "Inver Grove Heights",
+    "legislationType": "Moratorium",
+    "reasons": "resident opposition, developer dispute",
+    "sustainability": "No",
+    "nimbyConcerns": "No"
   },
   {
     "title": "Minneapolis data center development pause approved by city council",
@@ -437,7 +720,12 @@
     "publishedDate": "2026-06-25",
     "url": "https://www.fox9.com/news/minneapolis-data-center-development-pause-approved-city-council-june-25-2026",
     "snippet": "City Council votes 8-5 for a six-month moratorium on data centers larger than 350,000 square feet.",
-    "state": "Minnesota"
+    "state": "Minnesota",
+    "jurisdiction": "Minneapolis",
+    "legislationType": "Moratorium",
+    "reasons": "environmental and infrastructure impact study",
+    "sustainability": "No",
+    "nimbyConcerns": "No"
   },
   {
     "title": "Warren becomes latest town in N.J. to ban data centers",
@@ -445,7 +733,12 @@
     "publishedDate": "2026-06-23",
     "url": "https://www.roi-nj.com/2026/06/23/industry/energy-utilities/warren-becomes-latest-town-in-n-j-to-ban-data-centers/",
     "snippet": "Township Council approves an AI data center ban in a 5-0 vote.",
-    "state": "New Jersey"
+    "state": "New Jersey",
+    "jurisdiction": "Warren Township",
+    "legislationType": "Ban",
+    "reasons": "utility rates, environmental damage, jobs, ratepayer protection",
+    "sustainability": "Yes",
+    "nimbyConcerns": "No"
   },
   {
     "title": "Jackson County legislature passes 180-day moratorium on data center applications",
@@ -453,7 +746,12 @@
     "publishedDate": "2026-06-22",
     "url": "https://www.kctv5.com/2026/06/22/jackson-county-legislature-passes-180-day-moratorium-data-center-applications/",
     "snippet": "County Legislature approves a 180-day moratorium on processing data center and battery storage land use applications.",
-    "state": "Missouri"
+    "state": "Missouri",
+    "jurisdiction": "Jackson County",
+    "legislationType": "Moratorium",
+    "reasons": "neighborhood impact, infrastructure, public safety, utilities, quality of life",
+    "sustainability": "Yes",
+    "nimbyConcerns": "Yes"
   },
   {
     "title": "Wilson County, TN committee votes for 6-month moratorium on data centers",
@@ -461,7 +759,12 @@
     "publishedDate": "2026-06-22",
     "url": "https://www.wkrn.com/news/local-news/wilson-county-committee-votes-for-6-month-moratorium-on-data-centers/",
     "snippet": "Planning and Zoning Committee advances a six-month moratorium to the full commission.",
-    "state": "Tennessee"
+    "state": "Tennessee",
+    "jurisdiction": "Wilson County",
+    "legislationType": "Moratorium",
+    "reasons": "noise, infrastructure strain, environmental impact",
+    "sustainability": "Yes",
+    "nimbyConcerns": "Yes"
   },
   {
     "title": "Fort Payne gets ahead of data center boom with development moratorium",
@@ -469,7 +772,12 @@
     "publishedDate": "2026-06-16",
     "url": "https://256today.com/fort-payne-gets-ahead-of-data-center-boom-with-development-moratorium/",
     "snippet": "City Council unanimously approves a six-month moratorium on data center development while zoning regulations are drafted.",
-    "state": "Alabama"
+    "state": "Alabama",
+    "jurisdiction": "Fort Payne",
+    "legislationType": "Moratorium",
+    "reasons": "energy consumption, water usage, noise, environmental impacts, land use compatibility",
+    "sustainability": "Yes",
+    "nimbyConcerns": "Yes"
   },
   {
     "title": "Malden City Council, Planning agree: No Data Centers welcome here; one-year moratorium established",
@@ -477,7 +785,12 @@
     "publishedDate": "2026-06-16",
     "url": "https://advocatenews.net/malden/news/malden-city-council-planning-agree-no-data-centers-welcome-here-one-year-moratorium-established/",
     "snippet": "Council unanimously adopts a zoning amendment establishing a one-year moratorium on siting data centers.",
-    "state": "Massachusetts"
+    "state": "Massachusetts",
+    "jurisdiction": "Malden",
+    "legislationType": "Moratorium",
+    "reasons": "water, power, long-term costs",
+    "sustainability": "Yes",
+    "nimbyConcerns": "No"
   },
   {
     "title": "Anderson County to consider regulations on data centers, cryptocurrency mining",
@@ -485,7 +798,12 @@
     "publishedDate": "2026-06-15",
     "url": "https://www.wate.com/news/anderson-county-news/anderson-county-to-consider-regulations-on-data-centers-cryptocurrency-mining/",
     "snippet": "County puts a two-year pause on permitting and construction of data processing centers.",
-    "state": "Tennessee"
+    "state": "Tennessee",
+    "jurisdiction": "Anderson County",
+    "legislationType": "Moratorium",
+    "reasons": "regulatory research",
+    "sustainability": "No",
+    "nimbyConcerns": "No"
   },
   {
     "title": "Cullman, Fort Payne join growing list of Alabama cities pausing data center development",
@@ -493,7 +811,12 @@
     "publishedDate": "2026-06-15",
     "url": "https://yellowhammernews.com/cullman-fort-payne-join-growing-list-of-alabama-cities-pausing-data-center-development/",
     "snippet": "Cullman City Council unanimously approves a one-year moratorium on data centers, the fourth Alabama city to do so.",
-    "state": "Alabama"
+    "state": "Alabama",
+    "jurisdiction": "Cullman",
+    "legislationType": "Moratorium",
+    "reasons": "energy consumption, water usage, noise, environmental impacts, land use compatibility",
+    "sustainability": "Yes",
+    "nimbyConcerns": "Yes"
   },
   {
     "title": "Gage County joins other Nebraska municipalities considering moratoriums on data centers",
@@ -501,7 +824,12 @@
     "publishedDate": "2026-06-15",
     "url": "https://www.1011now.com/2026/06/15/gage-county-joins-other-nebraska-municipalities-considering-moratoriums-data-centers/",
     "snippet": "Planning and Zoning Commission votes for an 18-month moratorium on data centers after heavy resident turnout.",
-    "state": "Nebraska"
+    "state": "Nebraska",
+    "jurisdiction": "Gage County",
+    "legislationType": "Moratorium",
+    "reasons": "farmland loss, local control",
+    "sustainability": "No",
+    "nimbyConcerns": "Yes"
   },
   {
     "title": "Cumberland County Enacts 6-Month Data Center Moratorium",
@@ -509,7 +837,12 @@
     "publishedDate": "2026-06-15",
     "url": "https://www.cityviewnc.com/stories/cumberland-county-enacts-6-month-data-center-moratorium/",
     "snippet": "County enacts a six-month ban to give staff and the Joint Planning Board time to write proposed regulations.",
-    "state": "North Carolina"
+    "state": "North Carolina",
+    "jurisdiction": "Cumberland County",
+    "legislationType": "Moratorium",
+    "reasons": "community impact concerns (unspecified)",
+    "sustainability": "No",
+    "nimbyConcerns": "No"
   },
   {
     "title": "Council Members Introduce An Ordinance Imposing Data Center Moratorium",
@@ -517,7 +850,12 @@
     "publishedDate": "2026-06-10",
     "url": "https://my.spokanecity.org/news/releases/2026/06/10/council-members-introduce-an-ordinance-imposing-data-center-moratorium/",
     "snippet": "Spokane City Council introduces a one-year citywide moratorium on data center permit applications.",
-    "state": "Washington"
+    "state": "Washington",
+    "jurisdiction": "Spokane",
+    "legislationType": "Moratorium",
+    "reasons": "energy/power demand, water use",
+    "sustainability": "Yes",
+    "nimbyConcerns": "No"
   },
   {
     "title": "Breaking down the City of Birmingham's new zoning ordinance for data centers",
@@ -525,7 +863,12 @@
     "publishedDate": "2026-06-10",
     "url": "https://www.wbrc.com/2026/06/10/breaking-down-city-birminghams-new-zoning-ordinance-data-centers/",
     "snippet": "City Council approves a 20-point zoning ordinance with setback, water, and buffer requirements for data centers.",
-    "state": "Alabama"
+    "state": "Alabama",
+    "jurisdiction": "Birmingham",
+    "legislationType": "Ordinance",
+    "reasons": "water use, buffers, fossil fuel use",
+    "sustainability": "Yes",
+    "nimbyConcerns": "Yes"
   },
   {
     "title": "City Council passes emergency data center moratorium and policy framework",
@@ -533,7 +876,12 @@
     "publishedDate": "2026-06-09",
     "url": "https://council.seattle.gov/2026/06/09/city-council-passes-emergency-data-center-moratorium-and-policy-framework/",
     "snippet": "Seattle City Council unanimously adopts a temporary freeze on new large-scale data center siting while it studies impacts.",
-    "state": "Washington"
+    "state": "Washington",
+    "jurisdiction": "Seattle",
+    "legislationType": "Moratorium",
+    "reasons": "energy/power demand, water use, noise, air pollution",
+    "sustainability": "Yes",
+    "nimbyConcerns": "Yes"
   },
   {
     "title": "City of Leeds passes one-year moratorium on data center development",
@@ -541,7 +889,12 @@
     "publishedDate": "2026-06-09",
     "url": "https://www.wbrc.com/2026/06/09/city-leeds-passes-one-year-moratorium-data-center-development/",
     "snippet": "City Council unanimously passes a one-year moratorium halting all data center permits and approvals.",
-    "state": "Alabama"
+    "state": "Alabama",
+    "jurisdiction": "Leeds",
+    "legislationType": "Moratorium",
+    "reasons": "energy consumption, water usage, noise, environmental impacts, land use compatibility",
+    "sustainability": "Yes",
+    "nimbyConcerns": "Yes"
   },
   {
     "title": "Flint approves data center moratorium",
@@ -549,7 +902,12 @@
     "publishedDate": "2026-06-09",
     "url": "https://www.crainsdetroit.com/economy/cdb-flint-data-centers-moratorium-20260609/",
     "snippet": "City Council passes a 12-month moratorium in a 7-1 vote to study zoning codes and water-use impacts.",
-    "state": "Michigan"
+    "state": "Michigan",
+    "jurisdiction": "Flint",
+    "legislationType": "Moratorium",
+    "reasons": "water-use impacts (city's water history)",
+    "sustainability": "Yes",
+    "nimbyConcerns": "No"
   },
   {
     "title": "Reno extends its data center moratorium into 2027. Here's what happens next.",
@@ -557,7 +915,12 @@
     "publishedDate": "2026-06-09",
     "url": "https://www.nnbw.com/news/2026/jun/09/reno-extends-its-data-center-moratorium-into-2027-heres-what-happens-next/",
     "snippet": "City Council votes 6-1 to extend its data center moratorium through August 2027 while drafting new regulations.",
-    "state": "Nevada"
+    "state": "Nevada",
+    "jurisdiction": "Reno",
+    "legislationType": "Moratorium",
+    "reasons": "water use, energy usage, community benefit agreements",
+    "sustainability": "Yes",
+    "nimbyConcerns": "No"
   },
   {
     "title": "Coffee County bans new data centers for one year",
@@ -565,7 +928,12 @@
     "publishedDate": "2026-06-09",
     "url": "https://www.newschannel5.com/news/state/tennessee/coffee-county/coffee-county-bans-new-data-centers-for-one-year",
     "snippet": "County Commission approves a 12-month moratorium on new data centers in a unanimous vote.",
-    "state": "Tennessee"
+    "state": "Tennessee",
+    "jurisdiction": "Coffee County",
+    "legislationType": "Ban",
+    "reasons": "farmland preservation, zoning gap",
+    "sustainability": "No",
+    "nimbyConcerns": "Yes"
   },
   {
     "title": "Charlotte City Council approves 150-day moratorium on new data centers",
@@ -573,7 +941,12 @@
     "publishedDate": "2026-06-09",
     "url": "https://www.wbtv.com/2026/06/09/charlotte-city-council-approves-150-day-moratorium-new-data-centers/",
     "snippet": "City Council votes 11-0 to pause new data center development, the largest US city to do so at the time.",
-    "state": "North Carolina"
+    "state": "North Carolina",
+    "jurisdiction": "Charlotte",
+    "legislationType": "Moratorium",
+    "reasons": "noise, rising electric and water costs",
+    "sustainability": "Yes",
+    "nimbyConcerns": "Yes"
   },
   {
     "title": "Brunswick, Scarborough enact data center moratoriums",
@@ -581,7 +954,12 @@
     "publishedDate": "2026-06-08",
     "url": "https://spectrumlocalnews.com/me/maine/news/2026/06/08/brunswick--scarborough-enact-data-center-moratoriums",
     "snippet": "Town Council unanimously passes a 180-day moratorium on data center construction.",
-    "state": "Maine"
+    "state": "Maine",
+    "jurisdiction": "Brunswick",
+    "legislationType": "Moratorium",
+    "reasons": "water and wildlife impact fears",
+    "sustainability": "Yes",
+    "nimbyConcerns": "No"
   },
   {
     "title": "Coachella council approves data center moratorium, directs staff to draft ban",
@@ -589,7 +967,12 @@
     "publishedDate": "2026-06-06",
     "url": "https://kvcr.org/news/local/2026-06-06/coachella-council-approves-data-center-moratorium-directs-staff-to-draft-ban",
     "snippet": "City Council approves a 45-day moratorium and terminates its agreement with a data center developer.",
-    "state": "California"
+    "state": "California",
+    "jurisdiction": "Coachella",
+    "legislationType": "Moratorium",
+    "reasons": "energy and water needs, noise and air pollution",
+    "sustainability": "Yes",
+    "nimbyConcerns": "Yes"
   },
   {
     "title": "More hurdles for Wisconsin data center projects",
@@ -597,7 +980,12 @@
     "publishedDate": "2026-06-05",
     "url": "https://dailyreporter.com/2026/06/05/wisconsin-counties-impose-moratoriums-on-hyperscale-data-centers/",
     "snippet": "Dodge County Board of Supervisors votes 29-2 for an 18-month moratorium to study a data center land use ordinance.",
-    "state": "Wisconsin"
+    "state": "Wisconsin",
+    "jurisdiction": "Dodge County",
+    "legislationType": "Moratorium",
+    "reasons": "water use, land use planning",
+    "sustainability": "Yes",
+    "nimbyConcerns": "No"
   },
   {
     "title": "Braceville enacts 6-month moratorium on data centers",
@@ -605,7 +993,12 @@
     "publishedDate": "2026-06-04",
     "url": "https://www.tribtoday.com/news/local-news/2026/06/braceville-enacts-6-month-moratorium-on-data-centers/",
     "snippet": "Township becomes the latest Mahoning Valley community to pause new AI data centers.",
-    "state": "Ohio"
+    "state": "Ohio",
+    "jurisdiction": "Braceville Township",
+    "legislationType": "Moratorium",
+    "reasons": "regional wave (unspecified)",
+    "sustainability": "No",
+    "nimbyConcerns": "No"
   },
   {
     "title": "Carroll County Board of Commissioners Approve 100-day Moratorium on Data Centers & Battery Energy Storage Systems",
@@ -613,7 +1006,12 @@
     "publishedDate": "2026-06-04",
     "url": "https://gradickcommunications.com/carroll-county-board-of-commissioners-approve-100-day-moratorium-on-data-centers-battery-energy-storage-systems/",
     "snippet": "Commissioners extend a data center and battery storage moratorium for unincorporated areas by another 100 days.",
-    "state": "Georgia"
+    "state": "Georgia",
+    "jurisdiction": "Carroll County",
+    "legislationType": "Moratorium",
+    "reasons": "regional review (unspecified)",
+    "sustainability": "No",
+    "nimbyConcerns": "No"
   },
   {
     "title": "McMinnville approves 18-month moratorium on new data centers, creating requirements for numerous impact studies",
@@ -621,7 +1019,12 @@
     "publishedDate": "2026-06-03",
     "url": "https://www.wsmv.com/2026/06/03/mcminnville-approves-18-month-moratorium-new-data-centers-creating-requirements-numerous-impact-studies/",
     "snippet": "City passes an 18-month moratorium after a proposed 25 MW data center prompted resident pushback.",
-    "state": "Tennessee"
+    "state": "Tennessee",
+    "jurisdiction": "McMinnville",
+    "legislationType": "Moratorium",
+    "reasons": "water supply, energy usage",
+    "sustainability": "Yes",
+    "nimbyConcerns": "No"
   },
   {
     "title": "Scarborough Town Council approves data center moratorium",
@@ -629,7 +1032,12 @@
     "publishedDate": "2026-06-03",
     "url": "https://www.pressherald.com/2026/06/03/scarborough-town-council-imposes-data-center-moratorium/",
     "snippet": "Town Council unanimously passes a 180-day moratorium halting a proposed data center project.",
-    "state": "Maine"
+    "state": "Maine",
+    "jurisdiction": "Scarborough",
+    "legislationType": "Moratorium",
+    "reasons": "water and wildlife impact fears",
+    "sustainability": "Yes",
+    "nimbyConcerns": "No"
   },
   {
     "title": "Cedar Hill imposes two-year moratorium on data centers",
@@ -637,7 +1045,12 @@
     "publishedDate": "2026-06-02",
     "url": "https://www.wsmv.com/2026/06/02/cedar-hill-imposes-two-year-moratorium-data-centers/",
     "snippet": "City Commission approves a two-year moratorium on data centers and cryptocurrency mining within city limits.",
-    "state": "Tennessee"
+    "state": "Tennessee",
+    "jurisdiction": "Cedar Hill",
+    "legislationType": "Moratorium",
+    "reasons": "electricity demand, water use, air quality, rural community impacts",
+    "sustainability": "Yes",
+    "nimbyConcerns": "Yes"
   },
   {
     "title": "Jonesborough approves data center moratorium and cannabis distribution changes",
@@ -645,7 +1058,12 @@
     "publishedDate": "2026-06-01",
     "url": "https://wcyb.com/news/local/jonesborough-approves-data-center-moratorium-and-cannabis-distribution-changes",
     "snippet": "Town enacts a two-year moratorium on data centers and cryptocurrency mining, with a 1,500-foot setback from homes.",
-    "state": "Tennessee"
+    "state": "Tennessee",
+    "jurisdiction": "Jonesborough",
+    "legislationType": "Moratorium",
+    "reasons": "residential setback",
+    "sustainability": "No",
+    "nimbyConcerns": "Yes"
   },
   {
     "title": "Knox County puts new data center projects on hold for 1 year",
@@ -653,7 +1071,12 @@
     "publishedDate": "2026-06-01",
     "url": "https://www.wate.com/news/knox-county-news/knox-county-data-center-moratorium/",
     "snippet": "Commission approves a one-year moratorium so planning staff can craft guidelines for future data center proposals.",
-    "state": "Tennessee"
+    "state": "Tennessee",
+    "jurisdiction": "Knox County",
+    "legislationType": "Moratorium",
+    "reasons": "guideline development",
+    "sustainability": "No",
+    "nimbyConcerns": "No"
   },
   {
     "title": "Lordstown extends data center moratorium",
@@ -661,7 +1084,12 @@
     "publishedDate": "2026-06-01",
     "url": "https://www.vindy.com/news/local-news/2026/06/lordstown-extends-data-center-moratorium/",
     "snippet": "Village Council extends its 180-day moratorium on AI data center permitting for another 180 days.",
-    "state": "Ohio"
+    "state": "Ohio",
+    "jurisdiction": "Lordstown",
+    "legislationType": "Moratorium",
+    "reasons": "developer/zoning legal dispute",
+    "sustainability": "No",
+    "nimbyConcerns": "No"
   },
   {
     "title": "Homewood, Cullman join growing Alabama debate over data centers",
@@ -669,7 +1097,12 @@
     "publishedDate": "2026-06-01",
     "url": "https://abc3340.com/news/local/homewood-cullman-data-center-moratoriums-alabama-2026",
     "snippet": "Homewood becomes one of several Alabama cities to enact a data center moratorium.",
-    "state": "Alabama"
+    "state": "Alabama",
+    "jurisdiction": "Homewood",
+    "legislationType": "Moratorium",
+    "reasons": "energy consumption, water usage, noise, environmental impacts, land use compatibility",
+    "sustainability": "Yes",
+    "nimbyConcerns": "Yes"
   },
   {
     "title": "Henrietta seeks public input on data center zoning as statewide moratorium begins",
@@ -677,7 +1110,12 @@
     "publishedDate": "2026-06-01",
     "url": "https://13wham.com/news/local/henrietta-seeks-public-input-on-data-center-zoning-as-statewide-moratorium-begins",
     "snippet": "Town Board considers zoning restrictions on AI data centers as New York's statewide moratorium takes effect.",
-    "state": "New York"
+    "state": "New York",
+    "jurisdiction": "Henrietta",
+    "legislationType": "Zoning Restriction",
+    "reasons": "noise, zoning evolution",
+    "sustainability": "No",
+    "nimbyConcerns": "Yes"
   },
   {
     "title": "Morris, Connecticut Imposes Two-Year Data Center Moratorium to Protect Farmland",
@@ -685,7 +1123,12 @@
     "publishedDate": "2026-06-01",
     "url": "https://www.connecticutvisitorguide.com/morris-connecticut-imposes-two-year-data-center-moratorium-to-protect-farmland/",
     "snippet": "Town approves a two-year moratorium on data centers to preserve rural character and farmland.",
-    "state": "Connecticut"
+    "state": "Connecticut",
+    "jurisdiction": "Morris",
+    "legislationType": "Moratorium",
+    "reasons": "farmland preservation, rural character",
+    "sustainability": "No",
+    "nimbyConcerns": "Yes"
   },
   {
     "title": "Clyde enacts moratorium as broader data center fight builds",
@@ -693,7 +1136,12 @@
     "publishedDate": "2026-06-01",
     "url": "https://smokymountainnews.com/news/item/41209-clyde-enacts-moratorium-as-broader-data-center-fight-builds",
     "snippet": "Town enacts a data center moratorium as opposition spreads across Haywood County.",
-    "state": "North Carolina"
+    "state": "North Carolina",
+    "jurisdiction": "Clyde",
+    "legislationType": "Moratorium",
+    "reasons": "regional wave (unspecified, Haywood County)",
+    "sustainability": "No",
+    "nimbyConcerns": "No"
   },
   {
     "title": "Fayetteville to Explore a Data Center Moratorium",
@@ -701,7 +1149,12 @@
     "publishedDate": "2026-06-01",
     "url": "https://www.cityviewnc.com/stories/fayetteville-hits-pause-on-data-center-ordinance/",
     "snippet": "City Council directs staff to explore a moratorium on new data center development.",
-    "state": "North Carolina"
+    "state": "North Carolina",
+    "jurisdiction": "Fayetteville",
+    "legislationType": "Moratorium",
+    "reasons": "exploratory review (unspecified)",
+    "sustainability": "No",
+    "nimbyConcerns": "No"
   },
   {
     "title": "Hanover County officials vote down a controversial data center proposal",
@@ -709,7 +1162,12 @@
     "publishedDate": "2026-05-28",
     "url": "https://www.12onyourside.com/2026/05/28/hanover-county-officials-vote-down-controversial-data-center-proposal/",
     "snippet": "Supervisors reject a conditional-use permit and rezoning for a 427-acre data center campus in a 4-3 vote.",
-    "state": "Virginia"
+    "state": "Virginia",
+    "jurisdiction": "Hanover County",
+    "legislationType": "Rejection",
+    "reasons": "water usage, electricity usage, agricultural land loss, community character, transparency",
+    "sustainability": "Yes",
+    "nimbyConcerns": "Yes"
   },
   {
     "title": "Wyoming's capital city voted down a one-year pause on new data centers",
@@ -717,7 +1175,12 @@
     "publishedDate": "2026-05-28",
     "url": "https://www.wyomingpublicmedia.org/wyoming-economy/2026-05-28/no-pause-on-data-centers-for-cheyenne",
     "snippet": "Cheyenne City Council rejects a proposed 12-month moratorium on new data center development, 8-1.",
-    "state": "Wyoming"
+    "state": "Wyoming",
+    "jurisdiction": "Cheyenne",
+    "legislationType": "Rejection",
+    "reasons": "local resources, economic growth, jobs, rural character loss",
+    "sustainability": "No",
+    "nimbyConcerns": "Yes"
   },
   {
     "title": "Meridian Township is officially putting a pause on any data centers that might come to town",
@@ -725,7 +1188,12 @@
     "publishedDate": "2026-05-28",
     "url": "https://www.wkar.org/wkar-news/2026-05-28/meridian-township-is-officially-putting-a-pause-on-any-data-centers-that-might-come-to-town",
     "snippet": "Township board adopts a six-month data center and battery storage moratorium as a preemptive measure.",
-    "state": "Michigan"
+    "state": "Michigan",
+    "jurisdiction": "Meridian Township",
+    "legislationType": "Moratorium",
+    "reasons": "groundwater and power usage",
+    "sustainability": "Yes",
+    "nimbyConcerns": "No"
   },
   {
     "title": "Washington Township passes six-month moratorium on data centers",
@@ -733,7 +1201,12 @@
     "publishedDate": "2026-05-23",
     "url": "https://www.detroitnews.com/story/news/local/macomb-county/2026/05/23/washington-township-passes-six-month-moratorium-on-data-centers/90213646007/",
     "snippet": "Board of Trustees passes a moratorium days after a California developer withdrew a data center application.",
-    "state": "Michigan"
+    "state": "Michigan",
+    "jurisdiction": "Washington Township",
+    "legislationType": "Moratorium",
+    "reasons": "developer withdrawal (unspecified)",
+    "sustainability": "No",
+    "nimbyConcerns": "No"
   },
   {
     "title": "Johnson City Commission votes to extend data center moratorium",
@@ -741,7 +1214,12 @@
     "publishedDate": "2026-05-22",
     "url": "https://www.supertalk929.com/2026/05/22/johnson-city-commission-votes-to-extend-data-center-moratorium/",
     "snippet": "Commission unanimously extends its data center moratorium from June 5 to December 3.",
-    "state": "Tennessee"
+    "state": "Tennessee",
+    "jurisdiction": "Johnson City",
+    "legislationType": "Moratorium",
+    "reasons": "noise",
+    "sustainability": "No",
+    "nimbyConcerns": "Yes"
   },
   {
     "title": "Ohio township blocks new data centers for a year as fears grow over water, noise",
@@ -749,7 +1227,12 @@
     "publishedDate": "2026-05-22",
     "url": "https://www.thecooldown.com/green-business/painesville-township-ohio-data-center/",
     "snippet": "Trustees unanimously approve a 12-month moratorium on permits for new data center development.",
-    "state": "Ohio"
+    "state": "Ohio",
+    "jurisdiction": "Painesville Township",
+    "legislationType": "Moratorium",
+    "reasons": "water, noise",
+    "sustainability": "Yes",
+    "nimbyConcerns": "Yes"
   },
   {
     "title": "Webster County Commission declares 6-month moratorium on data centers",
@@ -757,7 +1240,12 @@
     "publishedDate": "2026-05-19",
     "url": "https://sbj.net/stories/webster-county-commission-declares-6-month-moratorium-on-data-centers,104634",
     "snippet": "Commission adopts a temporary six-month moratorium on data centers, solar, wind, and battery storage development in unincorporated areas.",
-    "state": "Missouri"
+    "state": "Missouri",
+    "jurisdiction": "Webster County",
+    "legislationType": "Moratorium",
+    "reasons": "groundwater contamination, power usage, noise pollution, temperature pollution",
+    "sustainability": "Yes",
+    "nimbyConcerns": "Yes"
   },
   {
     "title": "Barnes County puts pause on data centers amid resident concerns",
@@ -765,7 +1253,12 @@
     "publishedDate": "2026-05-19",
     "url": "https://www.valleynewslive.com/2026/05/19/barnes-county-puts-pause-data-centers-amid-resident-concerns/",
     "snippet": "County Commission votes to place a six-month moratorium on potential data centers.",
-    "state": "North Dakota"
+    "state": "North Dakota",
+    "jurisdiction": "Barnes County",
+    "legislationType": "Moratorium",
+    "reasons": "NDA/transparency concerns",
+    "sustainability": "No",
+    "nimbyConcerns": "No"
   },
   {
     "title": "Trend-setting Grundy County data center moratorium",
@@ -773,7 +1266,12 @@
     "publishedDate": "2026-05-18",
     "url": "https://www.sewaneemessenger.com/headlines/?post_id=3474&title=trend-setting-grundy-county-data-center-moratorium",
     "snippet": "Commissioners unanimously approve a two-year pause on data center construction, from May 2026 to May 2028.",
-    "state": "Tennessee"
+    "state": "Tennessee",
+    "jurisdiction": "Grundy County",
+    "legislationType": "Moratorium",
+    "reasons": "legal/regulatory caution",
+    "sustainability": "No",
+    "nimbyConcerns": "No"
   },
   {
     "title": "Mills vetoed a data center pause. Now Maine towns are passing their own.",
@@ -781,7 +1279,12 @@
     "publishedDate": "2026-05-18",
     "url": "https://www.pressherald.com/2026/05/18/mills-vetoed-a-data-center-pause-towns-are-looking-to-pass-their-own/",
     "snippet": "Warren enacts its own moratorium after the governor vetoes a statewide pause and a state override effort fails.",
-    "state": "Maine"
+    "state": "Maine",
+    "jurisdiction": "Warren",
+    "legislationType": "Moratorium",
+    "reasons": "water and wildlife impact fears",
+    "sustainability": "Yes",
+    "nimbyConcerns": "No"
   },
   {
     "title": "Green Township moves to establish zoning amid concerns over data center development",
@@ -789,7 +1292,12 @@
     "publishedDate": "2026-05-15",
     "url": "https://wtov9.com/news/local/green-township-moves-to-establish-zoning-amid-concerns-over-data-center-development-green-township-zoning-data-centers-moratorium-land-use-zoning-commission-land-development-township-trustees",
     "snippet": "Trustees approve a 12-month moratorium and begin establishing township zoning with a new five-member commission.",
-    "state": "Ohio"
+    "state": "Ohio",
+    "jurisdiction": "Green Township",
+    "legislationType": "Zoning Restriction",
+    "reasons": "land use concerns (unspecified)",
+    "sustainability": "No",
+    "nimbyConcerns": "No"
   },
   {
     "title": "Hill County commissioners approve 1-year moratorium on data center construction",
@@ -797,7 +1305,12 @@
     "publishedDate": "2026-05-12",
     "url": "https://www.kwtx.com/2026/05/12/hill-county-commissioners-approve-1-year-moratorium-data-center-construction/",
     "snippet": "Commissioners Court votes 3-2 for a one-year moratorium on data center construction in unincorporated areas.",
-    "state": "Texas"
+    "state": "Texas",
+    "jurisdiction": "Hill County",
+    "legislationType": "Moratorium",
+    "reasons": "water resources, electrical demand, emergency services, infrastructure",
+    "sustainability": "Yes",
+    "nimbyConcerns": "No"
   },
   {
     "title": "Northampton County adopts a data center pause",
@@ -805,7 +1318,12 @@
     "publishedDate": "2026-05-08",
     "url": "https://www.northcarolinahealthnews.org/2026/05/08/northampton-data-center-moratorium/",
     "snippet": "Commissioners approve a 32-month pause after residents petitioned to scrap a shorter 12-month proposal.",
-    "state": "North Carolina"
+    "state": "North Carolina",
+    "jurisdiction": "Northampton County",
+    "legislationType": "Moratorium",
+    "reasons": "electricity consumption/rates, noise, water use, pollution",
+    "sustainability": "Yes",
+    "nimbyConcerns": "Yes"
   },
   {
     "title": "Jackson Township approves 1-year data center moratorium as residents push Grove City to act",
@@ -813,7 +1331,12 @@
     "publishedDate": "2026-05-01",
     "url": "https://www.10tv.com/article/news/local/jackson-township-approves-1-year-data-center-moratorium/530-b8cddb38-1b51-412b-a97c-1f718112af08",
     "snippet": "Trustees unanimously approve a one-year moratorium blocking data center permits and zoning approvals on township land.",
-    "state": "Ohio"
+    "state": "Ohio",
+    "jurisdiction": "Jackson Township",
+    "legislationType": "Moratorium",
+    "reasons": "resident-driven review (unspecified)",
+    "sustainability": "No",
+    "nimbyConcerns": "No"
   },
   {
     "title": "Monroe County passes data center moratorium, says they will review potential limitations",
@@ -821,7 +1344,12 @@
     "publishedDate": "2026-05-01",
     "url": "https://www.13wmaz.com/article/news/local/forsyth-monroe/monroe-county-passes-data-center-moratorium-will-review-potential-limitations/93-195cbb55-5a2a-4f29-879f-c0f3f859aef2",
     "snippet": "Commissioners pass a moratorium on data centers and plan to review potential permanent limitations.",
-    "state": "Georgia"
+    "state": "Georgia",
+    "jurisdiction": "Monroe County",
+    "legislationType": "Moratorium",
+    "reasons": "regional review (unspecified)",
+    "sustainability": "No",
+    "nimbyConcerns": "No"
   },
   {
     "title": "Durham City Council passes 60-day moratorium on data center development",
@@ -829,7 +1357,12 @@
     "publishedDate": "2026-05-01",
     "url": "https://www.wral.com/news/local/durham-city-council-data-center-meeting-may-2026/",
     "snippet": "City Council approves an initial 60-day moratorium, later extended to 12 months in June.",
-    "state": "North Carolina"
+    "state": "North Carolina",
+    "jurisdiction": "Durham",
+    "legislationType": "Moratorium",
+    "reasons": "impact study needed (unspecified)",
+    "sustainability": "No",
+    "nimbyConcerns": "No"
   },
   {
     "title": "City Council approves data center moratorium",
@@ -837,7 +1370,12 @@
     "publishedDate": "2026-05-01",
     "url": "https://www.wilsontimes.com/news/city-council-approves-data-center-moratorium-25f2bcbd",
     "snippet": "City Council unanimously adopts a moratorium prohibiting large data center approvals for at least one year.",
-    "state": "North Carolina"
+    "state": "North Carolina",
+    "jurisdiction": "Wilson",
+    "legislationType": "Moratorium",
+    "reasons": "impact investigation needed (unspecified)",
+    "sustainability": "No",
+    "nimbyConcerns": "No"
   },
   {
     "title": "Holly Springs joins list enacting data center moratoriums",
@@ -845,7 +1383,12 @@
     "publishedDate": "2026-05-01",
     "url": "https://apdillon.substack.com/p/holly-springs-joins-list-enacting",
     "snippet": "Town joins the growing list of North Carolina jurisdictions pausing new data center development.",
-    "state": "North Carolina"
+    "state": "North Carolina",
+    "jurisdiction": "Holly Springs",
+    "legislationType": "Moratorium",
+    "reasons": "regional wave (unspecified)",
+    "sustainability": "No",
+    "nimbyConcerns": "No"
   },
   {
     "title": "Boardman OKs 1-year data center moratorium",
@@ -853,7 +1396,12 @@
     "publishedDate": "2026-04-28",
     "url": "https://www.vindy.com/news/local-news/2026/05/boardman-oks-1-year-data-center-moratorium/",
     "snippet": "Township trustees unanimously approve a one-year ban on new data centers.",
-    "state": "Ohio"
+    "state": "Ohio",
+    "jurisdiction": "Boardman Township",
+    "legislationType": "Ban",
+    "reasons": "resident concern (unspecified)",
+    "sustainability": "No",
+    "nimbyConcerns": "No"
   },
   {
     "title": "Apex NC approves yearlong pause on data-center projects: 'Not interested'",
@@ -861,7 +1409,12 @@
     "publishedDate": "2026-04-28",
     "url": "https://abc11.com/post/apex-nc-leaders-hold-public-hearing-proposed-data-center-moratorium/18885810/",
     "snippet": "Town Council unanimously enacts a 12-month moratorium on data centers, data processing, and crypto mining.",
-    "state": "North Carolina"
+    "state": "North Carolina",
+    "jurisdiction": "Apex",
+    "legislationType": "Moratorium",
+    "reasons": "water and energy consumption, heat islands",
+    "sustainability": "Yes",
+    "nimbyConcerns": "No"
   },
   {
     "title": "Utility in Ypsilanti, Michigan, imposes one-year moratorium on supplying new data centers",
@@ -869,7 +1422,12 @@
     "publishedDate": "2026-04-22",
     "url": "https://www.datacenterdynamics.com/en/news/utility-in-ypsilanti-michigan-imposes-one-year-moratorium-on-supplying-new-data-centers/",
     "snippet": "Ypsilanti Community Utilities Authority unanimously passes a 12-month moratorium on water/sewer service to new data centers, blocking a proposed $1.25B University of Michigan facility.",
-    "state": "Michigan"
+    "state": "Michigan",
+    "jurisdiction": "Ypsilanti",
+    "legislationType": "Moratorium",
+    "reasons": "water and sewer service capacity",
+    "sustainability": "Yes",
+    "nimbyConcerns": "No"
   },
   {
     "title": "Orange County Board of Commissioners Approves One-Year Moratorium on Data Centers",
@@ -877,7 +1435,12 @@
     "publishedDate": "2026-04-21",
     "url": "https://www.orangecountync.gov/m/newsflash/Home/Detail/1391",
     "snippet": "Commissioners vote 6-0 for a one-year moratorium on large-scale data centers as a land use.",
-    "state": "North Carolina"
+    "state": "North Carolina",
+    "jurisdiction": "Orange County",
+    "legislationType": "Moratorium",
+    "reasons": "electricity demand, water usage, land use compatibility, environmental impacts, utility costs, noise",
+    "sustainability": "Yes",
+    "nimbyConcerns": "Yes"
   },
   {
     "title": "Not in my backyard: Ohio residents force vote for yearlong moratorium on local data centers",
@@ -885,7 +1448,12 @@
     "publishedDate": "2026-04-20",
     "url": "https://www.thecooldown.com/green-tech/ravenna-ohio-residents-oppose-ai-data-centers/",
     "snippet": "City Council unanimously passes a one-year moratorium after nearly 100 residents packed a council meeting.",
-    "state": "Ohio"
+    "state": "Ohio",
+    "jurisdiction": "Ravenna",
+    "legislationType": "Moratorium",
+    "reasons": "water use and pollution, job losses",
+    "sustainability": "Yes",
+    "nimbyConcerns": "No"
   },
   {
     "title": "As Smithfield moves to ban data centers, Smith Hill is still debating how to define them",
@@ -893,7 +1461,12 @@
     "publishedDate": "2026-04-13",
     "url": "https://rhodeislandcurrent.com/2026/04/13/as-smithfield-moves-to-ban-data-centers-smith-hill-is-still-debating-how-to-define-them/",
     "snippet": "Town Council moves to ban data centers for at least two years in all zoning categories.",
-    "state": "Rhode Island"
+    "state": "Rhode Island",
+    "jurisdiction": "Smithfield",
+    "legislationType": "Ban",
+    "reasons": "quality of life, environment, noise, limited jobs",
+    "sustainability": "No",
+    "nimbyConcerns": "Yes"
   },
   {
     "title": "Massillon City Council Approves Moratorium on Data Centers",
@@ -901,7 +1474,12 @@
     "publishedDate": "2026-04-06",
     "url": "https://nationaltoday.com/us/oh/massillon/news/2026/04/06/massillon-city-council-approves-moratorium-on-data-centers/",
     "snippet": "City Council unanimously approves a 180-day moratorium on data center development within city limits.",
-    "state": "Ohio"
+    "state": "Ohio",
+    "jurisdiction": "Massillon",
+    "legislationType": "Moratorium",
+    "reasons": "zoning code review",
+    "sustainability": "No",
+    "nimbyConcerns": "No"
   },
   {
     "title": "Data Center Text Amendment to the Unified Development Ordinance (500-ft residential setback)",
@@ -909,7 +1487,12 @@
     "publishedDate": "2026-04-01",
     "url": "https://engagedekalb.dekalbcountyga.gov/data-center-text-amendment",
     "snippet": "DeKalb County Board of Commissioners — Proposed.",
-    "state": "Georgia"
+    "state": "Georgia",
+    "jurisdiction": "DeKalb County",
+    "legislationType": "Zoning Restriction",
+    "reasons": "residential setback, property values",
+    "sustainability": "No",
+    "nimbyConcerns": "Yes"
   },
   {
     "title": "Champaign County takes first step towards a one-year data center moratorium",
@@ -917,7 +1500,12 @@
     "publishedDate": "2026-04-01",
     "url": "https://ipmnewsroom.org/champaign-county-takes-first-step-towards-a-one-year-data-center-moratorium/",
     "snippet": "Zoning Board of Appeals unanimously passes a one-year moratorium on new large-scale data centers.",
-    "state": "Illinois"
+    "state": "Illinois",
+    "jurisdiction": "Champaign County",
+    "legislationType": "Moratorium",
+    "reasons": "water use",
+    "sustainability": "Yes",
+    "nimbyConcerns": "No"
   },
   {
     "title": "Oklahoma City Council approves moratorium on new data centers",
@@ -925,7 +1513,12 @@
     "publishedDate": "2026-04-01",
     "url": "https://www.okc.gov/News-articles/Oklahoma-City-Council-approves-moratorium-on-new-data-centers",
     "snippet": "Council unanimously approves a moratorium on new data center applications, rezoning requests, and permits.",
-    "state": "Oklahoma"
+    "state": "Oklahoma",
+    "jurisdiction": "Oklahoma City",
+    "legislationType": "Moratorium",
+    "reasons": "water use, electricity demand, noise, infrastructure strain",
+    "sustainability": "Yes",
+    "nimbyConcerns": "Yes"
   },
   {
     "title": "Anchorage Assembly preemptively adopts data center regulations",
@@ -933,7 +1526,12 @@
     "publishedDate": "2026-03-27",
     "url": "https://www.adn.com/alaska-news/anchorage/2026/03/27/anchorage-assembly-preemptively-adopts-data-center-regulations/",
     "snippet": "Assembly passes a conditional-use permitting framework in a 10-2 vote, limiting data center siting to commercial and industrial zones.",
-    "state": "Alaska"
+    "state": "Alaska",
+    "jurisdiction": "Anchorage",
+    "legislationType": "Ordinance",
+    "reasons": "utility capacity, noise, visual screening",
+    "sustainability": "No",
+    "nimbyConcerns": "Yes"
   },
   {
     "title": "County Commissioners pass a one-year data center moratorium for Watauga County",
@@ -941,7 +1539,12 @@
     "publishedDate": "2026-03-25",
     "url": "https://www.wataugademocrat.com/news/county-commissioners-pass-a-one-year-data-center-moratorium-for-watauga-county/article_012ca886-b088-4aee-8321-6b0f851fcdca.html",
     "snippet": "Board of Commissioners unanimously passes a one-year moratorium suspending new data center construction.",
-    "state": "North Carolina"
+    "state": "North Carolina",
+    "jurisdiction": "Watauga County",
+    "legislationType": "Moratorium",
+    "reasons": "noise pollution, water use, power grid strain, air pollution from generators",
+    "sustainability": "Yes",
+    "nimbyConcerns": "Yes"
   },
   {
     "title": "Washington County Commission approves data center moratorium",
@@ -949,7 +1552,12 @@
     "publishedDate": "2026-03-24",
     "url": "https://www.wjhl.com/news/local/washington-county-commission-approves-data-center-moratorium/",
     "snippet": "Commissioners vote 13-2 to forbid construction, operation, and permitting of data centers through June 30, 2027.",
-    "state": "Tennessee"
+    "state": "Tennessee",
+    "jurisdiction": "Washington County",
+    "legislationType": "Moratorium",
+    "reasons": "infrastructure strain (unspecified)",
+    "sustainability": "No",
+    "nimbyConcerns": "No"
   },
   {
     "title": "Detroit Council Joins Michigan Data Center Moratorium Push",
@@ -957,7 +1565,12 @@
     "publishedDate": "2026-03-23",
     "url": "https://planetdetroit.org/2026/03/detroit-data-center-moratorium/",
     "snippet": "City Council approves a measure urging the mayor to impose a two-year moratorium on data centers.",
-    "state": "Michigan"
+    "state": "Michigan",
+    "jurisdiction": "Detroit",
+    "legislationType": "Moratorium",
+    "reasons": "regulatory framework needed (unspecified)",
+    "sustainability": "No",
+    "nimbyConcerns": "No"
   },
   {
     "title": "Boone approves data center development moratorium",
@@ -965,7 +1578,12 @@
     "publishedDate": "2026-03-23",
     "url": "https://www.bpr.org/2026-03-23/boone-approves-data-center-development-moratorium",
     "snippet": "Town Council unanimously approves a one-year moratorium banning data centers and crypto mining within town limits.",
-    "state": "North Carolina"
+    "state": "North Carolina",
+    "jurisdiction": "Boone",
+    "legislationType": "Moratorium",
+    "reasons": "environmental and economic impacts (unspecified)",
+    "sustainability": "No",
+    "nimbyConcerns": "No"
   },
   {
     "title": "East Lansing passes data center moratorium while evaluating zoning ordinances",
@@ -973,7 +1591,12 @@
     "publishedDate": "2026-03-18",
     "url": "https://www.wkar.org/wkar-news/2026-03-18/east-lansing-passes-data-center-moratorium-while-evaluating-zoning-ordinances",
     "snippet": "City approves a six-month moratorium on data center construction while the planning commission studies zoning.",
-    "state": "Michigan"
+    "state": "Michigan",
+    "jurisdiction": "East Lansing",
+    "legislationType": "Moratorium",
+    "reasons": "zoning evaluation (unspecified)",
+    "sustainability": "No",
+    "nimbyConcerns": "No"
   },
   {
     "title": "Royalton voters say no to AI data centers",
@@ -981,7 +1604,12 @@
     "publishedDate": "2026-03-04",
     "url": "https://www.wcax.com/2026/03/04/royalton-voters-say-no-ai-data-centers/",
     "snippet": "Voters approve a five-year moratorium on the construction of AI and crypto data centers at Town Meeting.",
-    "state": "Vermont"
+    "state": "Vermont",
+    "jurisdiction": "Royalton",
+    "legislationType": "Moratorium",
+    "reasons": "AI/crypto community concern (unspecified)",
+    "sustainability": "No",
+    "nimbyConcerns": "No"
   },
   {
     "title": "Ohio towns are pushing back against data centers – to varying degrees of success",
@@ -989,7 +1617,12 @@
     "publishedDate": "2026-02-26",
     "url": "https://www.statenews.org/section/the-ohio-newsroom/2026-02-26/ohio-towns-are-pushing-back-against-data-centers-to-varying-degrees-of-success",
     "snippet": "Vienna Township uses its moratorium to draft zoning limits on data center noise and power draw.",
-    "state": "Ohio"
+    "state": "Ohio",
+    "jurisdiction": "Vienna Township",
+    "legislationType": "Moratorium",
+    "reasons": "noise, power draw",
+    "sustainability": "Yes",
+    "nimbyConcerns": "Yes"
   },
   {
     "title": "Cobb County commissioners to discuss possible data center moratorium",
@@ -997,7 +1630,12 @@
     "publishedDate": "2026-02-24",
     "url": "https://www.wsbtv.com/news/local/cobb-county/cobb-county-commissioners-discuss-possible-data-center-moratorium/2ZSO5R6PHBF37EOPULZWQFDXZU/",
     "snippet": "Board of Commissioners unanimously approves a moratorium on new data center permit and rezoning applications.",
-    "state": "Georgia"
+    "state": "Georgia",
+    "jurisdiction": "Cobb County",
+    "legislationType": "Moratorium",
+    "reasons": "regional review (unspecified)",
+    "sustainability": "No",
+    "nimbyConcerns": "No"
   },
   {
     "title": "Linn County Passes Temporary Data Center Moratorium for Unincorporated Linn County",
@@ -1005,7 +1643,12 @@
     "publishedDate": "2026-02-18",
     "url": "https://www.linncountyiowa.gov/CivicAlerts.aspx?AID=4487",
     "snippet": "Board of Supervisors passes a data center ordinance and temporary moratorium to evaluate impacts.",
-    "state": "Iowa"
+    "state": "Iowa",
+    "jurisdiction": "Linn County",
+    "legislationType": "Moratorium",
+    "reasons": "impact evaluation",
+    "sustainability": "No",
+    "nimbyConcerns": "No"
   },
   {
     "title": "Chatham County approves 12-month moratorium on data centers, crypto mining",
@@ -1013,7 +1656,12 @@
     "publishedDate": "2026-02-11",
     "url": "https://www.wral.com/news/local/chatham-county-approves-12-month-ban-data-centers-crypto-mining-february-2026/",
     "snippet": "Board of Commissioners approves a temporary moratorium; a developer later sues after the pause freezes a 750 MW project.",
-    "state": "North Carolina"
+    "state": "North Carolina",
+    "jurisdiction": "Chatham County",
+    "legislationType": "Moratorium",
+    "reasons": "environmental and community impacts (unspecified)",
+    "sustainability": "No",
+    "nimbyConcerns": "No"
   },
   {
     "title": "A hard no to high-tech: Canton passes data center moratorium",
@@ -1021,7 +1669,12 @@
     "publishedDate": "2026-02-11",
     "url": "https://smokymountainnews.com/news/item/40892-a-hard-no-to-high-tech-canton-passes-data-center-moratorium",
     "snippet": "Town Council unanimously pauses new data centers for one year after dozens of residents spoke out at a public hearing.",
-    "state": "North Carolina"
+    "state": "North Carolina",
+    "jurisdiction": "Canton",
+    "legislationType": "Moratorium",
+    "reasons": "noise, energy use, cooling water demands, environmental impacts",
+    "sustainability": "Yes",
+    "nimbyConcerns": "Yes"
   },
   {
     "title": "Sterling Heights passes moratorium on data centers",
@@ -1029,7 +1682,12 @@
     "publishedDate": "2026-02-03",
     "url": "https://eu.detroitnews.com/story/news/local/macomb-county/2026/02/03/sterling-heights-passes-moratorium-on-data-centers/88493407007/",
     "snippet": "City Council unanimously approves a one-year moratorium to update a 1978 ordinance and study impacts.",
-    "state": "Michigan"
+    "state": "Michigan",
+    "jurisdiction": "Sterling Heights",
+    "legislationType": "Moratorium",
+    "reasons": "computing trends, electricity and resource use, noise",
+    "sustainability": "Yes",
+    "nimbyConcerns": "Yes"
   },
   {
     "title": "Township Statement Regarding Adoption of Data Center Moratorium",
@@ -1037,7 +1695,12 @@
     "publishedDate": "2026-02-02",
     "url": "https://www.lenox-mi.gov/m/newsflash/home/detail/240",
     "snippet": "Board of Trustees formally adopts a four-month moratorium on new data center development, extendable once.",
-    "state": "Michigan"
+    "state": "Michigan",
+    "jurisdiction": "Lenox Township",
+    "legislationType": "Moratorium",
+    "reasons": "zoning, infrastructure capacity, utility demands, land use impacts",
+    "sustainability": "Yes",
+    "nimbyConcerns": "No"
   },
   {
     "title": "City of South Lyon Adopts 12-Month Moratorium on Data Center Applications",
@@ -1045,7 +1708,12 @@
     "publishedDate": "2026-02-01",
     "url": "https://www.whmi.com/news/article/city-of-south-lyon-adopts-12-month-moratorium-on-data-center-applications",
     "snippet": "City Council adopts a 12-month moratorium, extended from an initial six-month proposal, after concerns raised over a nearby Lyon Township project.",
-    "state": "Michigan"
+    "state": "Michigan",
+    "jurisdiction": "South Lyon",
+    "legislationType": "Moratorium",
+    "reasons": "water needs from battery backup power project",
+    "sustainability": "Yes",
+    "nimbyConcerns": "No"
   },
   {
     "title": "New Orleans City Council bans data center development for a year; here's why",
@@ -1053,7 +1721,12 @@
     "publishedDate": "2026-01-29",
     "url": "https://www.wwno.org/economy/2026-01-29/new-orleans-city-council-bans-data-center-development-for-a-year-heres-why",
     "snippet": "City Council imposes a temporary moratorium on new data centers, effectively killing a proposed 17-acre facility.",
-    "state": "Louisiana"
+    "state": "Louisiana",
+    "jurisdiction": "New Orleans",
+    "legislationType": "Ban",
+    "reasons": "specific project opposition (unspecified)",
+    "sustainability": "No",
+    "nimbyConcerns": "No"
   },
   {
     "title": "Grand Blanc Twp. passes moratorium on data centers",
@@ -1061,7 +1734,12 @@
     "publishedDate": "2026-01-22",
     "url": "https://www.wnem.com/2026/01/22/grand-blanc-twp-passes-moratorium-data-centers/",
     "snippet": "Board of Trustees passes a one-year moratorium rejecting all data center applications during the pause.",
-    "state": "Michigan"
+    "state": "Michigan",
+    "jurisdiction": "Grand Blanc Township",
+    "legislationType": "Moratorium",
+    "reasons": "energy and water use",
+    "sustainability": "Yes",
+    "nimbyConcerns": "No"
   },
   {
     "title": "Pontiac latest community to pass data center moratorium",
@@ -1069,7 +1747,12 @@
     "publishedDate": "2026-01-21",
     "url": "https://www.detroitnews.com/story/news/local/oakland-county/2026/01/21/pontiac-latest-community-to-pass-data-center-moratorium/88286730007/",
     "snippet": "City Council unanimously approves a six-month moratorium to study impacts on public health, utilities, and infrastructure.",
-    "state": "Michigan"
+    "state": "Michigan",
+    "jurisdiction": "Pontiac",
+    "legislationType": "Moratorium",
+    "reasons": "public health, utilities, infrastructure",
+    "sustainability": "Yes",
+    "nimbyConcerns": "No"
   },
   {
     "title": "Griffin puts 180-day moratorium on data centers and other technological facilities",
@@ -1077,7 +1760,12 @@
     "publishedDate": "2026-01-17",
     "url": "https://www.griffindailynews.com/news/griffin-puts-180-day-moratorium-on-data-centers-and-other-technological-facilities/article_a57b3fe6-cedf-54ec-8a84-a66c93da27da.html",
     "snippet": "Board of Commissioners unanimously approves a 180-day moratorium on data centers and other technological facilities.",
-    "state": "Georgia"
+    "state": "Georgia",
+    "jurisdiction": "Griffin",
+    "legislationType": "Moratorium",
+    "reasons": "regional review (unspecified)",
+    "sustainability": "No",
+    "nimbyConcerns": "No"
   },
   {
     "title": "Moratorium on the Building of Data Centers within the Township of Armada",
@@ -1085,7 +1773,12 @@
     "publishedDate": "2026-01-14",
     "url": "https://armadatwp.gov/moratorium-on-the-building-of-data-centers-within-the-township-of-armada/",
     "snippet": "Township Board imposes a 180-day moratorium on the building of data centers.",
-    "state": "Michigan"
+    "state": "Michigan",
+    "jurisdiction": "Armada Township",
+    "legislationType": "Moratorium",
+    "reasons": "public health, safety, welfare (unspecified)",
+    "sustainability": "No",
+    "nimbyConcerns": "No"
   },
   {
     "title": "City of Saginaw placing moratorium on data centers",
@@ -1093,7 +1786,12 @@
     "publishedDate": "2026-01-13",
     "url": "https://www.wnem.com/2026/01/13/city-saginaw-placing-moratorium-data-centers/",
     "snippet": "City Council unanimously approves a six-month blanket prohibition on data centers, though none have applied yet.",
-    "state": "Michigan"
+    "state": "Michigan",
+    "jurisdiction": "Saginaw",
+    "legislationType": "Moratorium",
+    "reasons": "community feedback (unspecified)",
+    "sustainability": "No",
+    "nimbyConcerns": "No"
   },
   {
     "title": "City of Saline Passes Temporary Data Center Moratorium",
@@ -1101,7 +1799,12 @@
     "publishedDate": "2026-01-12",
     "url": "https://thesuntimesnews.com/city-of-saline-passes-temporary-data-center-moratorium/",
     "snippet": "City Council unanimously passes a one-year moratorium after a nearby project would consume roughly 25% of DTE's current load.",
-    "state": "Michigan"
+    "state": "Michigan",
+    "jurisdiction": "Saline",
+    "legislationType": "Moratorium",
+    "reasons": "grid load (25% of DTE capacity)",
+    "sustainability": "Yes",
+    "nimbyConcerns": "No"
   },
   {
     "title": "Northville City Council unanimously approves 12-month data center moratorium",
@@ -1109,7 +1812,12 @@
     "publishedDate": "2026-01-06",
     "url": "https://www.wxyz.com/news/data-centers/northville-city-council-unanimously-approves-12-month-data-center-moratorium",
     "snippet": "City Council unanimously approves a one-year moratorium on data centers, acting preemptively with no proposals yet on the table.",
-    "state": "Michigan"
+    "state": "Michigan",
+    "jurisdiction": "Northville",
+    "legislationType": "Moratorium",
+    "reasons": "preemptive, no active proposal",
+    "sustainability": "No",
+    "nimbyConcerns": "No"
   },
   {
     "title": "This Arizona city council rejected a proposed AI data center",
@@ -1117,7 +1825,12 @@
     "publishedDate": "2025-12-12",
     "url": "https://www.kjzz.org/business/2025-12-12/this-arizona-city-council-rejected-a-proposed-ai-data-center",
     "snippet": "Chandler City Council unanimously rejects a $2.5 billion AI data center project backed by former Sen. Kyrsten Sinema after resident pushback.",
-    "state": "Arizona"
+    "state": "Arizona",
+    "jurisdiction": "Chandler",
+    "legislationType": "Rejection",
+    "reasons": "water use, energy demand, transparency/lobbying concerns",
+    "sustainability": "Yes",
+    "nimbyConcerns": "No"
   },
   {
     "title": "Green Charter Township approves yearlong data center moratorium",
@@ -1125,7 +1838,12 @@
     "publishedDate": "2025-12-09",
     "url": "https://www.bigrapidsnews.com/news/article/green-charter-township-approves-yearlong-data-21239592.php",
     "snippet": "Board of Trustees in Mecosta County adopts a one-year moratorium on data center permitting, review, and construction while it drafts an ordinance.",
-    "state": "Michigan"
+    "state": "Michigan",
+    "jurisdiction": "Green Charter Township (Mecosta County)",
+    "legislationType": "Moratorium",
+    "reasons": "lack of local regulations, community impact study",
+    "sustainability": "No",
+    "nimbyConcerns": "No"
   },
   {
     "title": "An Ordinance Imposing a Temporary Moratorium on Development",
@@ -1133,7 +1851,12 @@
     "publishedDate": "2025-12-01",
     "url": "https://gatescountync.gov/vertical/sites/%7BC4993D33-7F3A-4388-B179-2EC1739C7E2E%7D/uploads/Data_Center_Moratorium.pdf",
     "snippet": "County adopts an ordinance putting new data center development on hold, among the earliest such moves in the state.",
-    "state": "North Carolina"
+    "state": "North Carolina",
+    "jurisdiction": "Gates County",
+    "legislationType": "Moratorium",
+    "reasons": "earliest mover, zoning gap (unspecified)",
+    "sustainability": "No",
+    "nimbyConcerns": "No"
   },
   {
     "title": "Livingston County AI data center project delayed by six-month rezoning moratorium",
@@ -1141,7 +1864,12 @@
     "publishedDate": "2025-11-21",
     "url": "https://www.clickondetroit.com/news/local/2025/11/21/livingston-county-ai-data-center-project-delayed-by-six-month-rezoning-moratorium/",
     "snippet": "Howell Township board unanimously votes for a six-month moratorium on rezoning for a proposed AI data center.",
-    "state": "Michigan"
+    "state": "Michigan",
+    "jurisdiction": "Howell Township (Livingston County)",
+    "legislationType": "Moratorium",
+    "reasons": "farmland rezoning, NDA/transparency concerns",
+    "sustainability": "No",
+    "nimbyConcerns": "Yes"
   },
   {
     "title": "A 'wave' of data center ordinances sweep through GA counties. How strict are they?",
@@ -1149,7 +1877,12 @@
     "publishedDate": "2025-10-22",
     "url": "https://www.gpb.org/news/2025/10/22/wave-of-data-center-ordinances-sweep-through-ga-counties-how-strict-are-they",
     "snippet": "Pike County is among four Georgia counties that passed data center moratoriums in September 2025.",
-    "state": "Georgia"
+    "state": "Georgia",
+    "jurisdiction": "Pike County",
+    "legislationType": "Moratorium",
+    "reasons": "regulatory understanding needed (unspecified)",
+    "sustainability": "No",
+    "nimbyConcerns": "No"
   },
   {
     "title": "Jones County requires closed-loop water use in new data center ordinance",
@@ -1157,7 +1890,12 @@
     "publishedDate": "2025-10-22",
     "url": "https://www.gpb.org/news/2025/10/22/wave-of-data-center-ordinances-sweep-through-ga-counties-how-strict-are-they#jones-county",
     "snippet": "County's data center ordinance requires closed-loop water cooling systems rather than drawing from the public water supply.",
-    "state": "Georgia"
+    "state": "Georgia",
+    "jurisdiction": "Jones County",
+    "legislationType": "Ordinance",
+    "reasons": "closed-loop water requirement",
+    "sustainability": "Yes",
+    "nimbyConcerns": "No"
   },
   {
     "title": "Lumpkin County adopts proactive 'compute center' ordinance ahead of any proposals",
@@ -1165,7 +1903,12 @@
     "publishedDate": "2025-10-22",
     "url": "https://www.gpb.org/news/2025/10/22/wave-of-data-center-ordinances-sweep-through-ga-counties-how-strict-are-they#lumpkin-county",
     "snippet": "Ordinance sets strict water-temperature discharge limits for cold- and warm-water fisheries, effectively ruling out most large data centers.",
-    "state": "Georgia"
+    "state": "Georgia",
+    "jurisdiction": "Lumpkin County",
+    "legislationType": "Ordinance",
+    "reasons": "water temperature/fisheries protection",
+    "sustainability": "Yes",
+    "nimbyConcerns": "No"
   },
   {
     "title": "Forsyth County bars data centers from using county water for cooling",
@@ -1173,7 +1916,12 @@
     "publishedDate": "2025-10-22",
     "url": "https://www.gpb.org/news/2025/10/22/wave-of-data-center-ordinances-sweep-through-ga-counties-how-strict-are-they#forsyth-county",
     "snippet": "County's data center ordinance does not allow cooling systems to draw on the county water system.",
-    "state": "Georgia"
+    "state": "Georgia",
+    "jurisdiction": "Forsyth County",
+    "legislationType": "Ordinance",
+    "reasons": "county water use restriction for cooling",
+    "sustainability": "Yes",
+    "nimbyConcerns": "No"
   },
   {
     "title": "Data center moratorium approved by Bristol TN City Council",
@@ -1181,7 +1929,12 @@
     "publishedDate": "2025-10-08",
     "url": "https://www.wjhl.com/news/local/data-center-moratorium-approved-by-bristol-tn-city-council/",
     "snippet": "City Council unanimously approves a two-year moratorium on data processing centers citywide.",
-    "state": "Tennessee"
+    "state": "Tennessee",
+    "jurisdiction": "Bristol",
+    "legislationType": "Moratorium",
+    "reasons": "land use compatibility, infrastructure capacity",
+    "sustainability": "No",
+    "nimbyConcerns": "Yes"
   },
   {
     "title": "Data Center Standards & Locations Phase 2 Project Plan",
@@ -1189,7 +1942,12 @@
     "publishedDate": "2025-09-16",
     "url": "https://www.loudoun.gov/6222/Phase-2-Data-Center-Standards-Locations",
     "snippet": "Loudoun County Board of Supervisors — Enacted.",
-    "state": "Virginia"
+    "state": "Virginia",
+    "jurisdiction": "Loudoun County",
+    "legislationType": "Ordinance",
+    "reasons": "location standards",
+    "sustainability": "No",
+    "nimbyConcerns": "Yes"
   },
   {
     "title": "Jerome Township puts pause on new data center development for nine months",
@@ -1197,7 +1955,12 @@
     "publishedDate": "2025-09-09",
     "url": "https://www.wosu.org/politics-government/2025-09-09/jerome-township-puts-pause-on-new-data-center-development-for-nine-months",
     "snippet": "Trustees unanimously approve a nine-month moratorium, halting four pending projects, to shift data centers from a permitted to a conditional land use.",
-    "state": "Ohio"
+    "state": "Ohio",
+    "jurisdiction": "Jerome Township",
+    "legislationType": "Moratorium",
+    "reasons": "noise pollution, power and water consumption, inadequate tax revenue, safety risk",
+    "sustainability": "Yes",
+    "nimbyConcerns": "Yes"
   },
   {
     "title": "Clayton County Board of Commissioners Approves Moratorium on New Data Centers in Clayton County",
@@ -1205,7 +1968,12 @@
     "publishedDate": "2025-09-02",
     "url": "https://www.claytoncountyga.gov/news/clayton-county-board-of-commissioners-approves-moratorium-on-new-data-centers-in-clayton-county/",
     "snippet": "Resolution 2025-193 places a moratorium on new data center approvals in unincorporated Clayton County through Dec. 31, 2025.",
-    "state": "Georgia"
+    "state": "Georgia",
+    "jurisdiction": "Clayton County",
+    "legislationType": "Moratorium",
+    "reasons": "electromagnetic fields, water supplies",
+    "sustainability": "Yes",
+    "nimbyConcerns": "No"
   },
   {
     "title": "Lamar County passes data center moratorium amid Amazon land purchase",
@@ -1213,7 +1981,12 @@
     "publishedDate": "2025-09-01",
     "url": "https://www.gpb.org/news/2025/10/22/wave-of-data-center-ordinances-sweep-through-ga-counties-how-strict-are-they#lamar-county",
     "snippet": "Commissioners pass a moratorium in September 2025 after learning Amazon Web Services bought a 985-acre site for $270 million; the county's zoning code hasn't been updated since 2010.",
-    "state": "Georgia"
+    "state": "Georgia",
+    "jurisdiction": "Lamar County",
+    "legislationType": "Moratorium",
+    "reasons": "outdated zoning code",
+    "sustainability": "No",
+    "nimbyConcerns": "No"
   },
   {
     "title": "City of LaGrange passes data center moratorium",
@@ -1221,7 +1994,12 @@
     "publishedDate": "2025-09-01",
     "url": "https://www.gpb.org/news/2025/10/22/wave-of-data-center-ordinances-sweep-through-ga-counties-how-strict-are-they#lagrange",
     "snippet": "LaGrange is among four Georgia jurisdictions, alongside Pike, Lamar, and Troup counties, to pass a data center moratorium in September 2025.",
-    "state": "Georgia"
+    "state": "Georgia",
+    "jurisdiction": "LaGrange",
+    "legislationType": "Moratorium",
+    "reasons": "regional wave (unspecified)",
+    "sustainability": "No",
+    "nimbyConcerns": "No"
   },
   {
     "title": "St. Charles becomes 1st city in nation to ban data center construction citywide for a year",
@@ -1229,7 +2007,12 @@
     "publishedDate": "2025-08-22",
     "url": "https://www.ksdk.com/article/news/local/st-charles-ai-data-center-ban-first-in-nation/63-2c50fbcf-fcad-4b8d-bbcb-3711f6c2d29d",
     "snippet": "City Council unanimously enacts a one-year moratorium on new data center applications, becoming the first city in the nation to do so.",
-    "state": "Missouri"
+    "state": "Missouri",
+    "jurisdiction": "St. Charles (City)",
+    "legislationType": "Ban",
+    "reasons": "resident opposition",
+    "sustainability": "No",
+    "nimbyConcerns": "No"
   },
   {
     "title": "Tucson City Council rejects Project Blue data center amid intense community pressure",
@@ -1237,7 +2020,12 @@
     "publishedDate": "2025-08-06",
     "url": "https://azluminaria.org/2025/08/06/tucson-city-council-rejects-project-blue-amid-intense-community-pressure/",
     "snippet": "City Council unanimously rejects a proposed $3.6 billion, 290-acre data center complex over water-use concerns.",
-    "state": "Arizona"
+    "state": "Arizona",
+    "jurisdiction": "Tucson",
+    "legislationType": "Rejection",
+    "reasons": "water use",
+    "sustainability": "Yes",
+    "nimbyConcerns": "No"
   },
   {
     "title": "Data center zoning text amendment (1,500-ft setback, Tier 4 generator requirement)",
@@ -1245,7 +2033,12 @@
     "publishedDate": "2025-06-01",
     "url": "https://www.northwestgeorgianews.com/calhoun_times/news/local/all-georgia-data-center-ordinances----from-most-to-least-restrictive/article_935d360f-88a5-42a7-91e8-82f597fe4bbf.html",
     "snippet": "Troup County Board of Commissioners — Enacted.",
-    "state": "Georgia"
+    "state": "Georgia",
+    "jurisdiction": "Troup County",
+    "legislationType": "Zoning Restriction",
+    "reasons": "setback, backup generator emissions",
+    "sustainability": "No",
+    "nimbyConcerns": "Yes"
   },
   {
     "title": "Coweta County commissioners discuss extending moratorium on data center applications",
@@ -1253,7 +2046,12 @@
     "publishedDate": "2025-05-08",
     "url": "https://www.wsbtv.com/news/local/coweta-county/coweta-county-commissioners-discuss-extending-moratorium-data-center-applications/EFNKFG6KOFDL7AO6WY3SK2WHYQ/",
     "snippet": "Commissioners unanimously adopt a 180-day moratorium to evaluate data center zoning policy.",
-    "state": "Georgia"
+    "state": "Georgia",
+    "jurisdiction": "Coweta County",
+    "legislationType": "Moratorium",
+    "reasons": "stakeholder input, zoning policy study",
+    "sustainability": "No",
+    "nimbyConcerns": "No"
   },
   {
     "title": "Zoning amendment restricting data centers to specific planning areas with mandatory noise studies",
@@ -1261,7 +2059,12 @@
     "publishedDate": "2025-05-01",
     "url": "https://www.chandleraz.gov/",
     "snippet": "Chandler City Council — Enacted.",
-    "state": "Arizona"
+    "state": "Arizona",
+    "jurisdiction": "Chandler",
+    "legislationType": "Zoning Restriction",
+    "reasons": "noise",
+    "sustainability": "No",
+    "nimbyConcerns": "Yes"
   },
   {
     "title": "Zoning Ordinance Amendment eliminating by-right data center development",
@@ -1269,7 +2072,12 @@
     "publishedDate": "2025-03-18",
     "url": "https://www.loudoun.gov/5990/Data-Center-Standards-Locations",
     "snippet": "Loudoun County Board of Supervisors — Enacted.",
-    "state": "Virginia"
+    "state": "Virginia",
+    "jurisdiction": "Loudoun County",
+    "legislationType": "Zoning Restriction",
+    "reasons": "community review process, land use control",
+    "sustainability": "No",
+    "nimbyConcerns": "Yes"
   },
   {
     "title": "Kootenai County imposes moratorium on data center building permits",
@@ -1277,7 +2085,12 @@
     "publishedDate": "2025-03-02",
     "url": "https://www.khq.com/news/kootenai-county-imposes-moratorium-on-data-center-building-permits/article_f622e15a-f79e-11ef-87ed-1bd380bdd67e.html",
     "snippet": "Board of Commissioners unanimously adopts a 182-day emergency moratorium on data center building permits over aquifer concerns; the county later banned data centers over the aquifer outright.",
-    "state": "Idaho"
+    "state": "Idaho",
+    "jurisdiction": "Kootenai County",
+    "legislationType": "Moratorium",
+    "reasons": "aquifer contamination concerns",
+    "sustainability": "Yes",
+    "nimbyConcerns": "No"
   },
   {
     "title": "Bartow County finalizes data center noise and buffer ordinance",
@@ -1285,7 +2098,12 @@
     "publishedDate": "2025-01-01",
     "url": "https://www.gpb.org/news/2025/10/22/wave-of-data-center-ordinances-sweep-through-ga-counties-how-strict-are-they#bartow-county",
     "snippet": "County finalizes an ordinance requiring a 200-foot property buffer and capping noise at 65 decibels by day and 55 at night, while remaining welcoming to data centers.",
-    "state": "Georgia"
+    "state": "Georgia",
+    "jurisdiction": "Bartow County",
+    "legislationType": "Ordinance",
+    "reasons": "noise, property buffer (county remains pro-development)",
+    "sustainability": "No",
+    "nimbyConcerns": "Yes"
   },
   {
     "title": "Data center design and location regulations",
@@ -1293,7 +2111,12 @@
     "publishedDate": "2024-12-01",
     "url": "https://www.phoenix.gov/",
     "snippet": "Phoenix City Council — Enacted.",
-    "state": "Arizona"
+    "state": "Arizona",
+    "jurisdiction": "Phoenix",
+    "legislationType": "Regulation",
+    "reasons": "design and location standards",
+    "sustainability": "No",
+    "nimbyConcerns": "Yes"
   },
   {
     "title": "Atlanta prohibits data centers within the Beltline overlay district",
@@ -1301,7 +2124,12 @@
     "publishedDate": "2024-09-01",
     "url": "https://www.gpb.org/news/2025/10/22/wave-of-data-center-ordinances-sweep-through-ga-counties-how-strict-are-they#atlanta",
     "snippet": "City Council reviews zoning starting May 2024 and by September 2024 prohibits data centers within 22 miles of the Beltline overlay district, citing 211% growth in development and water scarcity impacts.",
-    "state": "Georgia"
+    "state": "Georgia",
+    "jurisdiction": "Atlanta",
+    "legislationType": "Ban",
+    "reasons": "energy use (730 MW), water scarcity",
+    "sustainability": "Yes",
+    "nimbyConcerns": "No"
   },
   {
     "title": "Zoning ordinance amendment defining data centers as a distinct land use",
@@ -1309,6 +2137,11 @@
     "publishedDate": "2021-11-01",
     "url": "https://www.fairfaxcounty.gov/planning-development/",
     "snippet": "Fairfax County Board of Supervisors — Enacted.",
-    "state": "Virginia"
+    "state": "Virginia",
+    "jurisdiction": "Fairfax County",
+    "legislationType": "Zoning Restriction",
+    "reasons": "land use classification",
+    "sustainability": "No",
+    "nimbyConcerns": "Yes"
   }
 ]

@@ -63,11 +63,63 @@
 
   <section id="panel-opposition" class="panel" role="tabpanel" aria-labelledby="tab-btn-opposition">
     <div class="controls">
+      <label for="oppStateFilter">
+        Filter by state
+        <select id="oppStateFilter">
+          <option value="all">All states</option>
+        </select>
+      </label>
+      <label for="oppTypeFilter">
+        Filter by type
+        <select id="oppTypeFilter">
+          <option value="all">All types</option>
+        </select>
+      </label>
+      <label for="oppSustainabilityFilter">
+        Sustainability concerns
+        <select id="oppSustainabilityFilter">
+          <option value="all">All</option>
+          <option value="Yes">Yes</option>
+          <option value="No">No</option>
+        </select>
+      </label>
+      <label for="oppNimbyFilter">
+        Typical NIMBY concerns
+        <select id="oppNimbyFilter">
+          <option value="all">All</option>
+          <option value="Yes">Yes</option>
+          <option value="No">No</option>
+        </select>
+      </label>
+      <label for="oppSortOrder">
+        Sort by
+        <select id="oppSortOrder">
+          <option value="recent">Most recent first</option>
+          <option value="state">State (A&ndash;Z)</option>
+        </select>
+      </label>
       <span class="result-count" id="oppCount"></span>
     </div>
-    <ul class="headline-list" id="oppList">
-      <li class="loading-row">Loading headlines&hellip;</li>
-    </ul>
+
+    <div class="table-wrap">
+      <table id="oppTable">
+        <thead>
+          <tr>
+            <th>State</th>
+            <th>City / County</th>
+            <th>Type</th>
+            <th>Headline</th>
+            <th>Date</th>
+            <th>Reasons Cited</th>
+            <th>Sustainability Concerns</th>
+            <th>Typical NIMBY Concerns</th>
+          </tr>
+        </thead>
+        <tbody id="oppTableBody">
+          <tr><td colspan="8" class="loading-row">Loading headlines&hellip;</td></tr>
+        </tbody>
+      </table>
+    </div>
   </section>
 </main>
 
