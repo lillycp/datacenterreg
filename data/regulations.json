@@ -16,7 +16,7 @@
     "title": "relative to municipal data center zoning.",
     "body": "Senate",
     "status": "Bill",
-    "date": "",
+    "date": "2026-05-14",
     "sourceUrl": "https://gc.nh.gov/bill_Status/billinfo.aspx?id=1435&inflect=2"
   },
   {
@@ -826,7 +826,7 @@
     "title": "AN ACT TO AMEND THE LAWS OF DELAWARE RELATING TO A MORATORIUM ON DATA CENTER DEVELOPMENT.",
     "body": "Senate",
     "status": "Bill",
-    "date": "2026-07-27",
+    "date": "2026-06-30",
     "sourceUrl": "https://legis.delaware.gov/BillDetail?LegislationId=143681"
   },
   {
@@ -858,5 +858,45 @@
     "status": "Bill",
     "date": "2026-05-29",
     "sourceUrl": "http://legislature.vermont.gov/bill/loadBillsIntroduced/2026/"
+  },
+  {
+    "id": "state-ocd-bill/2156b93d-a504-4707-9e4a-41e60d7cb7ea",
+    "level": "state",
+    "state": "Florida",
+    "title": "Approval of Data Center Facilities",
+    "body": "House",
+    "status": "Bill",
+    "date": "2026-03-13",
+    "sourceUrl": "https://flsenate.gov/Session/Bill/2026/1517/ByCategory"
+  },
+  {
+    "id": "state-ocd-bill/f76514da-cdb7-45f6-960b-0dbc54d92ad4",
+    "level": "state",
+    "state": "Florida",
+    "title": "Data Centers",
+    "body": "House",
+    "status": "Bill",
+    "date": "2026-03-11",
+    "sourceUrl": "https://flsenate.gov/Session/Bill/2026/1007/ByCategory"
+  },
+  {
+    "id": "state-ocd-bill/adeb8793-d1b6-409c-aec4-81484e65b34a",
+    "level": "state",
+    "state": "Kansas",
+    "title": "Prohibiting the development or operation of any new large load data center in a county that has had a drought emergency declared for such county pursuant to the Kansas emergency management act within the preceding three years.",
+    "body": "Senate",
+    "status": "Bill",
+    "date": "2026-04-10",
+    "sourceUrl": "https://www.kslegislature.gov/b2025_26/bills/SB531/"
+  },
+  {
+    "id": "state-ocd-bill/03d894a2-3216-4fe1-b3a9-c00e6e80fd45",
+    "level": "state",
+    "state": "Ohio",
+    "title": "Enact the Data Center Accountability and Citizen Protection Act",
+    "body": "House",
+    "status": "Bill",
+    "date": "2026-07-28T04:00:00+00:00",
+    "sourceUrl": "https://www.legislature.ohio.gov/legislation/136/hb983"
   }
 ]
