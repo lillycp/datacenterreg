@@ -176,7 +176,7 @@
     "title": "Data centers: rate structures.",
     "body": "Senate",
     "status": "Bill",
-    "date": "2026-06-25",
+    "date": "2026-08-06",
     "sourceUrl": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260SB1168"
   },
   {
@@ -246,7 +246,7 @@
     "title": "California Environmental Quality Act: environmental leadership development projects: data centers: clean energy powerplant projects.",
     "body": "Senate",
     "status": "Bill",
-    "date": "2026-06-29",
+    "date": "2026-08-05",
     "sourceUrl": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260SB887"
   },
   {
@@ -566,7 +566,7 @@
     "title": "Electricity: data centers.",
     "body": "Assembly",
     "status": "Bill",
-    "date": "2026-07-02",
+    "date": "2026-08-03",
     "sourceUrl": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB2383"
   },
   {
@@ -906,7 +906,27 @@
     "title": "Data centers: reporting.",
     "body": "Assembly",
     "status": "Bill",
-    "date": "2026-07-02",
+    "date": "2026-08-03",
     "sourceUrl": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB1577"
+  },
+  {
+    "id": "state-ocd-bill/1f701cd3-30f5-48b2-9295-79de5c9ab404",
+    "level": "state",
+    "state": "California",
+    "title": "Data centers: water use disclosures.",
+    "body": "Assembly",
+    "status": "Bill",
+    "date": "2026-08-03",
+    "sourceUrl": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB2469"
+  },
+  {
+    "id": "state-ocd-bill/9d2f7c2f-66d9-4b59-a5c8-5fb0f11342b9",
+    "level": "state",
+    "state": "California",
+    "title": "Water resources: data centers.",
+    "body": "Assembly",
+    "status": "Bill",
+    "date": "2026-08-03",
+    "sourceUrl": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB2619"
   }
 ]
