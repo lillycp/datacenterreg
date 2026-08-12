@@ -6,7 +6,7 @@
     "title": "prohibiting the construction of data centers in the state and establishing a committee to study the environmental impact of data centers.",
     "body": "House",
     "status": "Bill",
-    "date": "",
+    "date": "2026-03-11",
     "sourceUrl": "https://gc.nh.gov/bill_Status/billinfo.aspx?id=1685&inflect=2"
   },
   {
@@ -916,7 +916,7 @@
     "title": "Data centers: water use disclosures.",
     "body": "Assembly",
     "status": "Bill",
-    "date": "2026-08-03",
+    "date": "2026-08-10",
     "sourceUrl": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB2469"
   },
   {
@@ -926,7 +926,67 @@
     "title": "Water resources: data centers.",
     "body": "Assembly",
     "status": "Bill",
-    "date": "2026-08-03",
+    "date": "2026-08-10",
     "sourceUrl": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB2619"
+  },
+  {
+    "id": "state-ocd-bill/9334c0a9-78b6-496a-b669-c04dcac85454",
+    "level": "state",
+    "state": "Missouri",
+    "title": "Creates the Artificial Intelligence Data Center Environmental Accountability Act",
+    "body": "House",
+    "status": "Bill",
+    "date": "2026-05-15T05:00:00+00:00",
+    "sourceUrl": "https://www.house.mo.gov/BillContent.aspx?bill=HB2239&year=2026&code=R&style=new"
+  },
+  {
+    "id": "state-ocd-bill/8fa27234-539b-401e-8434-3cb854b60f05",
+    "level": "state",
+    "state": "Pennsylvania",
+    "title": "An Act amending the act of July 31, 1968 (P.L.805, No.247), known as the Pennsylvania Municipalities Planning Code, in zoning, providing for optional moratorium on filing or consideration of new applications for high impact data centers.",
+    "body": "House",
+    "status": "Bill",
+    "date": "2026-05-27T04:00:00+00:00",
+    "sourceUrl": "https://www.palegis.us/legislation/bills/2025/hb2533"
+  },
+  {
+    "id": "state-ocd-bill/56803e66-6394-42a0-8289-ec1bb1cbb24a",
+    "level": "state",
+    "state": "Montana",
+    "title": "Revise taxes for class 17 data center property",
+    "body": "House",
+    "status": "Bill",
+    "date": "2025-05-19T21:49:53+00:00",
+    "sourceUrl": "https://bills.legmt.gov/#/laws/bill/2/LC3009?open_tab=sum"
+  },
+  {
+    "id": "state-ocd-bill/75a10e52-5ff2-4a21-9c0b-eef6e38b38eb",
+    "level": "state",
+    "state": "Montana",
+    "title": "Generally revise digital asset mining and data center ratemaking laws",
+    "body": "House",
+    "status": "Bill",
+    "date": "2025-05-20T17:00:00+00:00",
+    "sourceUrl": "https://bills.legmt.gov/#/laws/bill/2/LC0636?open_tab=sum"
+  },
+  {
+    "id": "state-ocd-bill/6b361abb-fa86-4d59-bbab-231ea623b9ed",
+    "level": "state",
+    "state": "Montana",
+    "title": "Study resolution on data centers",
+    "body": "House",
+    "status": "Joint resolution",
+    "date": "2025-05-22T22:00:00+00:00",
+    "sourceUrl": "https://bills.legmt.gov/#/laws/bill/2/LC0933?open_tab=sum"
+  },
+  {
+    "id": "state-ocd-bill/de0e9e98-d025-4cb0-ac9f-25d592db153c",
+    "level": "state",
+    "state": "Montana",
+    "title": "Establish the Montana data center development act",
+    "body": "House",
+    "status": "Bill",
+    "date": "2025-05-20T17:00:00+00:00",
+    "sourceUrl": "https://bills.legmt.gov/#/laws/bill/2/LC2604?open_tab=sum"
   }
 ]
