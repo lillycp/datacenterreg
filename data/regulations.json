@@ -988,5 +988,15 @@
     "status": "Bill",
     "date": "2025-05-20T17:00:00+00:00",
     "sourceUrl": "https://bills.legmt.gov/#/laws/bill/2/LC2604?open_tab=sum"
+  },
+  {
+    "id": "state-ocd-bill/f2ffa6d1-0536-4039-b5e9-a5d200fb29ea",
+    "level": "state",
+    "state": "Pennsylvania",
+    "title": "An Act imposing a Statewide moratorium on hyperscale data center development and permitting; and providing for enforcement.",
+    "body": "Senate",
+    "status": "Bill",
+    "date": "2026-06-04T04:00:00+00:00",
+    "sourceUrl": "https://www.palegis.us/legislation/bills/2025/sb1359"
   }
 ]
