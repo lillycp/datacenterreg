@@ -343,7 +343,7 @@
     "id": "state-ocd-bill/aaca4840-be3a-4c43-9f2b-9dbb9a8835be",
     "level": "state",
     "state": "Pennsylvania",
-    "title": "An Act amending the act of March 4, 1971 (P.L.6, No.2), entitled \"An act relating to tax reform and State taxation by codifying and enumerating certain subjects of taxation and imposing taxes thereon; providing procedures for the payment, collection, administration and enforcement thereof; providing for tax credits in certain cases; conferring powers and imposing duties upon the Department of Revenue, certain employers, fiduciaries, individuals, persons, corporations and other entities; prescribing crimes, offenses and penalties,\" in computer data center equipment incentive program, further providing for definitions, for application for certification, for eligibility requirements relating to sales and use tax refund program, for notification, for eligibility requirements relating to sales and use tax exemption program and for notification and records.",
+    "title": "An Act amending the act of March 4, 1971 (P.L.6, No.2), known as the Tax Reform Code of 1971, in computer data center equipment incentive program, further providing for definitions, for application for certification, for eligibility requirements relating to sales and use tax refund program, for notification, for eligibility requirements relating to sales and use tax exemption program and for notification and records.",
     "body": "House",
     "status": "Bill",
     "date": "2026-07-10T04:00:00+00:00",
@@ -998,5 +998,65 @@
     "status": "Bill",
     "date": "2026-06-04T04:00:00+00:00",
     "sourceUrl": "https://www.palegis.us/legislation/bills/2025/sb1359"
+  },
+  {
+    "id": "state-ocd-bill/1f530c44-19ee-4345-bc25-a13870dd271d",
+    "level": "state",
+    "state": "Florida",
+    "title": "Data Centers",
+    "body": "Senate",
+    "status": "Bill",
+    "date": "2026-05-08",
+    "sourceUrl": "https://flsenate.gov/Session/Bill/2026/484/ByCategory"
+  },
+  {
+    "id": "state-ocd-bill/e39e02d8-e5c0-4b17-845d-b98755b9c432",
+    "level": "state",
+    "state": "Kentucky",
+    "title": "AN ACT relating to data centers.",
+    "body": "House",
+    "status": "Bill",
+    "date": "2026-03-10T04:00:00+00:00",
+    "sourceUrl": "https://apps.legislature.ky.gov/record/26RS/hb856.html"
+  },
+  {
+    "id": "state-ocd-bill/01182286-2574-4b62-8c51-9ecf51a94503",
+    "level": "state",
+    "state": "Kentucky",
+    "title": "AN ACT relating to data centers.",
+    "body": "House",
+    "status": "Bill",
+    "date": "2026-03-31T04:00:00+00:00",
+    "sourceUrl": "https://apps.legislature.ky.gov/record/26RS/hb593.html"
+  },
+  {
+    "id": "state-ocd-bill/ca114176-fe6e-4265-a211-e3a734bfb3a9",
+    "level": "state",
+    "state": "Kentucky",
+    "title": "AN ACT relating to data centers.",
+    "body": "Senate",
+    "status": "Bill",
+    "date": "2026-03-02T05:00:00+00:00",
+    "sourceUrl": "https://apps.legislature.ky.gov/record/26RS/sb319.html"
+  },
+  {
+    "id": "state-ocd-bill/714c4c55-a993-4af0-b200-57a6ae2fc60e",
+    "level": "state",
+    "state": "Kentucky",
+    "title": "AN ACT relating to data centers.",
+    "body": "House",
+    "status": "Bill",
+    "date": "2026-02-10T05:00:00+00:00",
+    "sourceUrl": "https://apps.legislature.ky.gov/record/26RS/hb544.html"
+  },
+  {
+    "id": "state-ocd-bill/2d85d987-960e-493f-9fae-ebfeb2f5067c",
+    "level": "state",
+    "state": "Kentucky",
+    "title": "AN ACT relating to data centers.",
+    "body": "Senate",
+    "status": "Bill",
+    "date": "2026-03-02T05:00:00+00:00",
+    "sourceUrl": "https://apps.legislature.ky.gov/record/26RS/sb330.html"
   }
 ]
