@@ -243,10 +243,10 @@
     "id": "state-ocd-bill/165ca92b-63f7-4bd9-a990-b7ecd0dcbbfb",
     "level": "state",
     "state": "California",
-    "title": "California Environmental Quality Act: environmental leadership development projects: data centers: clean energy powerplant projects.",
+    "title": "California Environmental Quality Act: environmental leadership development projects: data centers: geothermal powerplant projects.",
     "body": "Senate",
     "status": "Bill",
-    "date": "2026-08-13",
+    "date": "2026-08-21",
     "sourceUrl": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260SB887"
   },
   {
@@ -906,7 +906,7 @@
     "title": "Data centers: reporting.",
     "body": "Assembly",
     "status": "Bill",
-    "date": "2026-08-17",
+    "date": "2026-08-21",
     "sourceUrl": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB1577"
   },
   {
@@ -926,7 +926,7 @@
     "title": "Water resources: data centers.",
     "body": "Assembly",
     "status": "Bill",
-    "date": "2026-08-13",
+    "date": "2026-08-21",
     "sourceUrl": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB2619"
   },
   {
@@ -1058,5 +1058,15 @@
     "status": "Bill",
     "date": "2026-03-02T05:00:00+00:00",
     "sourceUrl": "https://apps.legislature.ky.gov/record/26RS/sb330.html"
+  },
+  {
+    "id": "state-ocd-bill/23f46e5b-d454-4c50-9613-92e38d38225a",
+    "level": "state",
+    "state": "North Dakota",
+    "title": "A BILL for an Act to create and enact chapter 44-04.1 of the North Dakota Century Code, relating to prohibiting agencies from entering nondisclosure agreements concerning data centers and industrial projects; to provide a penalty; to provide an effective date; and to provide an expiration date.",
+    "body": "Senate",
+    "status": "Bill",
+    "date": "",
+    "sourceUrl": "https://ndlegis.gov/assembly/69-2025/special-2/bill-overview/bo2406.html"
   }
 ]
