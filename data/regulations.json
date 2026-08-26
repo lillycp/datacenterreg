@@ -1066,7 +1066,17 @@
     "title": "A BILL for an Act to create and enact chapter 44-04.1 of the North Dakota Century Code, relating to prohibiting agencies from entering nondisclosure agreements concerning data centers and industrial projects; to provide a penalty; to provide an effective date; and to provide an expiration date.",
     "body": "Senate",
     "status": "Bill",
-    "date": "",
+    "date": "2026-09-02",
     "sourceUrl": "https://ndlegis.gov/assembly/69-2025/special-2/bill-overview/bo2406.html"
+  },
+  {
+    "id": "state-ocd-bill/cb128525-dd1b-4640-8d87-f2bb2c343981",
+    "level": "state",
+    "state": "Delaware",
+    "title": "AN ACT TO AMEND TITLE 9, TITLE 22, AND TITLE 29 OF THE DELAWARE CODE RELATING TO DATA CENTERS.",
+    "body": "Senate",
+    "status": "Bill",
+    "date": "2026-06-24",
+    "sourceUrl": "https://legis.delaware.gov/BillDetail?LegislationId=143259"
   }
 ]
