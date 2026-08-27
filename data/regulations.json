@@ -16,7 +16,7 @@
     "title": "relative to municipal data center zoning.",
     "body": "Senate",
     "status": "Bill",
-    "date": "2026-05-14",
+    "date": "2026-08-20",
     "sourceUrl": "https://gc.nh.gov/bill_Status/billinfo.aspx?id=1435&inflect=2"
   },
   {
@@ -236,7 +236,7 @@
     "title": "HYPERSCALE DATA CENTERS",
     "body": "House",
     "status": "Bill",
-    "date": "2026-05-27",
+    "date": "2026-08-26",
     "sourceUrl": "https://ilga.gov/Legislation/BillStatus?DocNum=5513&GAID=18&DocTypeID=HB&LegId=167488&SessionID=114"
   },
   {
@@ -906,7 +906,7 @@
     "title": "Data centers: reporting.",
     "body": "Assembly",
     "status": "Bill",
-    "date": "2026-08-24",
+    "date": "2026-08-26",
     "sourceUrl": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB1577"
   },
   {
@@ -926,7 +926,7 @@
     "title": "Water resources: data centers.",
     "body": "Assembly",
     "status": "Bill",
-    "date": "2026-08-24",
+    "date": "2026-08-26",
     "sourceUrl": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB2619"
   },
   {
@@ -1078,5 +1078,45 @@
     "status": "Bill",
     "date": "2026-06-24",
     "sourceUrl": "https://legis.delaware.gov/BillDetail?LegislationId=143259"
+  },
+  {
+    "id": "state-ocd-bill/da337339-50d4-4808-ba39-93e1706bab0e",
+    "level": "state",
+    "state": "Michigan",
+    "title": "Businesses: other; clean and renewable energy requirements for data centers; provide for.",
+    "body": "House",
+    "status": "Bill",
+    "date": "2026-08-27",
+    "sourceUrl": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-HB-6264"
+  },
+  {
+    "id": "state-ocd-bill/a2facad8-2648-40fe-9cec-ec8981056487",
+    "level": "state",
+    "state": "Michigan",
+    "title": "Businesses: other; water and electricity usage reporting requirements for data centers; provide for.",
+    "body": "House",
+    "status": "Bill",
+    "date": "2026-08-27",
+    "sourceUrl": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-HB-6265"
+  },
+  {
+    "id": "state-ocd-bill/78e82a9f-6dc8-4bcd-adc6-00ae4bce36fe",
+    "level": "state",
+    "state": "Michigan",
+    "title": "Businesses: other; energy infrastructure and thermal management evaluation requirements for certain data centers; provide for.",
+    "body": "House",
+    "status": "Bill",
+    "date": "2026-08-27",
+    "sourceUrl": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-HB-6251"
+  },
+  {
+    "id": "state-ocd-bill/dcb9c08c-112e-4869-8831-5f3cff0cd4ab",
+    "level": "state",
+    "state": "Michigan",
+    "title": "Businesses: other; thermal impact assessment requirements for certain data centers; provide for.",
+    "body": "House",
+    "status": "Bill",
+    "date": "2026-08-27",
+    "sourceUrl": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-HB-6252"
   }
 ]
