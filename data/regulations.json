@@ -246,7 +246,7 @@
     "title": "California Environmental Quality Act: environmental leadership development projects: data centers: geothermal powerplant projects.",
     "body": "Senate",
     "status": "Bill",
-    "date": "2026-08-21",
+    "date": "2026-08-27",
     "sourceUrl": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260SB887"
   },
   {
@@ -906,7 +906,7 @@
     "title": "Data centers: reporting.",
     "body": "Assembly",
     "status": "Bill",
-    "date": "2026-08-26",
+    "date": "2026-08-27",
     "sourceUrl": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB1577"
   },
   {
@@ -916,7 +916,7 @@
     "title": "Data centers: water use disclosures.",
     "body": "Assembly",
     "status": "Bill",
-    "date": "2026-08-17",
+    "date": "2026-08-27",
     "sourceUrl": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB2469"
   },
   {
@@ -926,7 +926,7 @@
     "title": "Water resources: data centers.",
     "body": "Assembly",
     "status": "Bill",
-    "date": "2026-08-26",
+    "date": "2026-08-27",
     "sourceUrl": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB2619"
   },
   {
@@ -1118,5 +1118,25 @@
     "status": "Bill",
     "date": "2026-08-27",
     "sourceUrl": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-HB-6252"
+  },
+  {
+    "id": "state-ocd-bill/0d838dba-c280-43cc-9c05-d24c7508bf4b",
+    "level": "state",
+    "state": "New Jersey",
+    "title": "Requires data center owners and operators to submit semi-annual water and energy usage reports to BPU.",
+    "body": "Senate",
+    "status": "Bill",
+    "date": "2026-08-27T04:00:00+00:00",
+    "sourceUrl": "https://www.njleg.state.nj.us/bill-search/2026/S3379"
+  },
+  {
+    "id": "state-ocd-bill/8e78d3d1-f5e5-4a27-a7a6-73ac79c0c734",
+    "level": "state",
+    "state": "New Jersey",
+    "title": "\"End Data Center Tax Credits Act\"; reduces tax credits available for Next New Jersey Program.*",
+    "body": "Senate",
+    "status": "Bill",
+    "date": "2026-08-27T04:00:00+00:00",
+    "sourceUrl": "https://www.njleg.state.nj.us/bill-search/2026/S4390"
   }
 ]
