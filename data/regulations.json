@@ -176,7 +176,7 @@
     "title": "Data centers: rate structures.",
     "body": "Senate",
     "status": "Bill",
-    "date": "2026-08-30",
+    "date": "2026-09-08",
     "sourceUrl": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260SB1168"
   },
   {
@@ -1148,5 +1148,15 @@
     "status": "Bill",
     "date": "2026-09-02T04:00:00+00:00",
     "sourceUrl": "https://www.legislature.ohio.gov/legislation/136/hb999"
+  },
+  {
+    "id": "state-ocd-bill/66bb0b59-93b0-4aa8-bd16-aecb15aef97d",
+    "level": "state",
+    "state": "Pennsylvania",
+    "title": "An Act providing for the protection of water supplies by requiring commercial data centers to restore or replace a polluted or diminutive water supply; and imposing duties on the Department of Environmental Protection.",
+    "body": "House",
+    "status": "Bill",
+    "date": "",
+    "sourceUrl": "https://www.palegis.us/legislation/bills/2025/hb2760"
   }
 ]
