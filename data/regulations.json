@@ -1158,5 +1158,45 @@
     "status": "Bill",
     "date": "2026-09-09T04:00:00+00:00",
     "sourceUrl": "https://www.palegis.us/legislation/bills/2025/hb2760"
+  },
+  {
+    "id": "state-ocd-bill/27d49e34-c98a-4941-8018-5c5632de807b",
+    "level": "state",
+    "state": "New Jersey",
+    "title": "Establishes six month moratorium on approvals, construction, expansion, subsidies, and tax incentives for certain artificial intelligence data centers; creates Artificial Intelligence Data Center Impact Commission.",
+    "body": "Assembly",
+    "status": "Bill",
+    "date": "",
+    "sourceUrl": "https://www.njleg.state.nj.us/bill-search/2026/A5482"
+  },
+  {
+    "id": "state-ocd-bill/46dacb83-904e-4ab8-a07a-0ce085d92ea5",
+    "level": "state",
+    "state": "New Jersey",
+    "title": "Prohibits agreements intended to conceal certain information concerning development of data centers under MLUL.",
+    "body": "Assembly",
+    "status": "Bill",
+    "date": "2026-01-13T05:00:00+00:00",
+    "sourceUrl": "https://www.njleg.state.nj.us/bill-search/2026/A2774"
+  },
+  {
+    "id": "state-ocd-bill/4d6e32fd-803c-4e01-aa58-7791ccad6e59",
+    "level": "state",
+    "state": "New Jersey",
+    "title": "\"Responsible Data Center Development and Resource Protection Act\"; establishes Statewide framework concerning siting, land use approval, energy sourcing, water use, and environmental impacts of large load data center development.",
+    "body": "Assembly",
+    "status": "Bill",
+    "date": "2026-06-18T04:00:00+00:00",
+    "sourceUrl": "https://www.njleg.state.nj.us/bill-search/2026/A5294"
+  },
+  {
+    "id": "state-ocd-bill/59eca661-29a8-41de-88c5-a9a8599e89c0",
+    "level": "state",
+    "state": "Michigan",
+    "title": "Energy: other; reporting requirements for data centers; provide for. Creates new act.",
+    "body": "Senate",
+    "status": "Bill",
+    "date": "2026-09-10",
+    "sourceUrl": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-SB-1179"
   }
 ]
