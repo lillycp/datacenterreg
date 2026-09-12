@@ -396,7 +396,7 @@
     "title": "Public utilities: electric utilities; project labor agreements and prevailing wage and fringe benefit rates; require for certain data center contracts. Amends 1939 PA 3 (MCL 460.1 - 460.11) by adding sec. 10ii.",
     "body": "Senate",
     "status": "Bill",
-    "date": "2026-08-26",
+    "date": "2026-09-10",
     "sourceUrl": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-SB-1048"
   },
   {
@@ -406,7 +406,7 @@
     "title": "Businesses: other; Michigan zoning enabling act; make subject to the data center community benefit act. Amends sec. 205 of 2006 PA 110 (MCL 125.3205).  TIE BAR WITH: SB 1050'26",
     "body": "Senate",
     "status": "Bill",
-    "date": "2026-08-26",
+    "date": "2026-09-10",
     "sourceUrl": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-SB-1051"
   },
   {
@@ -416,7 +416,7 @@
     "title": "Businesses: other; community benefit agreements; require certain data centers to be subject to. Creates new act.",
     "body": "Senate",
     "status": "Bill",
-    "date": "2026-08-26",
+    "date": "2026-09-10",
     "sourceUrl": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-SB-1050"
   },
   {
@@ -1198,5 +1198,35 @@
     "status": "Bill",
     "date": "2026-09-10",
     "sourceUrl": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-SB-1179"
+  },
+  {
+    "id": "state-ocd-bill/fe6a5463-8b8a-4689-85d0-cbda618e2e5a",
+    "level": "state",
+    "state": "New Jersey",
+    "title": "Requires data centers to submit construction phase water usage plan to DEP.",
+    "body": "Assembly",
+    "status": "Bill",
+    "date": "2026-09-10T04:00:00+00:00",
+    "sourceUrl": "https://www.njleg.state.nj.us/bill-search/2026/A5397"
+  },
+  {
+    "id": "state-ocd-bill/f884e47d-3b1b-4c63-89a4-fecfa6214e11",
+    "level": "state",
+    "state": "New Jersey",
+    "title": "Requires data centers to submit water supply emergency contingency plan to DEP.",
+    "body": "Assembly",
+    "status": "Bill",
+    "date": "2026-09-10T04:00:00+00:00",
+    "sourceUrl": "https://www.njleg.state.nj.us/bill-search/2026/A5396"
+  },
+  {
+    "id": "state-ocd-bill/86538825-51fc-4d6b-8e10-66caeb3eac2f",
+    "level": "state",
+    "state": "New Jersey",
+    "title": "Concerns noise abatement of data centers.",
+    "body": "Assembly",
+    "status": "Bill",
+    "date": "2026-09-10T04:00:00+00:00",
+    "sourceUrl": "https://www.njleg.state.nj.us/bill-search/2026/A5373"
   }
 ]
