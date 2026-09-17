@@ -1238,5 +1238,15 @@
     "status": "Bill",
     "date": "2026-06-26T04:00:00+00:00",
     "sourceUrl": "https://www.palegis.us/legislation/bills/2025/hb2198"
+  },
+  {
+    "id": "federal-119-s-5418",
+    "level": "federal",
+    "state": "Federal",
+    "title": "A bill to amend the Internal Revenue Code of 1986 to exclude data centers from the definition of qualified opportunity zone businesses.",
+    "body": "U.S. Senate",
+    "status": "Read twice and referred to the Committee on Finance.",
+    "date": "2026-09-16",
+    "sourceUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5418"
   }
 ]
