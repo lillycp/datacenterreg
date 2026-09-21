@@ -1248,5 +1248,125 @@
     "status": "Read twice and referred to the Committee on Finance.",
     "date": "2026-09-16",
     "sourceUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5418"
+  },
+  {
+    "id": "state-ocd-bill/6fb83c22-0413-4fc4-8877-15cf67bb5ddf",
+    "level": "state",
+    "state": "Minnesota",
+    "title": "Data center energy generation redundancy provided.",
+    "body": "House",
+    "status": "Bill",
+    "date": "2025-03-13",
+    "sourceUrl": "https://www.revisor.mn.gov/bills/94/2025/0/HF/28?body=House"
+  },
+  {
+    "id": "state-ocd-bill/302151fe-fa5d-4a08-b8bf-c4eb35f5045c",
+    "level": "state",
+    "state": "Minnesota",
+    "title": "Data centers sales and use tax exemption modified.",
+    "body": "House",
+    "status": "Bill",
+    "date": "2025-03-06",
+    "sourceUrl": "https://www.revisor.mn.gov/bills/94/2025/0/HF/1277?body=House"
+  },
+  {
+    "id": "state-ocd-bill/0410dce6-2879-4142-a588-7eb9e650ab06",
+    "level": "state",
+    "state": "Minnesota",
+    "title": "Data centers prohibited in certain districts.",
+    "body": "House",
+    "status": "Bill",
+    "date": "2025-02-19",
+    "sourceUrl": "https://www.revisor.mn.gov/bills/94/2025/0/HF/1109?body=House"
+  },
+  {
+    "id": "state-ocd-bill/ca940cfa-78a6-4dad-a661-891f5e5f9f95",
+    "level": "state",
+    "state": "Minnesota",
+    "title": "Sustainable aviation fuel income tax credit and exemptions for data centers and construction of sustainable aviation fuel facilities repealed, increased general fund amounts reallocated from repealed tax provisions to increase the renter's credit, and corresponding technical changes made.",
+    "body": "House",
+    "status": "Bill",
+    "date": "2025-05-08",
+    "sourceUrl": "https://www.revisor.mn.gov/bills/94/2025/0/HF/3304?body=House"
+  },
+  {
+    "id": "state-ocd-bill/e4ceccaa-61d8-4d12-9f57-6c53e9dff1d5",
+    "level": "state",
+    "state": "Minnesota",
+    "title": "Preapplication filings for large water appropriation projects required, permit application information for large water appropriation projects added, level of environmental review for data centers specified, data centers exempted from making financial contributions to an energy conservation and optimization plan, and other data center provisions modified.",
+    "body": "House",
+    "status": "Bill",
+    "date": "2026-04-09",
+    "sourceUrl": "https://www.revisor.mn.gov/bills/94/2025/0/HF/2928?body=House"
+  },
+  {
+    "id": "state-ocd-bill/a03e0d10-1523-48c8-ab67-b8039d3b9b0b",
+    "level": "state",
+    "state": "Minnesota",
+    "title": "Data centers sales and use tax exemption repealed, and contingent reduction in special education aid appropriations repealed.",
+    "body": "House",
+    "status": "Bill",
+    "date": "2026-05-17",
+    "sourceUrl": "https://www.revisor.mn.gov/bills/94/2026/0/HF/5125?body=House"
+  },
+  {
+    "id": "state-ocd-bill/0ecad61a-f737-4366-af00-68e55e37d522",
+    "level": "state",
+    "state": "Minnesota",
+    "title": "Criteria for preapplication evaluations of water appropriations for data centers modified, data centers' electricity sales exempted in calculating a utility's solar energy standard, and data centers exempted from paying sales tax on electricity purchases.",
+    "body": "House",
+    "status": "Bill",
+    "date": "2026-03-12",
+    "sourceUrl": "https://www.revisor.mn.gov/bills/94/2026/0/HF/4153?body=House"
+  },
+  {
+    "id": "state-ocd-bill/137209c8-ff5d-46c1-afbc-ef6db36ec0de",
+    "level": "state",
+    "state": "Minnesota",
+    "title": "Public hearings and disclosures prior to approval of data center development required.",
+    "body": "House",
+    "status": "Bill",
+    "date": "2026-04-09",
+    "sourceUrl": "https://www.revisor.mn.gov/bills/94/2026/0/HF/4512?body=House"
+  },
+  {
+    "id": "state-ocd-bill/84052091-c888-41b9-bdd5-306139f79266",
+    "level": "state",
+    "state": "Minnesota",
+    "title": "Data centers excluded from gross annual retail energy sales for energy conservation and optimization purposes.",
+    "body": "House",
+    "status": "Bill",
+    "date": "2025-05-05",
+    "sourceUrl": "https://www.revisor.mn.gov/bills/94/2025/0/HF/3296?body=House"
+  },
+  {
+    "id": "state-ocd-bill/4cab57ff-0ab0-4432-bb6e-2a60bad77a13",
+    "level": "state",
+    "state": "Minnesota",
+    "title": "New data center moratorium established, and Public Utility Commission required to submit a report.",
+    "body": "House",
+    "status": "Bill",
+    "date": "2026-05-05",
+    "sourceUrl": "https://www.revisor.mn.gov/bills/94/2026/0/HF/4888?body=House"
+  },
+  {
+    "id": "state-ocd-bill/eddd587b-d69a-439c-8744-a8649ffcee4b",
+    "level": "state",
+    "state": "Minnesota",
+    "title": "Certain defined terms maintained, and data center exemptions modified.",
+    "body": "House",
+    "status": "Bill",
+    "date": "2026-05-06",
+    "sourceUrl": "https://www.revisor.mn.gov/bills/94/2026/0/HF/4173?body=House"
+  },
+  {
+    "id": "state-ocd-bill/0209ca1f-d68d-4fec-a659-789de83c76ec",
+    "level": "state",
+    "state": "Minnesota",
+    "title": "Criteria for preapplication evaluations of water appropriations for certain data centers modified, data centers' electricity sales exempted in calculating a utility's solar energy standard, other data center exemptions provided, and data center energy generation redundancy provided.",
+    "body": "House",
+    "status": "Bill",
+    "date": "2026-04-16",
+    "sourceUrl": "https://www.revisor.mn.gov/bills/94/2026/0/HF/4990?body=House"
   }
 ]
