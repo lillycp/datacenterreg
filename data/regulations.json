@@ -1368,5 +1368,45 @@
     "status": "Bill",
     "date": "2026-04-16",
     "sourceUrl": "https://www.revisor.mn.gov/bills/94/2026/0/HF/4990?body=House"
+  },
+  {
+    "id": "state-ocd-bill/f7773b68-8ae6-4030-8c9b-0d96f85a5aed",
+    "level": "state",
+    "state": "Pennsylvania",
+    "title": "A Resolution directing the Legislative Budget and Finance Committee to conduct a study on data center decommissioning in Pennsylvania and provide recommendations.",
+    "body": "House",
+    "status": "Resolution",
+    "date": "",
+    "sourceUrl": "https://www.palegis.us/legislation/bills/2025/hr630"
+  },
+  {
+    "id": "state-ocd-bill/35a212b5-2ea3-42b5-bc82-8e94eacf6d6d",
+    "level": "state",
+    "state": "Pennsylvania",
+    "title": "An Act amending the act of July 31, 1968 (P.L.805, No.247), known as the Pennsylvania Municipalities Planning Code, in general provisions, further providing for definitions; in comprehensive plan, providing for comprehensive plan element for commercial data centers; and, in zoning, providing for zoning, commercial data centers and agricultural land protections and for zoning, commercial data centers, approval procedure and minimum standards.",
+    "body": "House",
+    "status": "Bill",
+    "date": "2026-05-13T04:00:00+00:00",
+    "sourceUrl": "https://www.palegis.us/legislation/bills/2025/hb2516"
+  },
+  {
+    "id": "state-ocd-bill/a957653f-9529-4cf6-8274-93ce8770dbc6",
+    "level": "state",
+    "state": "Pennsylvania",
+    "title": "An Act providing for commercial data center transparency regarding energy use, water use and noise pollution; imposing duties on the Department of Environmental Protection, the Department of Transportation and the Office of Attorney General; and imposing civil penalties.",
+    "body": "House",
+    "status": "Bill",
+    "date": "2026-05-13T04:00:00+00:00",
+    "sourceUrl": "https://www.palegis.us/legislation/bills/2025/hb2515"
+  },
+  {
+    "id": "state-ocd-bill/538a5dfd-a776-4dc0-ba85-616fa4cdadd9",
+    "level": "state",
+    "state": "Missouri",
+    "title": "Creates new provisions related to the construction of data centers",
+    "body": "House",
+    "status": "Bill",
+    "date": "2026-05-15T05:00:00+00:00",
+    "sourceUrl": "https://www.house.mo.gov/BillContent.aspx?bill=HB3390&year=2026&code=R&style=new"
   }
 ]
