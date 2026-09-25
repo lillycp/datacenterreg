@@ -1376,7 +1376,7 @@
     "title": "A Resolution directing the Legislative Budget and Finance Committee to conduct a study on data center decommissioning in Pennsylvania and provide recommendations.",
     "body": "House",
     "status": "Resolution",
-    "date": "",
+    "date": "2026-09-24T04:00:00+00:00",
     "sourceUrl": "https://www.palegis.us/legislation/bills/2025/hr630"
   },
   {
@@ -1408,5 +1408,225 @@
     "status": "Bill",
     "date": "2026-05-15T05:00:00+00:00",
     "sourceUrl": "https://www.house.mo.gov/BillContent.aspx?bill=HB3390&year=2026&code=R&style=new"
+  },
+  {
+    "id": "state-ocd-bill/2e3cffdd-78fd-4bb8-86ce-8066b3942790",
+    "level": "state",
+    "state": "Michigan",
+    "title": "Businesses: other; siting requirements for certain data centers; provide for. Creates new act.   TIE BAR WITH: HB 6388'26",
+    "body": "House",
+    "status": "Bill",
+    "date": "2026-09-29",
+    "sourceUrl": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-HB-6391"
+  },
+  {
+    "id": "state-ocd-bill/c249bd26-55fa-4a46-a6ed-84b23c338506",
+    "level": "state",
+    "state": "Michigan",
+    "title": "Businesses: other; Michigan zoning enabling act; make subject to the data center siting and community protection act. Amends sec. 205 of 2006 PA 110 (MCL 125.3205).   TIE BAR WITH: HB 6391'26",
+    "body": "House",
+    "status": "Bill",
+    "date": "2026-09-29",
+    "sourceUrl": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-HB-6388"
+  },
+  {
+    "id": "state-ocd-bill/bc1f0f46-42b2-4112-8cc0-bfb3da1830a2",
+    "level": "state",
+    "state": "Minnesota",
+    "title": "Certain data centers tax exemption modification",
+    "body": "Senate",
+    "status": "Bill",
+    "date": "2025-01-30",
+    "sourceUrl": "https://www.revisor.mn.gov/bills/94/2025/0/SF/769?body=Senate"
+  },
+  {
+    "id": "state-ocd-bill/51202f06-2de4-46e0-8c36-e78a17706393",
+    "level": "state",
+    "state": "Minnesota",
+    "title": "New data center moratorium established, and Public Utility Commission required to submit a report",
+    "body": "Senate",
+    "status": "Bill",
+    "date": "2026-03-09",
+    "sourceUrl": "https://www.revisor.mn.gov/bills/94/2026/0/SF/4298?body=Senate"
+  },
+  {
+    "id": "state-ocd-bill/bd1bd5ed-edd2-46ae-a2e2-9c4c4c95a6dc",
+    "level": "state",
+    "state": "Minnesota",
+    "title": "Data centers exclusion from gross annual retail energy sales for energy conservation and optimization purposes",
+    "body": "Senate",
+    "status": "Bill",
+    "date": "2025-04-25",
+    "sourceUrl": "https://www.revisor.mn.gov/bills/94/2025/0/SF/3444?body=Senate"
+  },
+  {
+    "id": "state-ocd-bill/c58043ef-a09e-41a3-8166-45b7f5b669c2",
+    "level": "state",
+    "state": "Minnesota",
+    "title": "Data centers tax exemption repeal; contingent reduction in special education aid appropriation repeal",
+    "body": "Senate",
+    "status": "Bill",
+    "date": "2026-04-28",
+    "sourceUrl": "https://www.revisor.mn.gov/bills/94/2026/0/SF/5231?body=Senate"
+  },
+  {
+    "id": "state-ocd-bill/14bdb493-c4fd-42b9-8af9-841e3cb83a4e",
+    "level": "state",
+    "state": "Minnesota",
+    "title": "Data center energy generation redundancy establishment",
+    "body": "Senate",
+    "status": "Bill",
+    "date": "2025-04-28",
+    "sourceUrl": "https://www.revisor.mn.gov/bills/94/2025/0/SF/1393?body=Senate"
+  },
+  {
+    "id": "state-ocd-bill/f449924e-7e8a-4d17-bbbf-6aee35bc5696",
+    "level": "state",
+    "state": "Minnesota",
+    "title": "Data centers provisions modification",
+    "body": "Senate",
+    "status": "Bill",
+    "date": "2026-02-26",
+    "sourceUrl": "https://www.revisor.mn.gov/bills/94/2026/0/SF/3968?body=Senate"
+  },
+  {
+    "id": "state-ocd-bill/931b585f-076a-40dc-b64e-7cc74209b334",
+    "level": "state",
+    "state": "Minnesota",
+    "title": "Data centers in certain districts prohibition provision",
+    "body": "Senate",
+    "status": "Bill",
+    "date": "2025-03-20",
+    "sourceUrl": "https://www.revisor.mn.gov/bills/94/2025/0/SF/608?body=Senate"
+  },
+  {
+    "id": "state-ocd-bill/7b49377f-238e-473c-9a65-b14ce9cd2cad",
+    "level": "state",
+    "state": "Minnesota",
+    "title": "Public hearings and certain disclosures prior to approval of data center development requirement",
+    "body": "Senate",
+    "status": "Bill",
+    "date": "2026-03-18",
+    "sourceUrl": "https://www.revisor.mn.gov/bills/94/2026/0/SF/4296?body=Senate"
+  },
+  {
+    "id": "state-ocd-bill/fd0563a1-fa71-4cfc-a1f4-90b69f8b1f35",
+    "level": "state",
+    "state": "Minnesota",
+    "title": "Data centers provisions modifications",
+    "body": "Senate",
+    "status": "Bill",
+    "date": "2026-04-13",
+    "sourceUrl": "https://www.revisor.mn.gov/bills/94/2026/0/SF/5100?body=Senate"
+  },
+  {
+    "id": "state-ocd-bill/e9a44f57-7713-4571-8f06-3b8b35b7e275",
+    "level": "state",
+    "state": "Minnesota",
+    "title": "Sales and use tax exemption for data centers repeal",
+    "body": "Senate",
+    "status": "Bill",
+    "date": "2025-04-22",
+    "sourceUrl": "https://www.revisor.mn.gov/bills/94/2025/0/SF/3265?body=Senate"
+  },
+  {
+    "id": "state-ocd-bill/d3540fe6-7302-436a-9c9d-b379d3266b02",
+    "level": "state",
+    "state": "Minnesota",
+    "title": "Various data center exemptions and provisions modifications",
+    "body": "Senate",
+    "status": "Bill",
+    "date": "2026-03-23",
+    "sourceUrl": "https://www.revisor.mn.gov/bills/94/2026/0/SF/4681?body=Senate"
+  },
+  {
+    "id": "state-ocd-bill/05a25909-6c2e-42f9-9fb2-d7882ea1153a",
+    "level": "state",
+    "state": "Minnesota",
+    "title": "Cryptocurrency and artificial intelligence data centers sales exemption from certain energy savings goals provision",
+    "body": "Senate",
+    "status": "Bill",
+    "date": "2025-02-27",
+    "sourceUrl": "https://www.revisor.mn.gov/bills/94/2025/0/SF/1879?body=Senate"
+  },
+  {
+    "id": "state-ocd-bill/79766f88-018c-4b00-a900-e971fa5d3968",
+    "level": "state",
+    "state": "Minnesota",
+    "title": "Exemption of data centers modification for sales and use tax",
+    "body": "Senate",
+    "status": "Bill",
+    "date": "2026-03-17",
+    "sourceUrl": "https://www.revisor.mn.gov/bills/94/2026/0/SF/4203?body=Senate"
+  },
+  {
+    "id": "state-ocd-bill/d454bf5f-c1b2-4c3f-905e-968dbde3f90d",
+    "level": "state",
+    "state": "Minnesota",
+    "title": "Environmental impact statement for data centers requirement provision",
+    "body": "Senate",
+    "status": "Bill",
+    "date": "2026-03-25",
+    "sourceUrl": "https://www.revisor.mn.gov/bills/94/2026/0/SF/4816?body=Senate"
+  },
+  {
+    "id": "state-ocd-bill/510adb9e-3b64-4b05-bf84-70bb38bf8b09",
+    "level": "state",
+    "state": "Pennsylvania",
+    "title": "An Act amending Title 27 (Environmental Resources) of the Pennsylvania Consolidated Statutes, in water resources planning, providing for water conservation requirements for data centers.",
+    "body": "Senate",
+    "status": "Bill",
+    "date": "2026-09-24T04:00:00+00:00",
+    "sourceUrl": "https://www.palegis.us/legislation/bills/2025/sb1470"
+  },
+  {
+    "id": "state-ocd-bill/2811f30d-032c-43c2-a6df-ff383af7296e",
+    "level": "state",
+    "state": "Pennsylvania",
+    "title": "An Act amending Title 53 (Municipalities Generally) of the Pennsylvania Consolidated Statutes, in general provisions relating to government and administration, providing for pre-application procedure for a proposed data center.",
+    "body": "Senate",
+    "status": "Bill",
+    "date": "2026-09-24T04:00:00+00:00",
+    "sourceUrl": "https://www.palegis.us/legislation/bills/2025/sb1455"
+  },
+  {
+    "id": "state-ocd-bill/231764e4-6abe-4f21-bf46-b203a9fd8487",
+    "level": "state",
+    "state": "Pennsylvania",
+    "title": "An Act requiring proposed data centers to conduct water usage studies.",
+    "body": "Senate",
+    "status": "Bill",
+    "date": "2026-09-24T04:00:00+00:00",
+    "sourceUrl": "https://www.palegis.us/legislation/bills/2025/sb1459"
+  },
+  {
+    "id": "state-ocd-bill/38a42224-d8e6-436f-9f5b-e0620ae3b3a5",
+    "level": "state",
+    "state": "Pennsylvania",
+    "title": "An Act amending the act of July 31, 1968 (P.L.805, No.247), known as the Pennsylvania Municipalities Planning Code, in general provisions, further providing for definitions; and, in zoning, providing for hyperscale data centers and public input.",
+    "body": "Senate",
+    "status": "Bill",
+    "date": "2026-09-24T04:00:00+00:00",
+    "sourceUrl": "https://www.palegis.us/legislation/bills/2025/sb1461"
+  },
+  {
+    "id": "state-ocd-bill/4aef2ebb-9bdd-41f8-a1a7-36c10bfdbc3a",
+    "level": "state",
+    "state": "Pennsylvania",
+    "title": "An Act amending the act of July 31, 1968 (P.L.805, No.247), known as the Pennsylvania Municipalities Planning Code, in zoning, prohibiting the location of data centers.",
+    "body": "Senate",
+    "status": "Bill",
+    "date": "2026-09-24T04:00:00+00:00",
+    "sourceUrl": "https://www.palegis.us/legislation/bills/2025/sb1460"
+  },
+  {
+    "id": "state-ocd-bill/65e18506-3d8f-4d75-adee-02182d550289",
+    "level": "state",
+    "state": "Pennsylvania",
+    "title": "An Act amending Title 66 (Public Utilities) of the Pennsylvania Consolidated Statutes, in rates and distribution systems, providing for large load hyperscale data center tariffs.",
+    "body": "Senate",
+    "status": "Bill",
+    "date": "2026-09-24T04:00:00+00:00",
+    "sourceUrl": "https://www.palegis.us/legislation/bills/2025/sb1469"
   }
 ]
