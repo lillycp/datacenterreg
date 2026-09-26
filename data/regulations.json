@@ -1628,5 +1628,25 @@
     "status": "Bill",
     "date": "2026-09-24T04:00:00+00:00",
     "sourceUrl": "https://www.palegis.us/legislation/bills/2025/sb1469"
+  },
+  {
+    "id": "state-ocd-bill/fa1ecef1-6e39-4935-a135-549ae528a0bc",
+    "level": "state",
+    "state": "Pennsylvania",
+    "title": "An Act prohibiting data centers from being developed or operated by certain foreign entities; and providing for enforcement by Attorney General.",
+    "body": "Senate",
+    "status": "Bill",
+    "date": "2026-09-25T04:00:00+00:00",
+    "sourceUrl": "https://www.palegis.us/legislation/bills/2025/sb1442"
+  },
+  {
+    "id": "state-ocd-bill/e42375ff-85aa-4369-aeed-233462bd6511",
+    "level": "state",
+    "state": "New Jersey",
+    "title": "Requires data center developers to provide certain notice to public before preliminary site plan consideration and hearing under MLUL; requires DCA to maintain related public notice website.",
+    "body": "Assembly",
+    "status": "Bill",
+    "date": "",
+    "sourceUrl": "https://www.njleg.state.nj.us/bill-search/2026/A5586"
   }
 ]
