@@ -1648,5 +1648,45 @@
     "status": "Bill",
     "date": "",
     "sourceUrl": "https://www.njleg.state.nj.us/bill-search/2026/A5586"
+  },
+  {
+    "id": "state-ocd-bill/d912f014-7a9e-4db6-a07c-d512720959b4",
+    "level": "state",
+    "state": "New Jersey",
+    "title": "Requires DEP to conduct study on environmental impacts of data center development in State; prohibits construction of new data centers until study is complete.",
+    "body": "Senate",
+    "status": "Bill",
+    "date": "",
+    "sourceUrl": "https://www.njleg.state.nj.us/bill-search/2026/S4659"
+  },
+  {
+    "id": "state-ocd-bill/4dc2f125-c6fa-457e-927c-8389cf8838fa",
+    "level": "state",
+    "state": "New Jersey",
+    "title": "Requires data centers to submit annual report to DEP; requires DEP to establish Data Center Transparency Dashboard.",
+    "body": "Senate",
+    "status": "Bill",
+    "date": "",
+    "sourceUrl": "https://www.njleg.state.nj.us/bill-search/2026/S4658"
+  },
+  {
+    "id": "state-ocd-bill/98b1ed37-13a1-4a6f-b04c-648cea90f764",
+    "level": "state",
+    "state": "New Jersey",
+    "title": "Modifies certain DEP permit application requirements for data centers.",
+    "body": "Senate",
+    "status": "Bill",
+    "date": "",
+    "sourceUrl": "https://www.njleg.state.nj.us/bill-search/2026/S4657"
+  },
+  {
+    "id": "state-ocd-bill/102e4920-e3bd-4aac-9d9e-1c2a06e773c0",
+    "level": "state",
+    "state": "New Jersey",
+    "title": "\"Responsible Data Center Development and Resource Protection Act\"; establishes Statewide framework concerning siting, land use approval, energy sourcing, water use, and environmental impacts of large load data center development.",
+    "body": "Senate",
+    "status": "Bill",
+    "date": "2026-06-04T04:00:00+00:00",
+    "sourceUrl": "https://www.njleg.state.nj.us/bill-search/2026/S4402"
   }
 ]
