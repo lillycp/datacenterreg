@@ -186,7 +186,7 @@
     "title": "An Act amending the act of July 31, 1968 (P.L.805, No.247), known as the Pennsylvania Municipalities Planning Code, in zoning, providing for optional temporary moratorium on acceptance or consideration of new applications for high impact data centers.",
     "body": "Senate",
     "status": "Bill",
-    "date": "2026-07-12T04:00:00+00:00",
+    "date": "2026-09-30T04:00:00+00:00",
     "sourceUrl": "https://www.palegis.us/legislation/bills/2025/sb1345"
   },
   {
@@ -636,7 +636,7 @@
     "title": "An Act prohibiting certain nondisclosure agreements between public agencies and data centers.",
     "body": "Senate",
     "status": "Bill",
-    "date": "2026-09-29T04:00:00+00:00",
+    "date": "2026-09-30T04:00:00+00:00",
     "sourceUrl": "https://www.palegis.us/legislation/bills/2025/sb1408"
   },
   {
@@ -1243,7 +1243,7 @@
     "id": "federal-119-s-5418",
     "level": "federal",
     "state": "Federal",
-    "title": "A bill to amend the Internal Revenue Code of 1986 to exclude data centers from the definition of qualified opportunity zone businesses.",
+    "title": "No Tax Breaks for Data Centers Act",
     "body": "U.S. Senate",
     "status": "Read twice and referred to the Committee on Finance.",
     "date": "2026-09-16",
@@ -1376,7 +1376,7 @@
     "title": "A Resolution directing the Legislative Budget and Finance Committee to conduct a study on data center decommissioning in Pennsylvania and provide recommendations.",
     "body": "House",
     "status": "Resolution",
-    "date": "2026-09-24T04:00:00+00:00",
+    "date": "2026-09-30T04:00:00+00:00",
     "sourceUrl": "https://www.palegis.us/legislation/bills/2025/hr630"
   },
   {
@@ -1698,5 +1698,75 @@
     "status": "Bill",
     "date": "2026-01-07",
     "sourceUrl": "https://legislation.nysenate.gov/api/3/bills/2025-2026/A9064?summary=&detail="
+  },
+  {
+    "id": "federal-119-s-5640",
+    "level": "federal",
+    "state": "Federal",
+    "title": "A bill to require reports on the effects of data centers on air quality and water quality, and on electricity consumption by data centers.",
+    "body": "U.S. Senate",
+    "status": "Read twice and referred to the Committee on Environment and Public Works.",
+    "date": "2026-09-30",
+    "sourceUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5640"
+  },
+  {
+    "id": "federal-119-s-5658",
+    "level": "federal",
+    "state": "Federal",
+    "title": "A bill to prohibit the construction of data centers on Federal land, and for other purposes.",
+    "body": "U.S. Senate",
+    "status": "Read twice and referred to the Committee on Energy and Natural Resources.",
+    "date": "2026-09-30",
+    "sourceUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5658"
+  },
+  {
+    "id": "federal-119-s-5645",
+    "level": "federal",
+    "state": "Federal",
+    "title": "A bill to require the Secretary of Energy to establish a Data Center Community Assistance Program, and for other purposes.",
+    "body": "U.S. Senate",
+    "status": "Read twice and referred to the Committee on Energy and Natural Resources.",
+    "date": "2026-09-30",
+    "sourceUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5645"
+  },
+  {
+    "id": "state-ocd-bill/a084dbcc-5aa3-4508-b9f1-0bcdf52edd5f",
+    "level": "state",
+    "state": "Pennsylvania",
+    "title": "A Resolution directing the Legislative Budget and Finance Committee to conduct a study on the future viability of data center technology and facilities.",
+    "body": "Senate",
+    "status": "Resolution",
+    "date": "2026-09-30T04:00:00+00:00",
+    "sourceUrl": "https://www.palegis.us/legislation/bills/2025/sr369"
+  },
+  {
+    "id": "state-ocd-bill/e65d7738-76a1-4635-8391-b4a179dd4071",
+    "level": "state",
+    "state": "New York",
+    "title": "Prohibits nondisclosure agreements intended to conceal information about the development of a data center from the public or intended to prevent public review thereof",
+    "body": "Senate",
+    "status": "Bill",
+    "date": "2026-09-30",
+    "sourceUrl": "https://legislation.nysenate.gov/api/3/bills/2025-2026/S10708?summary=&detail="
+  },
+  {
+    "id": "state-ocd-bill/d6b2f37f-1856-4f8a-af2e-ff98b77a9e53",
+    "level": "state",
+    "state": "Michigan",
+    "title": "Businesses: other; data center local decision protection act; create. Creates new act.   TIE BAR WITH: HB 6427'26",
+    "body": "House",
+    "status": "Bill",
+    "date": "2026-10-01",
+    "sourceUrl": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-HB-6426"
+  },
+  {
+    "id": "state-ocd-bill/0b952561-3d24-4a96-9ba1-65f303daada6",
+    "level": "state",
+    "state": "Michigan",
+    "title": "Businesses: other; Michigan zoning enabling act; make subject to the data center local decision protection act. Amends secs. 205 & 606 of 2006 PA 110 (MCL 125.3205 & 125.3606).   TIE BAR WITH: HB 6426'26",
+    "body": "House",
+    "status": "Bill",
+    "date": "2026-10-01",
+    "sourceUrl": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-HB-6427"
   }
 ]
