@@ -1798,5 +1798,15 @@
     "status": "Bill",
     "date": "",
     "sourceUrl": "https://www.njleg.state.nj.us/bill-search/2026/A5622"
+  },
+  {
+    "id": "state-ocd-bill/75571b52-eff1-478b-9e28-297c2d296921",
+    "level": "state",
+    "state": "Illinois",
+    "title": "LOC GOVT-DATA CENTER",
+    "body": "House",
+    "status": "Bill",
+    "date": "2026-10-02",
+    "sourceUrl": "https://ilga.gov/Legislation/BillStatus?DocNum=5818&GAID=18&DocTypeID=HB&LegId=168940&SessionID=114"
   }
 ]
