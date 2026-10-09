@@ -1808,5 +1808,25 @@
     "status": "Bill",
     "date": "2026-10-02",
     "sourceUrl": "https://ilga.gov/Legislation/BillStatus?DocNum=5818&GAID=18&DocTypeID=HB&LegId=168940&SessionID=114"
+  },
+  {
+    "id": "state-ocd-bill/8bbdbe88-70dd-41f8-afc4-64f68e2b86bd",
+    "level": "state",
+    "state": "New Jersey",
+    "title": "Requires DEP to conduct study of short and long term effects of water use by large-scale data centers.",
+    "body": "Senate",
+    "status": "Bill",
+    "date": "2026-10-08T04:00:00+00:00",
+    "sourceUrl": "https://www.njleg.state.nj.us/bill-search/2026/S4400"
+  },
+  {
+    "id": "state-ocd-bill/496861b9-5ef2-4955-b95a-89c1cc1105d1",
+    "level": "state",
+    "state": "Virginia",
+    "title": "Data centers; public hearing and notice requirements.",
+    "body": "Senate",
+    "status": "Bill",
+    "date": "2026-10-08",
+    "sourceUrl": "https://lis.virginia.gov/bill-details/20271/SB841"
   }
 ]
