@@ -1828,5 +1828,15 @@
     "status": "Bill",
     "date": "2026-10-08",
     "sourceUrl": "https://lis.virginia.gov/bill-details/20271/SB841"
+  },
+  {
+    "id": "state-ocd-bill/9f5f76a4-2760-49a4-8481-2c18bb2d3fa2",
+    "level": "state",
+    "state": "Virginia",
+    "title": "Data centers; state permitting, local approval, moratorium, sunset.",
+    "body": "Senate",
+    "status": "Bill",
+    "date": "2026-10-09",
+    "sourceUrl": "https://lis.virginia.gov/bill-details/20271/SB843"
   }
 ]
