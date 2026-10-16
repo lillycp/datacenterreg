@@ -1796,7 +1796,7 @@
     "title": "Modifies certain DEP permit application requirements for data centers.",
     "body": "Assembly",
     "status": "Bill",
-    "date": "",
+    "date": "2026-10-15T04:00:00+00:00",
     "sourceUrl": "https://www.njleg.state.nj.us/bill-search/2026/A5622"
   },
   {
@@ -1838,5 +1838,175 @@
     "status": "Bill",
     "date": "2026-10-09",
     "sourceUrl": "https://lis.virginia.gov/bill-details/20271/SB843"
+  },
+  {
+    "id": "federal-119-s-5689",
+    "level": "federal",
+    "state": "Federal",
+    "title": "A bill to prohibit Federal and State incentives for the development or commercial operations of data centers.",
+    "body": "U.S. Senate",
+    "status": "Under authority of the order of the Senate of September 30, 2026, ordered read twice and referred to the Committee on Finance.",
+    "date": "2026-10-15",
+    "sourceUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5689"
+  },
+  {
+    "id": "state-ocd-bill/dfa7ffb5-0ef2-47c3-85a5-190d55ed5654",
+    "level": "state",
+    "state": "New Jersey",
+    "title": "Requires DEP to conduct study on environmental impacts of data center development in State; prohibits construction of new data centers until study is complete.",
+    "body": "Assembly",
+    "status": "Bill",
+    "date": "",
+    "sourceUrl": "https://www.njleg.state.nj.us/bill-search/2026/A5663"
+  },
+  {
+    "id": "state-ocd-bill/d7c7cb09-3f54-4c68-a84f-fafcb17276de",
+    "level": "state",
+    "state": "New Jersey",
+    "title": "Requires data centers to submit annual report to DEP; requires DEP to establish Data Center Transparency Dashboard.",
+    "body": "Assembly",
+    "status": "Bill",
+    "date": "",
+    "sourceUrl": "https://www.njleg.state.nj.us/bill-search/2026/A5646"
+  },
+  {
+    "id": "state-ocd-bill/6e0693a6-1397-4976-aa13-7251ce7cb1a7",
+    "level": "state",
+    "state": "Montana",
+    "title": "Generally revise law relating to data centers",
+    "body": "Montana Legislature",
+    "status": "Bill",
+    "date": "2026-09-08T16:41:54+00:00",
+    "sourceUrl": "https://bills.legmt.gov/#/lc/bill/3/LC0020"
+  },
+  {
+    "id": "state-ocd-bill/a34566a8-23e0-4de4-b20d-871d0a47abd4",
+    "level": "state",
+    "state": "Montana",
+    "title": "Generally revise data center laws",
+    "body": "Montana Legislature",
+    "status": "Bill",
+    "date": "2026-09-08T17:03:09+00:00",
+    "sourceUrl": "https://bills.legmt.gov/#/lc/bill/3/LC0031"
+  },
+  {
+    "id": "state-ocd-bill/29d51e62-c0eb-43b9-9af0-ae0603808e76",
+    "level": "state",
+    "state": "Montana",
+    "title": "Prohibit data centers in areas that use tax increment financing",
+    "body": "Montana Legislature",
+    "status": "Bill",
+    "date": "2026-09-15T20:58:16+00:00",
+    "sourceUrl": "https://bills.legmt.gov/#/lc/bill/3/LC0235"
+  },
+  {
+    "id": "state-ocd-bill/495a4c6f-8546-4d74-95e4-f82baf48a613",
+    "level": "state",
+    "state": "Montana",
+    "title": "Generally revise data center taxation",
+    "body": "Montana Legislature",
+    "status": "Bill",
+    "date": "2026-09-08T16:52:43+00:00",
+    "sourceUrl": "https://bills.legmt.gov/#/lc/bill/3/LC0022"
+  },
+  {
+    "id": "state-ocd-bill/f9febf39-4280-4902-ab42-2100ae559af3",
+    "level": "state",
+    "state": "Montana",
+    "title": "Generally revise data center laws",
+    "body": "Montana Legislature",
+    "status": "Bill",
+    "date": "2026-09-11T20:50:51+00:00",
+    "sourceUrl": "https://bills.legmt.gov/#/lc/bill/3/LC0071"
+  },
+  {
+    "id": "state-ocd-bill/c7ce8a2e-c7ad-4b53-9b72-6ef8ea63d737",
+    "level": "state",
+    "state": "Montana",
+    "title": "Generally revise data center laws",
+    "body": "Montana Legislature",
+    "status": "Bill",
+    "date": "2026-09-15T16:52:39+00:00",
+    "sourceUrl": "https://bills.legmt.gov/#/lc/bill/3/LC0182"
+  },
+  {
+    "id": "state-ocd-bill/55af6201-1bd3-48cd-8e8d-43ad7bbb11dd",
+    "level": "state",
+    "state": "Montana",
+    "title": "Revise data center water use laws",
+    "body": "Montana Legislature",
+    "status": "Bill",
+    "date": "2026-09-16T13:39:56+00:00",
+    "sourceUrl": "https://bills.legmt.gov/#/lc/bill/3/LC0253"
+  },
+  {
+    "id": "state-ocd-bill/1b8e83ea-c916-4b0d-bae6-02674cb1ba26",
+    "level": "state",
+    "state": "Montana",
+    "title": "Protect ratepayers and provide fiscal protection from data centers",
+    "body": "Montana Legislature",
+    "status": "Bill",
+    "date": "2026-09-16T13:39:09+00:00",
+    "sourceUrl": "https://bills.legmt.gov/#/lc/bill/3/LC0251"
+  },
+  {
+    "id": "state-ocd-bill/31f49613-5f71-41a5-9eb4-4262a032a555",
+    "level": "state",
+    "state": "Montana",
+    "title": "Generally revise data center laws",
+    "body": "Montana Legislature",
+    "status": "Bill",
+    "date": "2026-09-15T16:52:23+00:00",
+    "sourceUrl": "https://bills.legmt.gov/#/lc/bill/3/LC0181"
+  },
+  {
+    "id": "state-ocd-bill/1c96a860-9412-45da-baf6-613484080954",
+    "level": "state",
+    "state": "Montana",
+    "title": "Montana Data Center Energy and Infrastructure Task Force Act",
+    "body": "Montana Legislature",
+    "status": "Bill",
+    "date": "2026-09-30T12:44:55+00:00",
+    "sourceUrl": "https://bills.legmt.gov/#/lc/bill/3/LC0582"
+  },
+  {
+    "id": "state-ocd-bill/c3c21603-3ff4-45c5-bb8b-4f7f52ebf58a",
+    "level": "state",
+    "state": "Montana",
+    "title": "Revise data center development laws",
+    "body": "Montana Legislature",
+    "status": "Bill",
+    "date": "2026-09-16T13:38:18+00:00",
+    "sourceUrl": "https://bills.legmt.gov/#/lc/bill/3/LC0250"
+  },
+  {
+    "id": "state-ocd-bill/1a6f5e4d-dbd1-4adc-90d6-91fb0ac82683",
+    "level": "state",
+    "state": "Montana",
+    "title": "Revise property taxation of data centers",
+    "body": "Montana Legislature",
+    "status": "Bill",
+    "date": "2026-09-11T17:56:43+00:00",
+    "sourceUrl": "https://bills.legmt.gov/#/lc/bill/3/LC0058"
+  },
+  {
+    "id": "state-ocd-bill/ab486ee9-9020-4543-bac2-6c8d22e31b79",
+    "level": "state",
+    "state": "Montana",
+    "title": "Revise data center transparency and accountability laws",
+    "body": "Montana Legislature",
+    "status": "Bill",
+    "date": "2026-09-16T13:39:39+00:00",
+    "sourceUrl": "https://bills.legmt.gov/#/lc/bill/3/LC0252"
+  },
+  {
+    "id": "state-ocd-bill/fc26c81f-8d0d-4e5b-9fdd-9a103937f40b",
+    "level": "state",
+    "state": "Montana",
+    "title": "Protect utility ratepayers from data center costs",
+    "body": "Montana Legislature",
+    "status": "Bill",
+    "date": "2026-09-16T17:33:12+00:00",
+    "sourceUrl": "https://bills.legmt.gov/#/lc/bill/3/LC0285"
   }
 ]
