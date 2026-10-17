@@ -2008,5 +2008,15 @@
     "status": "Bill",
     "date": "2026-09-16T17:33:12+00:00",
     "sourceUrl": "https://bills.legmt.gov/#/lc/bill/3/LC0285"
+  },
+  {
+    "id": "state-ocd-bill/43b41db0-5e9c-4c39-9d30-40c672b69bf8",
+    "level": "state",
+    "state": "Maine",
+    "title": "An Act To Address The Use Of Electricity By Data Centers",
+    "body": "Senate",
+    "status": "Bill",
+    "date": "2025-05-23",
+    "sourceUrl": "https://legislature.maine.gov/LawMakerWeb/summary.asp?ID=280097189"
   }
 ]
