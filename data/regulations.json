@@ -1856,7 +1856,7 @@
     "title": "Requires DEP to conduct study on environmental impacts of data center development in State; prohibits construction of new data centers until study is complete.",
     "body": "Assembly",
     "status": "Bill",
-    "date": "",
+    "date": "2026-10-19T04:00:00+00:00",
     "sourceUrl": "https://www.njleg.state.nj.us/bill-search/2026/A5663"
   },
   {
@@ -1866,7 +1866,7 @@
     "title": "Requires data centers to submit annual report to DEP; requires DEP to establish Data Center Transparency Dashboard.",
     "body": "Assembly",
     "status": "Bill",
-    "date": "",
+    "date": "2026-10-19T04:00:00+00:00",
     "sourceUrl": "https://www.njleg.state.nj.us/bill-search/2026/A5646"
   },
   {
@@ -2018,5 +2018,25 @@
     "status": "Bill",
     "date": "2025-05-23",
     "sourceUrl": "https://legislature.maine.gov/LawMakerWeb/summary.asp?ID=280097189"
+  },
+  {
+    "id": "state-ocd-bill/341f411e-c03e-4f12-8bef-5d2b03fd7a0b",
+    "level": "state",
+    "state": "Illinois",
+    "title": "DATA CENTER ENERGY ACCOUNT",
+    "body": "House",
+    "status": "Bill",
+    "date": "2026-10-19",
+    "sourceUrl": "https://ilga.gov/Legislation/BillStatus?DocNum=5826&GAID=18&DocTypeID=HB&LegId=168970&SessionID=114"
+  },
+  {
+    "id": "state-ocd-bill/94fa6cd8-3b80-42dd-a76d-23088787d66b",
+    "level": "state",
+    "state": "New York",
+    "title": "Repeals paragraph 37 of subdivision (a) of section 1115 of the tax law and subdivision (y) of section 1115 of the tax law relating to sale and use taxes with respect to data centers",
+    "body": "Senate",
+    "status": "Bill",
+    "date": "2026-02-25",
+    "sourceUrl": "https://legislation.nysenate.gov/api/3/bills/2025-2026/S9288?summary=&detail="
   }
 ]
