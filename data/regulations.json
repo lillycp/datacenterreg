@@ -1376,7 +1376,7 @@
     "title": "A Resolution directing the Legislative Budget and Finance Committee to conduct a study on data center decommissioning in Pennsylvania and provide recommendations.",
     "body": "House",
     "status": "Resolution",
-    "date": "2026-09-30T04:00:00+00:00",
+    "date": "2026-10-20T04:00:00+00:00",
     "sourceUrl": "https://www.palegis.us/legislation/bills/2025/hr630"
   },
   {
@@ -2038,5 +2038,135 @@
     "status": "Bill",
     "date": "2026-02-25",
     "sourceUrl": "https://legislation.nysenate.gov/api/3/bills/2025-2026/S9288?summary=&detail="
+  },
+  {
+    "id": "state-ocd-bill/d6ee6ae9-13ce-477a-bb39-68ef6ae9e699",
+    "level": "state",
+    "state": "New Jersey",
+    "title": "Requires DEP to conduct study of short and long term effects of water use by large-scale data centers.",
+    "body": "Assembly",
+    "status": "Bill",
+    "date": "2026-03-16T04:00:00+00:00",
+    "sourceUrl": "https://www.njleg.state.nj.us/bill-search/2026/A3966"
+  },
+  {
+    "id": "state-ocd-bill/84eaca5a-bc41-40cf-908a-e986e39d003f",
+    "level": "state",
+    "state": "Tennessee",
+    "title": "Economic and Community Development, Dept. of - As enacted, requires the department to revise and certify the population of each county and municipality, and the aggregate population of the state, prior to July 1 each year during the interim between the regular decennial federal census to ensure equitable allocation and distribution of the local share of revenue; requires the Boyd Center for Business and Economic Research at the University of Tennessee, through the Tennessee state data center, to generate annual population estimates for each county and municipality and provide the estimates to the department for review and certification. - Amends TCA Title 4, Chapter 3; Title 4, Chapter 49; Section 9-16-101; Title 54, Chapter 4; Title 55, Chapter 4; Title 57, Chapter 5, Part 2; Title 57, Chapter 3, Part 3; Title 67, Chapter 3, Part 9; Title 67, Chapter 4, Part 9 and Title 67.",
+    "body": "House",
+    "status": "Bill",
+    "date": "2025-05-27",
+    "sourceUrl": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=HB0780&ga=114"
+  },
+  {
+    "id": "state-ocd-bill/2f5f221e-1f6e-46b4-890a-da4aba5895cb",
+    "level": "state",
+    "state": "Tennessee",
+    "title": "Economic and Community Development, Dept. of - As enacted, requires the department to revise and certify the population of each county and municipality, and the aggregate population of the state, prior to July 1 each year during the interim between the regular decennial federal census to ensure equitable allocation and distribution of the local share of revenue; requires the Boyd Center for Business and Economic Research at the University of Tennessee, through the Tennessee state data center, to generate annual population estimates for each county and municipality and provide the estimates to the department for review and certification. - Amends TCA Title 4, Chapter 3; Title 4, Chapter 49; Section 9-16-101; Title 54, Chapter 4; Title 55, Chapter 4; Title 57, Chapter 5, Part 2; Title 57, Chapter 3, Part 3; Title 67, Chapter 3, Part 9; Title 67, Chapter 4, Part 9 and Title 67.",
+    "body": "Senate",
+    "status": "Bill",
+    "date": "2025-05-27",
+    "sourceUrl": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SB0875&ga=114"
+  },
+  {
+    "id": "state-ocd-bill/54562d8b-c542-4b30-8789-33208d835528",
+    "level": "state",
+    "state": "Tennessee",
+    "title": "Utilities, Utility Districts - As introduced, requires certain data centers to register with the Tennessee public utilities commission; requires electric and water utilities that provide service to registered data centers to report usage and rates to the commission; requires the commission's executive director to compile and publish certain information based on reports received from utilities. - Amends TCA Title 5; Title 6; Title 7; Title 10; Title 62; Title 65; Title 68 and Title 69.",
+    "body": "Senate",
+    "status": "Bill",
+    "date": "2026-01-13",
+    "sourceUrl": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SB1600&ga=114"
+  },
+  {
+    "id": "state-ocd-bill/a49a8f6d-d5f7-4051-9658-d195ea934edd",
+    "level": "state",
+    "state": "Tennessee",
+    "title": "Taxes, Sales - As introduced, requires the department of economic and community development to revise and certify the population of each county and municipality, and the aggregate population of the state, prior to July 1 each year during the interim between the regular decennial federal census to ensure equitable allocation and distribution of the local share of state sales tax revenue; requires the Boyd Center for Business and Economic Research at the University of Tennessee, through the Tennessee state data center, to generate annual population estimates for each county and municipality and provide the estimates to the department of economic and community development for review and certification.  - Amends TCA Title 4, Chapter 3, Part 7; Section 9-16-101 and Title 67, Chapter 6.",
+    "body": "Senate",
+    "status": "Bill",
+    "date": "2025-04-01",
+    "sourceUrl": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SB0427&ga=114"
+  },
+  {
+    "id": "state-ocd-bill/2d5dd9f0-fbda-44c2-9913-075285a555c1",
+    "level": "state",
+    "state": "Tennessee",
+    "title": "Taxes, Sales - As introduced, authorizes a qualified data center that applies for job tax credits to certify electronically that it has not, within the previous 12 months, been found to be in violation of the Worker Adjustment and Retraining Notification (WARN) Act, the Fair Labor Standards Act of 1938, or federal immigration laws. - Amends TCA Title 67, Chapter 6.",
+    "body": "Senate",
+    "status": "Bill",
+    "date": "2026-04-20",
+    "sourceUrl": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SB2584&ga=114"
+  },
+  {
+    "id": "state-ocd-bill/3c522f38-9a25-4b93-bfd8-fc4f18f77477",
+    "level": "state",
+    "state": "Tennessee",
+    "title": "Energy - As introduced, enacts the \"Data Center, Artificial Intelligence, and Clean Transition Tariff Accountability Act.\" - Amends TCA Title 7 and Title 65.",
+    "body": "Senate",
+    "status": "Bill",
+    "date": "2026-03-10",
+    "sourceUrl": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SB1999&ga=114"
+  },
+  {
+    "id": "state-ocd-bill/e137e9a8-6a73-462e-ae44-d4ec9e43d2fc",
+    "level": "state",
+    "state": "Tennessee",
+    "title": "Computers and Electronic Processing - As enacted, generally prohibits a municipality or electric utility to pay or absorb the cost of electrical infrastructure incurred to serve a data center; makes related changes. - Amends TCA Title 5; Title 6; Title 7; Title 13 and Title 65.",
+    "body": "Senate",
+    "status": "Bill",
+    "date": "2026-05-18",
+    "sourceUrl": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SB2128&ga=114"
+  },
+  {
+    "id": "state-ocd-bill/149c0c89-dbef-498f-b356-a5cecf2871ee",
+    "level": "state",
+    "state": "Tennessee",
+    "title": "Business and Commerce - As introduced, creates the \"Tennessee Data Center Impact Review Act.\" - Amends TCA Title 5; Title 6; Title 7; Title 10; Title 62; Title 65; Title 68 and Title 69.",
+    "body": "Senate",
+    "status": "Bill",
+    "date": "2026-04-07",
+    "sourceUrl": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SB2653&ga=114"
+  },
+  {
+    "id": "state-ocd-bill/c4873b74-00c9-475a-b614-96b915616ae5",
+    "level": "state",
+    "state": "Tennessee",
+    "title": "Utilities, Utility Districts - As introduced, requires certain data centers to register with the department of revenue; requires fuel suppliers, and electric and water utilities that provide fuel and service respectively to registered data centers to report usage and rates to the department; requires the commissioner to compile and publish certain information based on reports received from utilities. - Amends TCA Title 5; Title 6; Title 7; Title 10; Title 62; Title 65; Title 68 and Title 69.",
+    "body": "Senate",
+    "status": "Bill",
+    "date": "2026-03-24",
+    "sourceUrl": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SB2112&ga=114"
+  },
+  {
+    "id": "state-ocd-bill/efb75c66-ec3d-41da-9ccc-326df76073dd",
+    "level": "state",
+    "state": "Tennessee",
+    "title": "Utilities, Utility Districts - As introduced, requires certain data centers to register with the Tennessee public utilities commission; requires electric and water utilities that provide service to registered data centers to report usage and rates to the commission; requires the commission's executive director to compile and publish certain information based on reports received from utilities. - Amends TCA Title 5; Title 6; Title 7; Title 10; Title 62; Title 65; Title 68 and Title 69.",
+    "body": "Senate",
+    "status": "Bill",
+    "date": "2026-03-03",
+    "sourceUrl": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SB1682&ga=114"
+  },
+  {
+    "id": "state-ocd-bill/a7cbb87a-ed1e-4065-bfa7-604421626269",
+    "level": "state",
+    "state": "Tennessee",
+    "title": "Computers and Electronic Processing - As enacted, generally prohibits a municipality or electric utility to pay or absorb the cost of electrical infrastructure incurred to serve a data center; makes related changes. - Amends TCA Title 5; Title 6; Title 7; Title 13 and Title 65.",
+    "body": "House",
+    "status": "Bill",
+    "date": "2026-05-18",
+    "sourceUrl": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=HB1847&ga=114"
+  },
+  {
+    "id": "state-ocd-bill/407ade10-2b84-43c6-8018-407f4904b632",
+    "level": "state",
+    "state": "Arizona",
+    "title": "data centers; state lands; map",
+    "body": "House",
+    "status": "Bill",
+    "date": "2026-02-26",
+    "sourceUrl": "https://apps.azleg.gov/BillStatus/BillOverview/85520?SessionId=130"
   }
 ]
