@@ -1776,7 +1776,7 @@
     "title": "Prohibits agreements intended to conceal certain information concerning development of data centers under MLUL.",
     "body": "Senate",
     "status": "Bill",
-    "date": "2026-10-01T04:00:00+00:00",
+    "date": "2026-10-22T04:00:00+00:00",
     "sourceUrl": "https://www.njleg.state.nj.us/bill-search/2026/S4304"
   },
   {
@@ -2046,7 +2046,7 @@
     "title": "Requires DEP to conduct study of short and long term effects of water use by large-scale data centers.",
     "body": "Assembly",
     "status": "Bill",
-    "date": "2026-03-16T04:00:00+00:00",
+    "date": "2026-10-22T04:00:00+00:00",
     "sourceUrl": "https://www.njleg.state.nj.us/bill-search/2026/A3966"
   },
   {
@@ -2168,5 +2168,45 @@
     "status": "Bill",
     "date": "2026-02-26",
     "sourceUrl": "https://apps.azleg.gov/BillStatus/BillOverview/85520?SessionId=130"
+  },
+  {
+    "id": "state-ocd-bill/ab29f054-2d5f-4938-9989-a0811026a44b",
+    "level": "state",
+    "state": "New Jersey",
+    "title": "Requires data center developers to provide certain notice to public before preliminary site plan consideration and hearing under MLUL; requires DCA to maintain related public notice website.",
+    "body": "Senate",
+    "status": "Bill",
+    "date": "",
+    "sourceUrl": "https://www.njleg.state.nj.us/bill-search/2026/S4883"
+  },
+  {
+    "id": "state-ocd-bill/81a20e2d-f5b7-4254-8ce4-022f19545bbd",
+    "level": "state",
+    "state": "New Jersey",
+    "title": "Establishes Data Center Community Intervenor Compensation Grant Program and fund in DCA to provide financial assistance for certain data center-related services; appropriates $10 million.",
+    "body": "Senate",
+    "status": "Bill",
+    "date": "",
+    "sourceUrl": "https://www.njleg.state.nj.us/bill-search/2026/S4881"
+  },
+  {
+    "id": "state-ocd-bill/f488ac0b-be95-4e2a-9ab3-37452d80256a",
+    "level": "state",
+    "state": "New Jersey",
+    "title": "Requires certain State agencies to establish expedited approval and permitting procedures for artificial intelligence data centers that bring their own power.",
+    "body": "Assembly",
+    "status": "Bill",
+    "date": "",
+    "sourceUrl": "https://www.njleg.state.nj.us/bill-search/2026/A5729"
+  },
+  {
+    "id": "state-ocd-bill/fa9dced9-bfde-45c3-97aa-960bc267a57a",
+    "level": "state",
+    "state": "New Jersey",
+    "title": "Concerns noise abatement of data centers.",
+    "body": "Senate",
+    "status": "Bill",
+    "date": "",
+    "sourceUrl": "https://www.njleg.state.nj.us/bill-search/2026/S4889"
   }
 ]
