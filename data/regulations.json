@@ -2208,5 +2208,195 @@
     "status": "Bill",
     "date": "",
     "sourceUrl": "https://www.njleg.state.nj.us/bill-search/2026/S4889"
+  },
+  {
+    "id": "state-ocd-bill/8af322e7-addb-4485-a8d2-848b70a602d6",
+    "level": "state",
+    "state": "Utah",
+    "title": "Data Center Non Disclosure Amendments",
+    "body": "Senate",
+    "status": "Bill",
+    "date": "2026-03-07T06:59:59+00:00",
+    "sourceUrl": "https://le.utah.gov/~2026/bills/static/SB0318.html"
+  },
+  {
+    "id": "state-ocd-bill/1b0b3cc7-f58f-4645-bab8-2fc1ee1aa85f",
+    "level": "state",
+    "state": "Utah",
+    "title": "Data Center Amendments",
+    "body": "House",
+    "status": "Bill",
+    "date": "2026-03-07T06:59:59+00:00",
+    "sourceUrl": "https://le.utah.gov/~2026/bills/static/HB0585.html"
+  },
+  {
+    "id": "state-ocd-bill/64449928-e6d5-41c5-9a90-ffcbaaebd193",
+    "level": "state",
+    "state": "South Dakota",
+    "title": "prohibit nondisclosure of certain agreements related to data centers.",
+    "body": "House",
+    "status": "Bill",
+    "date": "2026-02-20",
+    "sourceUrl": "https://sdlegislature.gov/Session/Bill/27243"
+  },
+  {
+    "id": "state-ocd-bill/633d93e3-7aa1-4bd3-97fc-251928e57db1",
+    "level": "state",
+    "state": "South Dakota",
+    "title": "protect residents from increased utility costs and utility shortages caused by data centers and clarify authority to regulate data centers.",
+    "body": "Senate",
+    "status": "Bill",
+    "date": "2026-03-30",
+    "sourceUrl": "https://sdlegislature.gov/Session/Bill/27028"
+  },
+  {
+    "id": "state-ocd-bill/bfc0bda5-7581-4de4-879b-ff064fb3a972",
+    "level": "state",
+    "state": "South Dakota",
+    "title": "allow the Public Utilities Commission to assess actual costs to data centers that are customers of public utilities.",
+    "body": "House",
+    "status": "Bill",
+    "date": "2026-03-30",
+    "sourceUrl": "https://sdlegislature.gov/Session/Bill/26923"
+  },
+  {
+    "id": "state-ocd-bill/831bb01c-71ca-4280-b20c-80752fa05ca8",
+    "level": "state",
+    "state": "South Dakota",
+    "title": "impose a one-year moratorium on the construction or expansion of hyperscale data centers.",
+    "body": "Senate",
+    "status": "Bill",
+    "date": "2026-02-18",
+    "sourceUrl": "https://sdlegislature.gov/Session/Bill/27269"
+  },
+  {
+    "id": "state-ocd-bill/7b71b809-47c2-448d-962f-2201d7b35d06",
+    "level": "state",
+    "state": "South Dakota",
+    "title": "protect residents from increased utility costs and utility shortages caused by data centers, to clarify authority to regulate data centers, and to modify provisions pertaining to the purchasing of goods and services by a data center.",
+    "body": "Senate",
+    "status": "Bill",
+    "date": "2026-02-18",
+    "sourceUrl": "https://sdlegislature.gov/Session/Bill/27290"
+  },
+  {
+    "id": "state-ocd-bill/2a916b0d-93d2-44e7-9241-8266e1fb3a15",
+    "level": "state",
+    "state": "Wisconsin",
+    "title": "Relating to: prohibiting nondisclosure agreements intended to conceal information about a data center from the public.",
+    "body": "Senate",
+    "status": "Bill",
+    "date": "2026-03-23T05:00:00+00:00",
+    "sourceUrl": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb969"
+  },
+  {
+    "id": "state-ocd-bill/d039a7b0-8575-4809-bd26-8939dace7b19",
+    "level": "state",
+    "state": "Wisconsin",
+    "title": "Relating to: modifying the sales and use tax exemption for qualified data centers. (FE)",
+    "body": "Senate",
+    "status": "Bill",
+    "date": "2026-03-23T05:00:00+00:00",
+    "sourceUrl": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb244"
+  },
+  {
+    "id": "state-ocd-bill/c8598566-2fd1-4fea-88e5-5cff7f845b4e",
+    "level": "state",
+    "state": "Wisconsin",
+    "title": "Relating to: modifying the sales and use tax exemption for qualified data centers. (FE)",
+    "body": "Assembly",
+    "status": "Bill",
+    "date": "2026-03-23T05:00:00+00:00",
+    "sourceUrl": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab245"
+  },
+  {
+    "id": "state-ocd-bill/53f7eca5-cb82-40da-bbf5-61bff801bbb5",
+    "level": "state",
+    "state": "Wisconsin",
+    "title": "Relating to: moratorium on data centers.",
+    "body": "Senate",
+    "status": "Bill",
+    "date": "2026-03-23T05:00:00+00:00",
+    "sourceUrl": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb1061"
+  },
+  {
+    "id": "state-ocd-bill/d9fd8ff2-620d-4468-a504-87ecb3df4a32",
+    "level": "state",
+    "state": "Wisconsin",
+    "title": "Relating to: certain requirements related to data centers.",
+    "body": "Assembly",
+    "status": "Bill",
+    "date": "2026-03-23T05:00:00+00:00",
+    "sourceUrl": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab840"
+  },
+  {
+    "id": "state-ocd-bill/d0f21623-70d2-4cc1-86b1-4b1f0f05d530",
+    "level": "state",
+    "state": "Wisconsin",
+    "title": "Relating to: moratorium on data centers.",
+    "body": "Assembly",
+    "status": "Bill",
+    "date": "2026-03-23T05:00:00+00:00",
+    "sourceUrl": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab1099"
+  },
+  {
+    "id": "state-ocd-bill/7f542d4b-3ba5-433d-b376-df2ba82433af",
+    "level": "state",
+    "state": "Wisconsin",
+    "title": "Relating to: tax incremental financing districts containing qualified data centers. (FE)",
+    "body": "Assembly",
+    "status": "Bill",
+    "date": "2026-03-23T05:00:00+00:00",
+    "sourceUrl": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab228"
+  },
+  {
+    "id": "state-ocd-bill/c38dacbc-5b97-40f9-816a-ba4eb50db0da",
+    "level": "state",
+    "state": "Wisconsin",
+    "title": "Relating to: certain requirements related to data centers.",
+    "body": "Senate",
+    "status": "Bill",
+    "date": "2026-03-23T05:00:00+00:00",
+    "sourceUrl": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb843"
+  },
+  {
+    "id": "state-ocd-bill/7036ac90-6599-44be-96b9-12de35e7c58f",
+    "level": "state",
+    "state": "Wisconsin",
+    "title": "Relating to: prohibiting nondisclosure agreements intended to conceal information about a data center from the public.",
+    "body": "Assembly",
+    "status": "Bill",
+    "date": "2026-03-23T05:00:00+00:00",
+    "sourceUrl": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab1036"
+  },
+  {
+    "id": "state-ocd-bill/4e89e730-8ed6-4b1e-b9b0-6bb7f7c58a5a",
+    "level": "state",
+    "state": "Wisconsin",
+    "title": "Relating to: large energy customer fees; electric utility very large customer class; a renewable resource tariff; building requirements for data centers; water usage by large customers; required pay rate on large-scale data center projects; and granting rule-making authority. (FE)",
+    "body": "Assembly",
+    "status": "Bill",
+    "date": "2026-04-06T05:00:00+00:00",
+    "sourceUrl": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab722"
+  },
+  {
+    "id": "state-ocd-bill/1b6cbbc8-2f88-422f-a98c-5d2591220eb4",
+    "level": "state",
+    "state": "Wisconsin",
+    "title": "Relating to: large energy customer fees; electric utility very large customer class; a renewable resource tariff; building requirements for data centers; water usage by large customers; required pay rate on large-scale data center projects; and granting rule-making authority. (FE)",
+    "body": "Senate",
+    "status": "Bill",
+    "date": "2026-04-06T05:00:00+00:00",
+    "sourceUrl": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb729"
+  },
+  {
+    "id": "state-ocd-bill/a20099cb-6170-4fcc-b878-cc564f2a24e7",
+    "level": "state",
+    "state": "Wisconsin",
+    "title": "Relating to: tax incremental financing districts containing qualified data centers. (FE)",
+    "body": "Senate",
+    "status": "Bill",
+    "date": "2026-03-23T05:00:00+00:00",
+    "sourceUrl": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb241"
   }
 ]
