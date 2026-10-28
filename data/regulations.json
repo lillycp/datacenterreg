@@ -2398,5 +2398,265 @@
     "status": "Bill",
     "date": "2026-03-23T05:00:00+00:00",
     "sourceUrl": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb241"
+  },
+  {
+    "id": "state-ocd-bill/30ebe5d4-b1e9-4e40-ba5b-93aa0560e7ae",
+    "level": "state",
+    "state": "Maryland",
+    "title": "Maryland Longitudinal Data System Center - External Data Sharing With Third-Party Data Centers for Multistate Reporting - Authorization",
+    "body": "Senate",
+    "status": "Bill",
+    "date": "2026-04-14",
+    "sourceUrl": "http://mgaleg.maryland.gov/mgawebsite/Legislation/Details/sb0056?ys=2026RS"
+  },
+  {
+    "id": "state-ocd-bill/b0a2133a-af4e-4d86-859a-e89362522e8b",
+    "level": "state",
+    "state": "Maryland",
+    "title": "Sales and Use Tax and Property Tax - Exemptions for Data Centers - Repeal",
+    "body": "House",
+    "status": "Bill",
+    "date": "2026-01-28",
+    "sourceUrl": "http://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0560?ys=2026RS"
+  },
+  {
+    "id": "state-ocd-bill/59ff46f1-4b6a-42da-8097-b3fc098afab1",
+    "level": "state",
+    "state": "Maryland",
+    "title": "Data Centers - Standards for Operation and Siting",
+    "body": "House",
+    "status": "Bill",
+    "date": "2026-02-13",
+    "sourceUrl": "http://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1534?ys=2026RS"
+  },
+  {
+    "id": "state-ocd-bill/a3aab023-deb2-48ca-a8c8-791893922d3e",
+    "level": "state",
+    "state": "Maryland",
+    "title": "Property Taxes - Authority of Counties to Establish a Subclass and Set a Special Rate for Personal Property of Data Centers",
+    "body": "Senate",
+    "status": "Bill",
+    "date": "2026-02-04",
+    "sourceUrl": "http://mgaleg.maryland.gov/mgawebsite/Legislation/Details/sb0427?ys=2026RS"
+  },
+  {
+    "id": "state-ocd-bill/715d5a62-c2cd-4b6c-ad18-0d02d1ed7a7f",
+    "level": "state",
+    "state": "Maryland",
+    "title": "Data Center Planning and Transparency Act",
+    "body": "House",
+    "status": "Bill",
+    "date": "2026-02-13",
+    "sourceUrl": "http://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1411?ys=2026RS"
+  },
+  {
+    "id": "state-ocd-bill/0a4e834c-2cb0-4a8c-a174-7523adff07d6",
+    "level": "state",
+    "state": "Maryland",
+    "title": "Moratorium on Construction of New Data Centers - Co-Location and Generation Contingency",
+    "body": "House",
+    "status": "Bill",
+    "date": "2026-01-19",
+    "sourceUrl": "http://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0120?ys=2026RS"
+  },
+  {
+    "id": "state-ocd-bill/3d2f9294-a492-4131-b901-76e4a39a89f5",
+    "level": "state",
+    "state": "Maryland",
+    "title": "Large Load Customers - Data Centers and Rate Schedule Requirements",
+    "body": "House",
+    "status": "Bill",
+    "date": "2026-02-12",
+    "sourceUrl": "http://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1082?ys=2026RS"
+  },
+  {
+    "id": "state-ocd-bill/05fd82ab-2e04-42cd-b605-802b500455bf",
+    "level": "state",
+    "state": "Maryland",
+    "title": "Certificates of Public Convenience and Necessity and Construction of Data Centers",
+    "body": "Senate",
+    "status": "Bill",
+    "date": "2026-02-23",
+    "sourceUrl": "http://mgaleg.maryland.gov/mgawebsite/Legislation/Details/sb1000?ys=2026RS"
+  },
+  {
+    "id": "state-ocd-bill/3e506217-d093-4990-b1d9-73174a2cf1ea",
+    "level": "state",
+    "state": "Maryland",
+    "title": "Maryland Longitudinal Data System Center - External Data Sharing With Third-Party Data Centers for Multistate Reporting - Authorization",
+    "body": "House",
+    "status": "Bill",
+    "date": "2026-04-14",
+    "sourceUrl": "http://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0293?ys=2026RS"
+  },
+  {
+    "id": "state-ocd-bill/44ca75fe-ca3c-4914-97dd-f92d55af1b2a",
+    "level": "state",
+    "state": "Maryland",
+    "title": "Property Taxes - Authority of Counties to Establish a Subclass and Set a Special Rate for Personal Property of Data Centers",
+    "body": "House",
+    "status": "Bill",
+    "date": "2026-02-15",
+    "sourceUrl": "http://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1595?ys=2026RS"
+  },
+  {
+    "id": "state-ocd-bill/98f122ce-2410-41ae-9189-de0247c60e57",
+    "level": "state",
+    "state": "Montana",
+    "title": "Generally revise laws related to development of data centers",
+    "body": "Montana Legislature",
+    "status": "Bill",
+    "date": "2026-10-27T20:44:23+00:00",
+    "sourceUrl": "https://bills.legmt.gov/#/lc/bill/3/LC0847"
+  },
+  {
+    "id": "state-ocd-bill/50beff63-00da-4f95-8148-939057a8340e",
+    "level": "state",
+    "state": "Montana",
+    "title": "Generally revise local government laws related to development of data centers",
+    "body": "Montana Legislature",
+    "status": "Bill",
+    "date": "2026-10-27T20:44:13+00:00",
+    "sourceUrl": "https://bills.legmt.gov/#/lc/bill/3/LC0846"
+  },
+  {
+    "id": "state-ocd-bill/64b15d16-ba76-4a90-ac30-f00ad4248c5e",
+    "level": "state",
+    "state": "Montana",
+    "title": "Generally revise laws related to data center related energy development",
+    "body": "Montana Legislature",
+    "status": "Bill",
+    "date": "2026-10-27T20:44:07+00:00",
+    "sourceUrl": "https://bills.legmt.gov/#/lc/bill/3/LC0845"
+  },
+  {
+    "id": "state-ocd-bill/2e99894a-5e10-40b5-8326-d8aace7da71c",
+    "level": "state",
+    "state": "West Virginia",
+    "title": "Establishing economic incentives for data centers to locate within WV",
+    "body": "Senate",
+    "status": "Bill",
+    "date": "2026-01-27",
+    "sourceUrl": "https://www.wvlegislature.gov/Bill_Status/Bills_history.cfm?input=623&year=2026&sessiontype=RS&btype=bill"
+  },
+  {
+    "id": "state-ocd-bill/a86cb1f4-d146-4ed8-a14f-1c146e2e216b",
+    "level": "state",
+    "state": "West Virginia",
+    "title": "Create a limited and predictable water-quantity review framework for High Impact Data Centers (HIDCs) in West Virginia.",
+    "body": "House",
+    "status": "Bill",
+    "date": "2026-02-16",
+    "sourceUrl": "https://www.wvlegislature.gov/Bill_Status/Bills_history.cfm?input=5590&year=2026&sessiontype=RS&btype=bill"
+  },
+  {
+    "id": "state-ocd-bill/6c73e380-2554-421d-9e3f-869bc65751a2",
+    "level": "state",
+    "state": "West Virginia",
+    "title": "Relating to distribution of tax revenues collected from data centers",
+    "body": "Senate",
+    "status": "Bill",
+    "date": "2026-01-28",
+    "sourceUrl": "https://www.wvlegislature.gov/Bill_Status/Bills_history.cfm?input=652&year=2026&sessiontype=RS&btype=bill"
+  },
+  {
+    "id": "state-ocd-bill/beb18df4-f2ee-46f9-acfa-5bb9cab4ca70",
+    "level": "state",
+    "state": "West Virginia",
+    "title": "To create a buffer zone between a data center and residence, school or house of worship",
+    "body": "House",
+    "status": "Bill",
+    "date": "2026-01-29",
+    "sourceUrl": "https://www.wvlegislature.gov/Bill_Status/Bills_history.cfm?input=4948&year=2026&sessiontype=RS&btype=bill"
+  },
+  {
+    "id": "state-ocd-bill/5efba7c8-ed9c-4cb0-adc3-9be05099a918",
+    "level": "state",
+    "state": "West Virginia",
+    "title": "To restore local control in the decision making process in regard to data centers",
+    "body": "House",
+    "status": "Bill",
+    "date": "2026-02-16",
+    "sourceUrl": "https://www.wvlegislature.gov/Bill_Status/Bills_history.cfm?input=5620&year=2026&sessiontype=RS&btype=bill"
+  },
+  {
+    "id": "state-ocd-bill/ba28c7fd-fa27-4e40-9025-b60d1c5840f6",
+    "level": "state",
+    "state": "West Virginia",
+    "title": "To redirect data center tax revenue to PEIA, counties, and schools",
+    "body": "House",
+    "status": "Bill",
+    "date": "2026-01-26",
+    "sourceUrl": "https://www.wvlegislature.gov/Bill_Status/Bills_history.cfm?input=4822&year=2026&sessiontype=RS&btype=bill"
+  },
+  {
+    "id": "state-ocd-bill/9ca1a0c3-6db3-43c1-a35a-d1fed4ab0a3a",
+    "level": "state",
+    "state": "West Virginia",
+    "title": "Relating to certified microgrid district projects and certified high impact data center projects",
+    "body": "Senate",
+    "status": "Bill",
+    "date": "2026-01-29",
+    "sourceUrl": "https://www.wvlegislature.gov/Bill_Status/Bills_history.cfm?input=658&year=2026&sessiontype=RS&btype=bill"
+  },
+  {
+    "id": "state-ocd-bill/a3a0631f-81db-45be-be99-50affa6ef19f",
+    "level": "state",
+    "state": "West Virginia",
+    "title": "Authorizing the Department of Commerce to promulgate a legislative rule relating to certification of a microgrid district or certification as a high impact data center",
+    "body": "House",
+    "status": "Bill",
+    "date": "2026-06-29",
+    "sourceUrl": "https://www.wvlegislature.gov/Bill_Status/Bills_history.cfm?input=4983&year=2026&sessiontype=RS&btype=bill"
+  },
+  {
+    "id": "state-ocd-bill/69e90a36-0b1c-49b4-9bf6-f72126c91f45",
+    "level": "state",
+    "state": "West Virginia",
+    "title": "Prevention of data center collection of citizen data",
+    "body": "House",
+    "status": "Bill",
+    "date": "2026-02-02",
+    "sourceUrl": "https://www.wvlegislature.gov/Bill_Status/Bills_history.cfm?input=5032&year=2026&sessiontype=RS&btype=bill"
+  },
+  {
+    "id": "state-ocd-bill/8b9ac969-66d9-48f9-b21a-61c2b9e27ed8",
+    "level": "state",
+    "state": "West Virginia",
+    "title": "Prohibiting the state or any political subdivision from subsidizing any data center in West Virginia",
+    "body": "House",
+    "status": "Bill",
+    "date": "2026-01-28",
+    "sourceUrl": "https://www.wvlegislature.gov/Bill_Status/Bills_history.cfm?input=4854&year=2026&sessiontype=RS&btype=bill"
+  },
+  {
+    "id": "state-ocd-bill/a7e49f1b-5bf3-4ea0-8100-dfb0880e6e5d",
+    "level": "state",
+    "state": "West Virginia",
+    "title": "Department of Commerce rule relating to certification of microgrid district or certification as high impact data center",
+    "body": "Senate",
+    "status": "Bill",
+    "date": "2026-01-30",
+    "sourceUrl": "https://www.wvlegislature.gov/Bill_Status/Bills_history.cfm?input=695&year=2026&sessiontype=RS&btype=bill"
+  },
+  {
+    "id": "state-ocd-bill/3b3c7eff-89ae-45c9-a5a1-adcec799b331",
+    "level": "state",
+    "state": "California",
+    "title": "Water resources: data centers.",
+    "body": "Assembly",
+    "status": "Bill",
+    "date": "2026-01-22",
+    "sourceUrl": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB93"
+  },
+  {
+    "id": "state-ocd-bill/d6bdcea4-eaef-46f4-9574-fc86eb56a6c1",
+    "level": "state",
+    "state": "California",
+    "title": "Data centers: waste heat energy.",
+    "body": "Assembly",
+    "status": "Bill",
+    "date": "2026-02-02",
+    "sourceUrl": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB1095"
   }
 ]
