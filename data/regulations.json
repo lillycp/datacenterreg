@@ -1776,7 +1776,7 @@
     "title": "Prohibits agreements intended to conceal certain information concerning development of data centers under MLUL.",
     "body": "Senate",
     "status": "Bill",
-    "date": "2026-10-22T04:00:00+00:00",
+    "date": "2026-10-29T04:00:00+00:00",
     "sourceUrl": "https://www.njleg.state.nj.us/bill-search/2026/S4304"
   },
   {
@@ -2046,7 +2046,7 @@
     "title": "Requires DEP to conduct study of short and long term effects of water use by large-scale data centers.",
     "body": "Assembly",
     "status": "Bill",
-    "date": "2026-10-22T04:00:00+00:00",
+    "date": "2026-10-29T04:00:00+00:00",
     "sourceUrl": "https://www.njleg.state.nj.us/bill-search/2026/A3966"
   },
   {
@@ -2196,7 +2196,7 @@
     "title": "Requires certain State agencies to establish expedited approval and permitting procedures for artificial intelligence data centers that bring their own power.",
     "body": "Assembly",
     "status": "Bill",
-    "date": "",
+    "date": "2026-10-29T04:00:00+00:00",
     "sourceUrl": "https://www.njleg.state.nj.us/bill-search/2026/A5729"
   },
   {
@@ -2658,5 +2658,95 @@
     "status": "Bill",
     "date": "2026-02-02",
     "sourceUrl": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB1095"
+  },
+  {
+    "id": "state-ocd-bill/7463080f-f08a-4c15-a5fd-743da6c63199",
+    "level": "state",
+    "state": "New Jersey",
+    "title": "Establishes \"Data Center Standards Task Force\" in DCA.",
+    "body": "Assembly",
+    "status": "Bill",
+    "date": "",
+    "sourceUrl": "https://www.njleg.state.nj.us/bill-search/2026/A5754"
+  },
+  {
+    "id": "state-ocd-bill/bdaf34cb-91ac-4720-87fd-d39d68392979",
+    "level": "state",
+    "state": "New Jersey",
+    "title": "\"Ratepayer-Indifference Act\"; establishes certain requirements for provision of electric public utility service to certain data centers.",
+    "body": "Assembly",
+    "status": "Bill",
+    "date": "",
+    "sourceUrl": "https://www.njleg.state.nj.us/bill-search/2026/A5811"
+  },
+  {
+    "id": "state-ocd-bill/ab0f53e0-864e-4ec0-b675-79d0e46c52f1",
+    "level": "state",
+    "state": "New Jersey",
+    "title": "Directs Division of Local Planning Services in DCA to develop and publish Data Center Planning and Community Engagement Toolkit.",
+    "body": "Assembly",
+    "status": "Bill",
+    "date": "",
+    "sourceUrl": "https://www.njleg.state.nj.us/bill-search/2026/A5755"
+  },
+  {
+    "id": "state-ocd-bill/5bb3a945-6ebb-4f4f-8633-a252c2422041",
+    "level": "state",
+    "state": "Montana",
+    "title": "Generally revise data center laws",
+    "body": "Montana Legislature",
+    "status": "Bill",
+    "date": "2026-10-29T21:07:53+00:00",
+    "sourceUrl": "https://bills.legmt.gov/#/lc/bill/3/LC0872"
+  },
+  {
+    "id": "state-ocd-bill/5498a74d-20c7-494a-9648-98d40e38f0e8",
+    "level": "state",
+    "state": "Wyoming",
+    "title": "Data centers industrial property.",
+    "body": "Wyoming State Legislature",
+    "status": "Proposed bill",
+    "date": "",
+    "sourceUrl": "https://wyoleg.gov/Legislation/committeeBills/2027"
+  },
+  {
+    "id": "state-ocd-bill/ee80a395-1728-420c-9607-b1909733be87",
+    "level": "state",
+    "state": "Wyoming",
+    "title": "Consumptive use of water-data centers.",
+    "body": "Wyoming State Legislature",
+    "status": "Proposed bill",
+    "date": "",
+    "sourceUrl": "https://wyoleg.gov/Legislation/committeeBills/2027"
+  },
+  {
+    "id": "state-ocd-bill/247df854-4fdb-4fe2-9419-71c339e0b765",
+    "level": "state",
+    "state": "Nevada",
+    "title": "Revises provisions relating to data centers.",
+    "body": "Nevada Legislature",
+    "status": "Proposed bill",
+    "date": "2026-07-31",
+    "sourceUrl": "https://www.leg.state.nv.us/App/NELIS/REL/84th2027/Bdrs/List"
+  },
+  {
+    "id": "state-ocd-bill/d04dad0c-0e11-4161-84f8-cacb98f1c31a",
+    "level": "state",
+    "state": "Nevada",
+    "title": "Revises provisions relating to data centers.",
+    "body": "Nevada Legislature",
+    "status": "Proposed bill",
+    "date": "2026-08-28",
+    "sourceUrl": "https://www.leg.state.nv.us/App/NELIS/REL/84th2027/Bdrs/List"
+  },
+  {
+    "id": "state-ocd-bill/a1b4c31e-819d-4d36-8a75-1d0638b6e8db",
+    "level": "state",
+    "state": "Nevada",
+    "title": "Revises provisions relating to data centers.",
+    "body": "Nevada Legislature",
+    "status": "Proposed bill",
+    "date": "2026-07-30",
+    "sourceUrl": "https://www.leg.state.nv.us/App/NELIS/REL/84th2027/Bdrs/List"
   }
 ]
