@@ -2798,5 +2798,15 @@
     "status": "Bill",
     "date": "2026-04-17",
     "sourceUrl": "https://nebraskalegislature.gov/bills/search_by_date.php?SessionDay=2025"
+  },
+  {
+    "id": "state-ocd-bill/a9058bcd-1a81-4a50-8128-9f60bed7bfca",
+    "level": "state",
+    "state": "Montana",
+    "title": "Provide for the data center transparency act",
+    "body": "Montana Legislature",
+    "status": "Bill",
+    "date": "2026-11-03T21:23:51+00:00",
+    "sourceUrl": "https://bills.legmt.gov/#/lc/bill/3/LC0906"
   }
 ]
