@@ -1986,7 +1986,7 @@
     "title": "Revise property taxation of data centers",
     "body": "Montana Legislature",
     "status": "Bill",
-    "date": "2026-09-11T17:56:43+00:00",
+    "date": "2026-11-04T19:24:51+00:00",
     "sourceUrl": "https://bills.legmt.gov/#/lc/bill/3/LC0058"
   },
   {
@@ -2808,5 +2808,25 @@
     "status": "Bill",
     "date": "2026-11-03T21:23:51+00:00",
     "sourceUrl": "https://bills.legmt.gov/#/lc/bill/3/LC0906"
+  },
+  {
+    "id": "state-ocd-bill/4daa88aa-b5a8-4b48-817c-23e98aefb374",
+    "level": "state",
+    "state": "North Carolina",
+    "title": "Data Center Amendments.",
+    "body": "House",
+    "status": "Bill",
+    "date": "2026-05-04",
+    "sourceUrl": "https://www.ncleg.gov/BillLookUp/2025/H1180"
+  },
+  {
+    "id": "state-ocd-bill/2fba4216-fc0b-4b71-96de-451a7c758f91",
+    "level": "state",
+    "state": "Pennsylvania",
+    "title": "An Act establishing reporting and information submission requirements for hyperscale computer data centers operating in this Commonwealth; providing for alternative compliance payments, for energy plans, for water plans, for regional benefits plans, for ratepayer protections, for community benefit plans and agreements, for municipal comments, for confidentiality, for records, for lists of tenants, for enforcement, for regulations and guidelines and for municipal zoning; imposing duties on the Department of Environmental Protection, the Department of Community and Economic Development and the Pennsylvania Public Utility Commission; and imposing penalties.",
+    "body": "House",
+    "status": "Bill",
+    "date": "2026-11-04T05:00:00+00:00",
+    "sourceUrl": "https://www.palegis.us/legislation/bills/2025/hb2888"
   }
 ]
