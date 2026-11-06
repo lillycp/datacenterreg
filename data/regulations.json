@@ -2828,5 +2828,25 @@
     "status": "Bill",
     "date": "2026-11-04T05:00:00+00:00",
     "sourceUrl": "https://www.palegis.us/legislation/bills/2025/hb2888"
+  },
+  {
+    "id": "state-ocd-bill/95b73e16-a578-46d8-b22d-c4fe521295cd",
+    "level": "state",
+    "state": "Montana",
+    "title": "Generally provide data center laws",
+    "body": "Montana Legislature",
+    "status": "Bill",
+    "date": "2026-11-05T15:04:02+00:00",
+    "sourceUrl": "https://bills.legmt.gov/#/lc/bill/3/LC0943"
+  },
+  {
+    "id": "state-ocd-bill/861b676a-1094-4785-a5cf-85fdad461854",
+    "level": "state",
+    "state": "Montana",
+    "title": "Generally revise data center laws",
+    "body": "Montana Legislature",
+    "status": "Bill",
+    "date": "2026-11-05T15:03:31+00:00",
+    "sourceUrl": "https://bills.legmt.gov/#/lc/bill/3/LC0942"
   }
 ]
