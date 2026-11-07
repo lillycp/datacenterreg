@@ -2848,5 +2848,25 @@
     "status": "Bill",
     "date": "2026-11-05T15:03:31+00:00",
     "sourceUrl": "https://bills.legmt.gov/#/lc/bill/3/LC0942"
+  },
+  {
+    "id": "state-ocd-bill/e599d5c5-37d1-4674-a507-bc82fc1c5724",
+    "level": "state",
+    "state": "Montana",
+    "title": "Generally revise data center tax laws",
+    "body": "Montana Legislature",
+    "status": "Bill",
+    "date": "2026-11-06T13:44:35+00:00",
+    "sourceUrl": "https://bills.legmt.gov/#/lc/bill/3/LC0976"
+  },
+  {
+    "id": "state-ocd-bill/e2f554a2-f5d0-496d-aeeb-12149a248d5c",
+    "level": "state",
+    "state": "Montana",
+    "title": "Generally revise data center laws",
+    "body": "Montana Legislature",
+    "status": "Bill",
+    "date": "2026-11-06T13:41:59+00:00",
+    "sourceUrl": "https://bills.legmt.gov/#/lc/bill/3/LC0971"
   }
 ]
