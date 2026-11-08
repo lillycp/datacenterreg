@@ -2868,5 +2868,35 @@
     "status": "Bill",
     "date": "2026-11-06T13:41:59+00:00",
     "sourceUrl": "https://bills.legmt.gov/#/lc/bill/3/LC0971"
+  },
+  {
+    "id": "state-ocd-bill/839f339d-036b-4e20-ac3a-277e21c39278",
+    "level": "state",
+    "state": "Montana",
+    "title": "Generally revise laws related to data centers",
+    "body": "Montana Legislature",
+    "status": "Bill",
+    "date": "2026-11-07T14:04:53+00:00",
+    "sourceUrl": "https://bills.legmt.gov/#/lc/bill/3/LC1094"
+  },
+  {
+    "id": "state-ocd-bill/7cb59f7b-79dd-4297-9644-8c83a313b942",
+    "level": "state",
+    "state": "Montana",
+    "title": "Revise laws related to data center transparency",
+    "body": "Montana Legislature",
+    "status": "Bill",
+    "date": "2026-11-07T16:19:20+00:00",
+    "sourceUrl": "https://bills.legmt.gov/#/lc/bill/3/LC1181"
+  },
+  {
+    "id": "state-ocd-bill/f964623c-b05a-48c3-b596-b08b566b4e9c",
+    "level": "state",
+    "state": "Montana",
+    "title": "Generally revise laws related to data centers",
+    "body": "Montana Legislature",
+    "status": "Bill",
+    "date": "2026-11-07T14:05:07+00:00",
+    "sourceUrl": "https://bills.legmt.gov/#/lc/bill/3/LC1095"
   }
 ]
