@@ -2898,5 +2898,25 @@
     "status": "Bill",
     "date": "2026-11-07T14:05:07+00:00",
     "sourceUrl": "https://bills.legmt.gov/#/lc/bill/3/LC1095"
+  },
+  {
+    "id": "state-ocd-bill/1f442444-5c2d-4f31-a4de-01f7df8230c6",
+    "level": "state",
+    "state": "Montana",
+    "title": "Referendum to revise laws related to data centers",
+    "body": "Montana Legislature",
+    "status": "Bill",
+    "date": "2026-11-08T16:59:00+00:00",
+    "sourceUrl": "https://bills.legmt.gov/#/lc/bill/3/LC1364"
+  },
+  {
+    "id": "state-ocd-bill/c82810c6-64a0-471c-8bd9-3fd86d1ec41a",
+    "level": "state",
+    "state": "Montana",
+    "title": "Referendum to revise laws related to data centers",
+    "body": "Montana Legislature",
+    "status": "Bill",
+    "date": "2026-11-08T16:59:34+00:00",
+    "sourceUrl": "https://bills.legmt.gov/#/lc/bill/3/LC1365"
   }
 ]
