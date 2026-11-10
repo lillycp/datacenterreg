@@ -2918,5 +2918,55 @@
     "status": "Bill",
     "date": "2026-11-08T16:59:34+00:00",
     "sourceUrl": "https://bills.legmt.gov/#/lc/bill/3/LC1365"
+  },
+  {
+    "id": "state-ocd-bill/4316e9e4-b51b-4da5-9311-9bab4a569b8a",
+    "level": "state",
+    "state": "Montana",
+    "title": "Establish data center operations transparency",
+    "body": "Montana Legislature",
+    "status": "Bill",
+    "date": "2026-11-09T21:38:59+00:00",
+    "sourceUrl": "https://bills.legmt.gov/#/lc/bill/3/LC1422"
+  },
+  {
+    "id": "state-ocd-bill/3be09341-4651-4255-8839-5476091bdda5",
+    "level": "state",
+    "state": "Montana",
+    "title": "Generally revise data center laws",
+    "body": "Montana Legislature",
+    "status": "Bill",
+    "date": "2026-11-09T21:49:58+00:00",
+    "sourceUrl": "https://bills.legmt.gov/#/lc/bill/3/LC1447"
+  },
+  {
+    "id": "state-ocd-bill/ea36a286-f069-4c38-9898-d774a105067c",
+    "level": "state",
+    "state": "Montana",
+    "title": "Establish electricity use tax for data centers",
+    "body": "Montana Legislature",
+    "status": "Bill",
+    "date": "2026-11-09T21:37:35+00:00",
+    "sourceUrl": "https://bills.legmt.gov/#/lc/bill/3/LC1419"
+  },
+  {
+    "id": "state-ocd-bill/7e079998-cff9-4ef7-8eba-0bb4c20436e1",
+    "level": "state",
+    "state": "Montana",
+    "title": "Generally revise data center laws",
+    "body": "Montana Legislature",
+    "status": "Bill",
+    "date": "2026-11-09T21:49:41+00:00",
+    "sourceUrl": "https://bills.legmt.gov/#/lc/bill/3/LC1446"
+  },
+  {
+    "id": "state-ocd-bill/072f923f-17b7-452d-857b-aceb522d5f3d",
+    "level": "state",
+    "state": "Montana",
+    "title": "Repeal data center property tax classification",
+    "body": "Montana Legislature",
+    "status": "Bill",
+    "date": "2026-11-09T21:40:44+00:00",
+    "sourceUrl": "https://bills.legmt.gov/#/lc/bill/3/LC1426"
   }
 ]
