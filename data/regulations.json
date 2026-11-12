@@ -2978,5 +2978,165 @@
     "status": "Bill",
     "date": "2026-11-02",
     "sourceUrl": "https://lis.virginia.gov/bill-details/20271/SB850"
+  },
+  {
+    "id": "state-ocd-bill/7b56d159-4930-4bf8-8265-677af78df5e6",
+    "level": "state",
+    "state": "Texas",
+    "title": "Relating to data centers.",
+    "body": "Senate",
+    "status": "Bill",
+    "date": "2026-11-12",
+    "sourceUrl": "ftp://ftp.legis.state.tx.us/bills/90R/billhistory/senate_bills/SB00300_SB00399/SB 338.xml"
+  },
+  {
+    "id": "state-ocd-bill/63ca05b7-dcc5-4fa0-8b5d-ccc2aa4b9325",
+    "level": "state",
+    "state": "Texas",
+    "title": "Relating to the public disclosure of local economic development agreements involving data centers.",
+    "body": "House",
+    "status": "Bill",
+    "date": "2026-11-09",
+    "sourceUrl": "ftp://ftp.legis.state.tx.us/bills/90R/billhistory/house_bills/HB00700_HB00799/HB 734.xml"
+  },
+  {
+    "id": "state-ocd-bill/0dcd0a44-6bc6-4558-9c6b-df1a36ff19cc",
+    "level": "state",
+    "state": "Texas",
+    "title": "Relating to the repealing of the sales tax exemption for data centers.",
+    "body": "House",
+    "status": "Bill",
+    "date": "2026-11-09",
+    "sourceUrl": "ftp://ftp.legis.state.tx.us/bills/90R/billhistory/house_bills/HB00700_HB00799/HB 750.xml"
+  },
+  {
+    "id": "state-ocd-bill/e501d7d5-d4b6-4ceb-827a-b079932df795",
+    "level": "state",
+    "state": "Texas",
+    "title": "Relating to required municipal and county approval to construct a data center.",
+    "body": "House",
+    "status": "Bill",
+    "date": "2026-11-09",
+    "sourceUrl": "ftp://ftp.legis.state.tx.us/bills/90R/billhistory/house_bills/HB00900_HB00999/HB 928.xml"
+  },
+  {
+    "id": "state-ocd-bill/53f81114-cc16-48ca-ad7a-8fa5b9ec922f",
+    "level": "state",
+    "state": "Texas",
+    "title": "Relating to the repeal of the sales and use tax exemptions for data centers and the ineligibility of data centers for enterprise project tax refunds.",
+    "body": "House",
+    "status": "Bill",
+    "date": "2026-11-09",
+    "sourceUrl": "ftp://ftp.legis.state.tx.us/bills/90R/billhistory/house_bills/HB00800_HB00899/HB 851.xml"
+  },
+  {
+    "id": "state-ocd-bill/257f8fb4-8fce-4c36-94a1-49ae3d9e6a77",
+    "level": "state",
+    "state": "Texas",
+    "title": "Relating to the ineligibility of certain data centers for state and local economic development incentives.",
+    "body": "House",
+    "status": "Bill",
+    "date": "2026-11-09",
+    "sourceUrl": "ftp://ftp.legis.state.tx.us/bills/90R/billhistory/house_bills/HB00700_HB00799/HB 732.xml"
+  },
+  {
+    "id": "state-ocd-bill/d658a31a-dd27-4261-a451-d0bd1dbc1cdb",
+    "level": "state",
+    "state": "Texas",
+    "title": "Relating to prohibiting certain governmental entities from entering into an agreement prohibiting the entity from releasing certain information regarding a data center project.",
+    "body": "House",
+    "status": "Bill",
+    "date": "2026-11-09",
+    "sourceUrl": "ftp://ftp.legis.state.tx.us/bills/90R/billhistory/house_bills/HB00600_HB00699/HB 696.xml"
+  },
+  {
+    "id": "state-ocd-bill/8841b2f1-052e-4356-9cf8-d4ac1a55d063",
+    "level": "state",
+    "state": "Texas",
+    "title": "Relating to the repeal of the exemptions from sales and use taxes for property used in certain data centers and large data center projects.",
+    "body": "Senate",
+    "status": "Bill",
+    "date": "2026-11-09",
+    "sourceUrl": "ftp://ftp.legis.state.tx.us/bills/90R/billhistory/senate_bills/SB00200_SB00299/SB 293.xml"
+  },
+  {
+    "id": "state-ocd-bill/3bb3fb72-c6ec-4685-9b9c-a2034817d438",
+    "level": "state",
+    "state": "Texas",
+    "title": "Relating to the repeal of the exemptions from sales and use taxes for property used in certain data centers and large data center projects.",
+    "body": "House",
+    "status": "Bill",
+    "date": "2026-11-09",
+    "sourceUrl": "ftp://ftp.legis.state.tx.us/bills/90R/billhistory/house_bills/HB00600_HB00699/HB 681.xml"
+  },
+  {
+    "id": "state-ocd-bill/1259f0c4-9cb8-4bc7-985e-10045003e7bb",
+    "level": "state",
+    "state": "Texas",
+    "title": "Relating to certain requirements applicable to governmental entities with respect to an agreement prohibiting the release of information regarding a data center project; providing a civil penalty.",
+    "body": "House",
+    "status": "Bill",
+    "date": "2026-11-09",
+    "sourceUrl": "ftp://ftp.legis.state.tx.us/bills/90R/billhistory/house_bills/HB00300_HB00399/HB 374.xml"
+  },
+  {
+    "id": "state-ocd-bill/4c4e1aef-b0d6-4f2d-88f2-43f2fe3f3fa2",
+    "level": "state",
+    "state": "Texas",
+    "title": "Relating to the repeal of the exemptions from sales and use taxes for property used in certain data centers and large data center projects.",
+    "body": "House",
+    "status": "Bill",
+    "date": "2026-11-09",
+    "sourceUrl": "ftp://ftp.legis.state.tx.us/bills/90R/billhistory/house_bills/HB00400_HB00499/HB 408.xml"
+  },
+  {
+    "id": "state-ocd-bill/2737d90d-e487-4a78-9280-6d1a8f09d771",
+    "level": "state",
+    "state": "Texas",
+    "title": "Relating to water conservation plans, data center and related facility water use and wastewater reporting, water resource impact assessments, notice to local entities, public participation, and public disclosure; providing for enforcement and fees.",
+    "body": "House",
+    "status": "Bill",
+    "date": "2026-11-09",
+    "sourceUrl": "ftp://ftp.legis.state.tx.us/bills/90R/billhistory/house_bills/HB00500_HB00599/HB 529.xml"
+  },
+  {
+    "id": "state-ocd-bill/e61c1088-6232-40dd-89aa-126ef8a74d8e",
+    "level": "state",
+    "state": "Texas",
+    "title": "Relating to the siting, construction, permitting, and operation of certain data centers; requiring local option elections; imposing a temporary moratorium; establishing an annual payments to county residents; repealing certain tax exemptions; providing civil penalties.",
+    "body": "Senate",
+    "status": "Bill",
+    "date": "2026-11-09",
+    "sourceUrl": "ftp://ftp.legis.state.tx.us/bills/90R/billhistory/senate_bills/SB00200_SB00299/SB 296.xml"
+  },
+  {
+    "id": "state-ocd-bill/0fdc9a01-18d1-46e7-9989-994da876bc7f",
+    "level": "state",
+    "state": "Texas",
+    "title": "Relating to election and public hearing requirements before a municipality may enter into a data center development agreement under certain economic development programs.",
+    "body": "House",
+    "status": "Bill",
+    "date": "2026-11-09",
+    "sourceUrl": "ftp://ftp.legis.state.tx.us/bills/90R/billhistory/house_bills/HB00700_HB00799/HB 706.xml"
+  },
+  {
+    "id": "state-ocd-bill/9887fef1-cc5c-4404-896a-f54fa68ecfa4",
+    "level": "state",
+    "state": "Texas",
+    "title": "Relating to the eligibility of data centers and large data center projects to participate in certain incentive programs offered by the state and local governments.",
+    "body": "Senate",
+    "status": "Bill",
+    "date": "2026-11-09",
+    "sourceUrl": "ftp://ftp.legis.state.tx.us/bills/90R/billhistory/senate_bills/SB00001_SB00099/SB 36.xml"
+  },
+  {
+    "id": "state-ocd-bill/b6cf45e6-cd3b-410f-b1ba-edebed847292",
+    "level": "state",
+    "state": "Texas",
+    "title": "Relating to the repeal of the exemptions from sales and use taxes for property used in certain data centers and large data center projects.",
+    "body": "House",
+    "status": "Bill",
+    "date": "2026-11-09",
+    "sourceUrl": "ftp://ftp.legis.state.tx.us/bills/90R/billhistory/house_bills/HB00100_HB00199/HB 167.xml"
   }
 ]
