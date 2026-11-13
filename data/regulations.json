@@ -3138,5 +3138,15 @@
     "status": "Bill",
     "date": "2026-11-09",
     "sourceUrl": "ftp://ftp.legis.state.tx.us/bills/90R/billhistory/house_bills/HB00100_HB00199/HB 167.xml"
+  },
+  {
+    "id": "state-ocd-bill/edc36da6-d48d-4cc2-b68b-36faa9b3ee6e",
+    "level": "state",
+    "state": "Texas",
+    "title": "Relating to the repeal of the exemptions from sales and use taxes for property used in certain data centers and large data center projects.",
+    "body": "House",
+    "status": "Bill",
+    "date": "2026-11-13",
+    "sourceUrl": "ftp://ftp.legis.state.tx.us/bills/90R/billhistory/house_bills/HB01100_HB01199/HB 1139.xml"
   }
 ]
