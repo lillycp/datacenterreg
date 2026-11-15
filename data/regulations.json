@@ -3148,5 +3148,15 @@
     "status": "Bill",
     "date": "2026-11-13",
     "sourceUrl": "ftp://ftp.legis.state.tx.us/bills/90R/billhistory/house_bills/HB01100_HB01199/HB 1139.xml"
+  },
+  {
+    "id": "state-ocd-bill/0caf4a0f-3a80-4486-9a9a-1dac180d1611",
+    "level": "state",
+    "state": "Montana",
+    "title": "Generally revise laws related to data centers",
+    "body": "Montana Legislature",
+    "status": "Bill",
+    "date": "2026-11-14T15:16:45+00:00",
+    "sourceUrl": "https://bills.legmt.gov/#/lc/bill/3/LC1553"
   }
 ]
