@@ -3158,5 +3158,15 @@
     "status": "Bill",
     "date": "2026-11-14T15:16:45+00:00",
     "sourceUrl": "https://bills.legmt.gov/#/lc/bill/3/LC1553"
+  },
+  {
+    "id": "state-ocd-bill/01ab67bd-8ee1-4c24-b044-f403a1172f21",
+    "level": "state",
+    "state": "Ohio",
+    "title": "Prohibit new data center sales tax exemptions",
+    "body": "Senate",
+    "status": "Bill",
+    "date": "2026-03-25T04:00:00+00:00",
+    "sourceUrl": "https://www.legislature.ohio.gov/legislation/136/sb374"
   }
 ]
