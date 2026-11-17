@@ -726,7 +726,7 @@
     "title": "Tier 2 emergency generators; SCC shall evaluate impact of requiring data centers to limit use, etc.",
     "body": "Senate",
     "status": "Bill",
-    "date": "2026-07-21",
+    "date": "2026-11-17",
     "sourceUrl": "https://lis.virginia.gov/bill-details/20271/SB336"
   },
   {
@@ -736,7 +736,7 @@
     "title": "Virginia's Great Outdoors Act; established, creates data center land conservation tax.",
     "body": "House",
     "status": "Bill",
-    "date": "2026-07-21",
+    "date": "2026-11-17",
     "sourceUrl": "https://lis.virginia.gov/bill-details/20271/HB641"
   },
   {
@@ -766,7 +766,7 @@
     "title": "Local approval of data centers; temporary moratorium.",
     "body": "House",
     "status": "Bill",
-    "date": "2026-07-21",
+    "date": "2026-11-17",
     "sourceUrl": "https://lis.virginia.gov/bill-details/20271/HB1515"
   },
   {
@@ -776,7 +776,7 @@
     "title": "Electric utilities; cost recovery, costs substantially related to serving data center customers.",
     "body": "House",
     "status": "Bill",
-    "date": "2026-07-21",
+    "date": "2026-11-17",
     "sourceUrl": "https://lis.virginia.gov/bill-details/20271/HB503"
   },
   {
@@ -786,7 +786,7 @@
     "title": "Data center tax revenue; creates local residential renewable energy incentive program.",
     "body": "House",
     "status": "Bill",
-    "date": "2026-07-21",
+    "date": "2026-11-17",
     "sourceUrl": "https://lis.virginia.gov/bill-details/20271/HB1132"
   },
   {
@@ -816,7 +816,7 @@
     "title": "Aggregate air pollution; Department of Environmental Quality to study, data center generators.",
     "body": "House",
     "status": "Bill",
-    "date": "2026-07-21",
+    "date": "2026-11-17",
     "sourceUrl": "https://lis.virginia.gov/bill-details/20271/HB607"
   },
   {
@@ -1176,7 +1176,7 @@
     "title": "Prohibits agreements intended to conceal certain information concerning development of data centers under MLUL.",
     "body": "Assembly",
     "status": "Bill",
-    "date": "2026-01-13T05:00:00+00:00",
+    "date": "2026-11-16T05:00:00+00:00",
     "sourceUrl": "https://www.njleg.state.nj.us/bill-search/2026/A2774"
   },
   {
@@ -1776,7 +1776,7 @@
     "title": "Prohibits agreements intended to conceal certain information concerning development of data centers under MLUL.",
     "body": "Senate",
     "status": "Bill",
-    "date": "2026-10-29T04:00:00+00:00",
+    "date": "2026-11-16T05:00:00+00:00",
     "sourceUrl": "https://www.njleg.state.nj.us/bill-search/2026/S4304"
   },
   {
@@ -2666,7 +2666,7 @@
     "title": "Establishes \"Data Center Standards Task Force\" in DCA.",
     "body": "Assembly",
     "status": "Bill",
-    "date": "",
+    "date": "2026-11-16T05:00:00+00:00",
     "sourceUrl": "https://www.njleg.state.nj.us/bill-search/2026/A5754"
   },
   {
@@ -2676,7 +2676,7 @@
     "title": "\"Ratepayer-Indifference Act\"; establishes certain requirements for provision of electric public utility service to certain data centers.",
     "body": "Assembly",
     "status": "Bill",
-    "date": "",
+    "date": "2026-11-16T05:00:00+00:00",
     "sourceUrl": "https://www.njleg.state.nj.us/bill-search/2026/A5811"
   },
   {
@@ -2686,7 +2686,7 @@
     "title": "Directs Division of Local Planning Services in DCA to develop and publish Data Center Planning and Community Engagement Toolkit.",
     "body": "Assembly",
     "status": "Bill",
-    "date": "",
+    "date": "2026-11-16T05:00:00+00:00",
     "sourceUrl": "https://www.njleg.state.nj.us/bill-search/2026/A5755"
   },
   {
@@ -3168,5 +3168,25 @@
     "status": "Bill",
     "date": "2026-03-25T04:00:00+00:00",
     "sourceUrl": "https://www.legislature.ohio.gov/legislation/136/sb374"
+  },
+  {
+    "id": "state-ocd-bill/8643bffe-14ed-49e8-88a0-76de868df01d",
+    "level": "state",
+    "state": "New Jersey",
+    "title": "Requires data center developers to disclose certain information to public and elected officials before preliminary site plan consideration under MLUL.",
+    "body": "Assembly",
+    "status": "Bill",
+    "date": "2026-11-16T05:00:00+00:00",
+    "sourceUrl": "https://www.njleg.state.nj.us/bill-search/2026/A5224"
+  },
+  {
+    "id": "state-ocd-bill/2410cb89-f0dd-43e0-a4d2-d458a067b680",
+    "level": "state",
+    "state": "New Jersey",
+    "title": "Establishes emissions limits for certain electric power generators used by data centers.",
+    "body": "Assembly",
+    "status": "Bill",
+    "date": "",
+    "sourceUrl": "https://www.njleg.state.nj.us/bill-search/2026/A5845"
   }
 ]
