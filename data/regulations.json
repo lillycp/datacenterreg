@@ -236,7 +236,7 @@
     "title": "HYPERSCALE DATA CENTERS",
     "body": "House",
     "status": "Bill",
-    "date": "2026-10-23",
+    "date": "2026-11-17",
     "sourceUrl": "https://ilga.gov/Legislation/BillStatus?DocNum=5513&GAID=18&DocTypeID=HB&LegId=167488&SessionID=114"
   },
   {
@@ -1173,7 +1173,7 @@
     "id": "state-ocd-bill/46dacb83-904e-4ab8-a07a-0ce085d92ea5",
     "level": "state",
     "state": "New Jersey",
-    "title": "Prohibits agreements intended to conceal certain information concerning development of data centers under MLUL.",
+    "title": "Establishes certain notice requirements and prohibits agreements intended to conceal certain information concerning development of large-scale data centers under MLUL.*",
     "body": "Assembly",
     "status": "Bill",
     "date": "2026-11-16T05:00:00+00:00",
@@ -1773,7 +1773,7 @@
     "id": "state-ocd-bill/5ac2e9df-e23b-4ba7-b896-51177d442cfb",
     "level": "state",
     "state": "New Jersey",
-    "title": "Prohibits agreements intended to conceal certain information concerning development of data centers under MLUL.",
+    "title": "Establishes certain notice requirements and prohibits agreements intended to conceal certain information concerning development of large-scale data centers under MLUL.*",
     "body": "Senate",
     "status": "Bill",
     "date": "2026-11-16T05:00:00+00:00",
@@ -1806,7 +1806,7 @@
     "title": "LOC GOVT-DATA CENTER",
     "body": "House",
     "status": "Bill",
-    "date": "2026-10-02",
+    "date": "2026-11-17",
     "sourceUrl": "https://ilga.gov/Legislation/BillStatus?DocNum=5818&GAID=18&DocTypeID=HB&LegId=168940&SessionID=114"
   },
   {
@@ -2026,7 +2026,7 @@
     "title": "DATA CENTER ENERGY ACCOUNT",
     "body": "House",
     "status": "Bill",
-    "date": "2026-10-19",
+    "date": "2026-11-17",
     "sourceUrl": "https://ilga.gov/Legislation/BillStatus?DocNum=5826&GAID=18&DocTypeID=HB&LegId=168970&SessionID=114"
   },
   {
@@ -3188,5 +3188,15 @@
     "status": "Bill",
     "date": "",
     "sourceUrl": "https://www.njleg.state.nj.us/bill-search/2026/A5845"
+  },
+  {
+    "id": "state-ocd-bill/bc6d0909-d802-476a-aab3-d10d5e0f3523",
+    "level": "state",
+    "state": "Alaska",
+    "title": "An Act relating to data centers; and relating to utility service for data centers.",
+    "body": "Senate",
+    "status": "Bill",
+    "date": "2026-05-18",
+    "sourceUrl": "https://www.akleg.gov/basis/Bill/Detail/34?Root=SB250"
   }
 ]
