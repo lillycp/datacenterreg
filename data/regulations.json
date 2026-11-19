@@ -236,7 +236,7 @@
     "title": "HYPERSCALE DATA CENTERS",
     "body": "House",
     "status": "Bill",
-    "date": "2026-11-17",
+    "date": "2026-11-18",
     "sourceUrl": "https://ilga.gov/Legislation/BillStatus?DocNum=5513&GAID=18&DocTypeID=HB&LegId=167488&SessionID=114"
   },
   {
@@ -326,7 +326,7 @@
     "title": "HYPERSCALE DATA CENTERS",
     "body": "Senate",
     "status": "Bill",
-    "date": "2026-11-13",
+    "date": "2026-11-18",
     "sourceUrl": "https://ilga.gov/Legislation/BillStatus?DocNum=4016&GAID=18&DocTypeID=SB&LegId=167565&SessionID=114"
   },
   {
@@ -3198,5 +3198,125 @@
     "status": "Bill",
     "date": "2026-05-18",
     "sourceUrl": "https://www.akleg.gov/basis/Bill/Detail/34?Root=SB250"
+  },
+  {
+    "id": "state-ocd-bill/e5b9ab7d-aa29-44f0-a279-fffebaea7aa9",
+    "level": "state",
+    "state": "Montana",
+    "title": "Generally revise laws related to data centers",
+    "body": "Montana Legislature",
+    "status": "Bill",
+    "date": "2026-11-18T20:29:24+00:00",
+    "sourceUrl": "https://bills.legmt.gov/#/lc/bill/3/LC1863"
+  },
+  {
+    "id": "state-ocd-bill/b3079a22-a637-4e05-817b-cd6387718710",
+    "level": "state",
+    "state": "Georgia",
+    "title": "Public Service Commission; costs incurred by an electric utility as a result of providing electric services to commercial data centers from being included in any rates; prohibit",
+    "body": "Senate",
+    "status": "Bill",
+    "date": "2026-02-25",
+    "sourceUrl": "http://webservices.legis.ga.gov/GGAServices/Members/Service.svc?wsdl"
+  },
+  {
+    "id": "state-ocd-bill/595044fd-9b2b-499a-b98a-53fa27423caa",
+    "level": "state",
+    "state": "Georgia",
+    "title": "Sales and use tax; exemption for certain high-technology data center equipment; revise sunset date",
+    "body": "House",
+    "status": "Bill",
+    "date": "2025-02-21",
+    "sourceUrl": "http://webservices.legis.ga.gov/GGAServices/Members/Service.svc?wsdl"
+  },
+  {
+    "id": "state-ocd-bill/a2ed69e5-a052-4553-83f7-a3922a9bcd90",
+    "level": "state",
+    "state": "Georgia",
+    "title": "Local government; construction or development of new data centers for a specified time; prohibit",
+    "body": "House",
+    "status": "Bill",
+    "date": "2026-01-28",
+    "sourceUrl": "http://webservices.legis.ga.gov/GGAServices/Members/Service.svc?wsdl"
+  },
+  {
+    "id": "state-ocd-bill/9b76ffb5-275d-456f-b376-7ac90f8b533d",
+    "level": "state",
+    "state": "Georgia",
+    "title": "Ad valorem tax; state-wide homestead exemption in an amount as determined from proceeds generated from collection of certain ad valorem property taxes on data centers",
+    "body": "House",
+    "status": "Bill",
+    "date": "2026-02-24",
+    "sourceUrl": "http://webservices.legis.ga.gov/GGAServices/Members/Service.svc?wsdl"
+  },
+  {
+    "id": "state-ocd-bill/3d0d7fa7-831c-47f7-b7a9-315ea60d3654",
+    "level": "state",
+    "state": "Georgia",
+    "title": "State Sales and Use Taxes; the data center equipment sales and use tax exemption; repeal",
+    "body": "Senate",
+    "status": "Bill",
+    "date": "2026-03-10",
+    "sourceUrl": "http://webservices.legis.ga.gov/GGAServices/Members/Service.svc?wsdl"
+  },
+  {
+    "id": "state-ocd-bill/d90df44e-8a58-40ef-a81d-f50a6f3cbf0b",
+    "level": "state",
+    "state": "Georgia",
+    "title": "Electrical service; require new data centers to operate as hybrid power data centers",
+    "body": "House",
+    "status": "Bill",
+    "date": "2026-02-19",
+    "sourceUrl": "http://webservices.legis.ga.gov/GGAServices/Members/Service.svc?wsdl"
+  },
+  {
+    "id": "state-ocd-bill/87bb32e1-fbc9-4355-8fec-42fe39a06250",
+    "level": "state",
+    "state": "Georgia",
+    "title": "State Sales and Use Taxes; data center equipment sales and use tax exemption; advance the sunset date",
+    "body": "Senate",
+    "status": "Bill",
+    "date": "2026-01-16",
+    "sourceUrl": "http://webservices.legis.ga.gov/GGAServices/Members/Service.svc?wsdl"
+  },
+  {
+    "id": "state-ocd-bill/5d325a49-e343-4449-ab00-cf8ee15866c6",
+    "level": "state",
+    "state": "Georgia",
+    "title": "Electric utilities; protect residential and retail electricity customers from costs associated with data center construction and operation; require",
+    "body": "House",
+    "status": "Bill",
+    "date": "2026-02-18",
+    "sourceUrl": "http://webservices.legis.ga.gov/GGAServices/Members/Service.svc?wsdl"
+  },
+  {
+    "id": "state-ocd-bill/f1f3464c-84fd-45be-b454-e0658f67a3b9",
+    "level": "state",
+    "state": "Georgia",
+    "title": "\"The Data Center Transparency Act\"; enact",
+    "body": "Senate",
+    "status": "Bill",
+    "date": "2026-01-27",
+    "sourceUrl": "http://webservices.legis.ga.gov/GGAServices/Members/Service.svc?wsdl"
+  },
+  {
+    "id": "state-ocd-bill/1915d2ce-9414-494a-bd62-075ca0a4f75f",
+    "level": "state",
+    "state": "Georgia",
+    "title": "Data Center Impact Assessment and Development Moratorium Act of 2026; enact",
+    "body": "House",
+    "status": "Bill",
+    "date": "2026-02-02",
+    "sourceUrl": "http://webservices.legis.ga.gov/GGAServices/Members/Service.svc?wsdl"
+  },
+  {
+    "id": "state-ocd-bill/1474fa42-a925-4c53-bcb8-27df898cf240",
+    "level": "state",
+    "state": "Texas",
+    "title": "Relating to the portion of the value of property that is a data center that may be exempted from ad valorem taxation under agreements entered into under the Property Redevelopment and Tax Abatement Act.",
+    "body": "House",
+    "status": "Bill",
+    "date": "2026-11-18",
+    "sourceUrl": "ftp://ftp.legis.state.tx.us/bills/90R/billhistory/house_bills/HB01200_HB01299/HB 1225.xml"
   }
 ]
