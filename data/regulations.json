@@ -3318,5 +3318,45 @@
     "status": "Bill",
     "date": "2026-11-18",
     "sourceUrl": "ftp://ftp.legis.state.tx.us/bills/90R/billhistory/house_bills/HB01200_HB01299/HB 1225.xml"
+  },
+  {
+    "id": "state-ocd-bill/fe92b097-26fa-479c-98b5-4f3e15ec4b05",
+    "level": "state",
+    "state": "Texas",
+    "title": "Relating to registration and community outreach requirements for large data centers.",
+    "body": "House",
+    "status": "Bill",
+    "date": "2026-11-19",
+    "sourceUrl": "ftp://ftp.legis.state.tx.us/bills/90R/billhistory/house_bills/HB01200_HB01299/HB 1255.xml"
+  },
+  {
+    "id": "state-ocd-bill/49a17be3-5eab-410c-b0b7-34b35337bc86",
+    "level": "state",
+    "state": "Montana",
+    "title": "Provide for moratorium on data centers",
+    "body": "Montana Legislature",
+    "status": "Bill",
+    "date": "2026-11-19T14:26:41+00:00",
+    "sourceUrl": "https://bills.legmt.gov/#/lc/bill/3/LC1939"
+  },
+  {
+    "id": "state-ocd-bill/0e7e5aef-6a4c-4c48-bde1-7929408c3b20",
+    "level": "state",
+    "state": "Montana",
+    "title": "Generally revise data center laws",
+    "body": "Montana Legislature",
+    "status": "Bill",
+    "date": "2026-11-19T14:24:35+00:00",
+    "sourceUrl": "https://bills.legmt.gov/#/lc/bill/3/LC1936"
+  },
+  {
+    "id": "state-ocd-bill/ef528b42-444a-43b0-bc86-ff9adcb60791",
+    "level": "state",
+    "state": "Texas",
+    "title": "Relating to requiring an applicant for a permit issued by the Texas Commission on Environmental Quality relating to the operation of a data center to notify the commissioners court of the county in which the data center is or will be located.",
+    "body": "House",
+    "status": "Bill",
+    "date": "2026-11-19",
+    "sourceUrl": "ftp://ftp.legis.state.tx.us/bills/90R/billhistory/house_bills/HB01200_HB01299/HB 1252.xml"
   }
 ]
