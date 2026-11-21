@@ -1873,10 +1873,10 @@
     "id": "state-ocd-bill/6e0693a6-1397-4976-aa13-7251ce7cb1a7",
     "level": "state",
     "state": "Montana",
-    "title": "Generally revise law relating to data centers",
+    "title": "Establish large-scale data center prohibition act",
     "body": "Montana Legislature",
     "status": "Bill",
-    "date": "2026-09-08T16:41:54+00:00",
+    "date": "2026-11-20T17:47:29+00:00",
     "sourceUrl": "https://bills.legmt.gov/#/lc/bill/3/LC0020"
   },
   {
@@ -3358,5 +3358,35 @@
     "status": "Bill",
     "date": "2026-11-19",
     "sourceUrl": "ftp://ftp.legis.state.tx.us/bills/90R/billhistory/house_bills/HB01200_HB01299/HB 1252.xml"
+  },
+  {
+    "id": "state-ocd-bill/43e6c10d-7664-4412-bd54-077785263066",
+    "level": "state",
+    "state": "Texas",
+    "title": "Relating to the public disclosure of local economic development agreements involving data centers.",
+    "body": "House",
+    "status": "Bill",
+    "date": "2026-11-20",
+    "sourceUrl": "ftp://ftp.legis.state.tx.us/bills/90R/billhistory/house_bills/HB01200_HB01299/HB 1272.xml"
+  },
+  {
+    "id": "state-ocd-bill/3c91ec9c-8f30-4afe-bf5b-d15f43386cc2",
+    "level": "state",
+    "state": "Texas",
+    "title": "Relating to the repeal of the exemptions from sales and use taxes for property used in certain data centers and large data center projects.",
+    "body": "House",
+    "status": "Bill",
+    "date": "2026-11-20",
+    "sourceUrl": "ftp://ftp.legis.state.tx.us/bills/90R/billhistory/house_bills/HB01200_HB01299/HB 1271.xml"
+  },
+  {
+    "id": "state-ocd-bill/5391ea4b-61fd-463c-abc3-446d3bf0932a",
+    "level": "state",
+    "state": "Texas",
+    "title": "Relating to the siting, construction, permitting, and operation of certain data centers; requiring local option elections; imposing a temporary moratorium; establishing an annual payments to county residents; repealing certain tax exemptions; providing civil penalties.",
+    "body": "House",
+    "status": "Bill",
+    "date": "2026-11-20",
+    "sourceUrl": "ftp://ftp.legis.state.tx.us/bills/90R/billhistory/house_bills/HB01200_HB01299/HB 1273.xml"
   }
 ]
