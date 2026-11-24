@@ -3388,5 +3388,35 @@
     "status": "Bill",
     "date": "2026-11-20",
     "sourceUrl": "ftp://ftp.legis.state.tx.us/bills/90R/billhistory/house_bills/HB01200_HB01299/HB 1273.xml"
+  },
+  {
+    "id": "state-ocd-bill/196bb4f9-ffdd-4d95-9420-27910472a2c2",
+    "level": "state",
+    "state": "Nevada",
+    "title": "Establishes certain provisions relating to the responsible development of data centers.",
+    "body": "Nevada Legislature",
+    "status": "Proposed bill",
+    "date": "2026-11-09",
+    "sourceUrl": "https://www.leg.state.nv.us/App/NELIS/REL/84th2027/Bdrs/List"
+  },
+  {
+    "id": "state-ocd-bill/61b91bf7-0c46-4eba-a8be-d987fb5a0d21",
+    "level": "state",
+    "state": "Montana",
+    "title": "Generally revise data center laws",
+    "body": "Montana Legislature",
+    "status": "Bill",
+    "date": "",
+    "sourceUrl": "https://bills.legmt.gov/#/lc/bill/3/LC2062"
+  },
+  {
+    "id": "state-ocd-bill/bc6d9ff8-b932-49c5-9d15-a3d5c1e2d76d",
+    "level": "state",
+    "state": "Montana",
+    "title": "Generally revise data center laws",
+    "body": "Montana Legislature",
+    "status": "Bill",
+    "date": "",
+    "sourceUrl": "https://bills.legmt.gov/#/lc/bill/3/LC2075"
   }
 ]
