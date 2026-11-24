@@ -236,7 +236,7 @@
     "title": "HYPERSCALE DATA CENTERS",
     "body": "House",
     "status": "Bill",
-    "date": "2026-11-18",
+    "date": "2026-11-23",
     "sourceUrl": "https://ilga.gov/Legislation/BillStatus?DocNum=5513&GAID=18&DocTypeID=HB&LegId=167488&SessionID=114"
   },
   {
@@ -2046,7 +2046,7 @@
     "title": "Requires DEP to conduct study of short and long term effects of water use by large-scale data centers.",
     "body": "Assembly",
     "status": "Bill",
-    "date": "2026-10-29T04:00:00+00:00",
+    "date": "2026-11-23T05:00:00+00:00",
     "sourceUrl": "https://www.njleg.state.nj.us/bill-search/2026/A3966"
   },
   {
@@ -2176,7 +2176,7 @@
     "title": "Requires data center developers to provide certain notice to public before preliminary site plan consideration and hearing under MLUL; requires DCA to maintain related public notice website.",
     "body": "Senate",
     "status": "Bill",
-    "date": "",
+    "date": "2026-11-23T05:00:00+00:00",
     "sourceUrl": "https://www.njleg.state.nj.us/bill-search/2026/S4883"
   },
   {
@@ -2186,7 +2186,7 @@
     "title": "Establishes Data Center Community Intervenor Compensation Grant Program and fund in DCA to provide financial assistance for certain data center-related services; appropriates $10 million.",
     "body": "Senate",
     "status": "Bill",
-    "date": "",
+    "date": "2026-11-23T05:00:00+00:00",
     "sourceUrl": "https://www.njleg.state.nj.us/bill-search/2026/S4881"
   },
   {
@@ -2206,7 +2206,7 @@
     "title": "Concerns noise abatement of data centers.",
     "body": "Senate",
     "status": "Bill",
-    "date": "",
+    "date": "2026-11-23T05:00:00+00:00",
     "sourceUrl": "https://www.njleg.state.nj.us/bill-search/2026/S4889"
   },
   {
@@ -3406,7 +3406,7 @@
     "title": "Generally revise data center laws",
     "body": "Montana Legislature",
     "status": "Bill",
-    "date": "",
+    "date": "2026-11-23T13:41:16+00:00",
     "sourceUrl": "https://bills.legmt.gov/#/lc/bill/3/LC2062"
   },
   {
@@ -3416,7 +3416,27 @@
     "title": "Generally revise data center laws",
     "body": "Montana Legislature",
     "status": "Bill",
-    "date": "",
+    "date": "2026-11-23T13:48:42+00:00",
     "sourceUrl": "https://bills.legmt.gov/#/lc/bill/3/LC2075"
+  },
+  {
+    "id": "state-ocd-bill/f7d4239d-8f9b-4d2a-abc9-186bbf593ac3",
+    "level": "state",
+    "state": "New Jersey",
+    "title": "Establishes \"Data Center Standards Task Force\" in DCA.",
+    "body": "Senate",
+    "status": "Bill",
+    "date": "",
+    "sourceUrl": "https://www.njleg.state.nj.us/bill-search/2026/S4990"
+  },
+  {
+    "id": "state-ocd-bill/2f08a995-cc0a-48f3-9c27-de3fa0aaef91",
+    "level": "state",
+    "state": "New Jersey",
+    "title": "Directs Division of Local Planning Services in DCA to develop and publish Data Center Planning and Community Engagement Toolkit.",
+    "body": "Senate",
+    "status": "Bill",
+    "date": "",
+    "sourceUrl": "https://www.njleg.state.nj.us/bill-search/2026/S4991"
   }
 ]
