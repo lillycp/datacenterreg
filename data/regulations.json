@@ -3438,5 +3438,25 @@
     "status": "Bill",
     "date": "",
     "sourceUrl": "https://www.njleg.state.nj.us/bill-search/2026/S4991"
+  },
+  {
+    "id": "state-ocd-bill/1e722576-9714-4948-9982-dde2f13ce2f3",
+    "level": "state",
+    "state": "South Carolina",
+    "title": "Data Center Moratorium",
+    "body": "House",
+    "status": "Joint resolution",
+    "date": "2026-04-14",
+    "sourceUrl": "https://www.scstatehouse.gov/billsearch.php?billnumbers=5526&session=126&summary=B"
+  },
+  {
+    "id": "state-ocd-bill/c56b43ac-c8f3-4c40-a966-7edefe317a1c",
+    "level": "state",
+    "state": "South Carolina",
+    "title": "Data Center Moratorium",
+    "body": "House",
+    "status": "Joint resolution",
+    "date": "2026-03-31",
+    "sourceUrl": "https://www.scstatehouse.gov/billsearch.php?billnumbers=5286&session=126&summary=B"
   }
 ]
